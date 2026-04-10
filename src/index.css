@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@theme {
+  --color-da-burgundy: #8B032C;
+  --color-da-gold: #FFC60B;
+  
+  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+@layer base {
+  body {
+    @apply bg-gray-50 text-gray-800 font-sans antialiased m-0;
+  }
+}
+
+/* Base resets for institutional theme */
+@layer utilities {
+  .btn-primary {
+    @apply bg-da-burgundy text-white px-4 py-2 rounded-md font-medium hover:bg-[#6b0222] transition-colors focus:ring-2 focus:ring-offset-2 focus:ring-da-burgundy outline-none;
+  }
+  .btn-outline {
+    @apply border border-da-burgundy text-da-burgundy px-4 py-2 rounded-md font-medium hover:bg-red-50 transition-colors focus:ring-2 focus:ring-offset-2 focus:ring-da-burgundy outline-none;
+  }
+}
