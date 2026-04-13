@@ -17,7 +17,7 @@ def extract_courses():
     # Then we capture everything until the next course or end of string.
     # Note: Departments are generally uppercase letters, maybe short space, and numbers. e.g. "CIS  4", "MATH 1A"
     course_pattern = re.compile(
-        r'([A-Z]{2,5}\s+[0-9]{1,3}[A-Z]?)\s+-\s+(.*?)\n([0-9.]+)\s+Units\n(.*?)(?=\n[A-Z]{2,5}\s+[0-9]{1,3}[A-Z]?\s+-|\Z)', 
+        r'([A-Z]{2,5}\s+[0-9]{1,3}[A-Z]{0,3})\s+-\s+(.*?)\n([0-9.]+)\s+Units\n(.*?)(?=\n[A-Z]{2,5}\s+[0-9]{1,3}[A-Z]{0,3}\s+-|\Z)', 
         re.DOTALL
     )
 

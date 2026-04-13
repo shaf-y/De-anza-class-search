@@ -10,7 +10,7 @@ def extract_courses(pdf_path):
         full_text += doc[page_num].get_text() + "\n\n"
 
     course_pattern = re.compile(
-        r'([A-Z]{2,5}\s+[0-9]{1,3}[A-Z]?)\s+-\s+(.*?)\n([0-9.]+)\s+Units\n(.*?)(?=\n[A-Z]{2,5}\s+[0-9]{1,3}[A-Z]?\s+-|\Z)', 
+        r'([A-Z]{2,5}\s+[0-9]{1,3}[A-Z]{0,3})\s+-\s+(.*?)\n([0-9.]+)\s+Units\n(.*?)(?=\n[A-Z]{2,5}\s+[0-9]{1,3}[A-Z]{0,3}\s+-|\Z)', 
         re.DOTALL
     )
 

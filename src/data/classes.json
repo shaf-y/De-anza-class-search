@@ -14,6 +14,13 @@
     "prerequisites": "None"
   },
   {
+    "code": "ACCT 1AH",
+    "title": "Financial\nAccounting I - HONORS",
+    "units": "5.0",
+    "description": "This course engages students to learn how accounting meets the different information needs of various users by developing and communicating financial data that is used in decision-making. Accordingly, the expected student outcome is the demonstration that the student can read, analyze, and interpret external financial statements. As an honors course, the students will be expected to complete extra assignments to gain deeper insight into accounting.",
+    "prerequisites": "None"
+  },
+  {
     "code": "ACCT 1B",
     "title": "Financial\nAccounting II",
     "units": "5.0",
@@ -21,10 +28,24 @@
     "prerequisites": "ACCT 1A or ACCT 1AH"
   },
   {
+    "code": "ACCT 1BH",
+    "title": "Financial\nAccounting II - HONORS",
+    "units": "5.0",
+    "description": "This course engages students to learn how accounting meets the different information needs of various users by developing and communicating financial data that is used in decision-making. Accordingly, the expected student outcome is the demonstration that the student can read, analyze, and interpret external financial statements. As an honors course, the students will be expected to complete extra assignments to gain deeper insight into accounting.",
+    "prerequisites": "ACCT 1A or ACCT 1AH"
+  },
+  {
     "code": "ACCT 1C",
     "title": "Managerial\nAccounting",
     "units": "5.0",
     "description": "This course engages students to learn how accounting meets the financial data needs of internal users. Students study the role of management accounting information in organizations for operational control, product and customer costing, and performance measurement.",
+    "prerequisites": "ACCT 1B or ACCT 1BH"
+  },
+  {
+    "code": "ACCT 1CH",
+    "title": "Managerial\nAccounting - HONORS",
+    "units": "5.0",
+    "description": "This course engages students to learn how accounting meets the financial data needs of internal users. Students study the role of management accounting information in organizations for operational control, product and customer costing, and performance measurement. As an honors course, the students will be expected to complete extra assignments to gain deeper insight into Accounting.",
     "prerequisites": "ACCT 1B or ACCT 1BH"
   },
   {
@@ -103,6 +124,27 @@
     "units": "5.0",
     "description": "This course presents the characteristics and principles of the financial policies and procedures followed by state, county, and municipal governments, as well as public and private universities, hospitals, and certain nonprofit organizations. Emphasis will be placed on the importance to governmental agencies of properly discharging their responsibilities to taxpayers. These responsibilities include the proper accounting for and budgeting of tax and related revenues and expenditures. The course will also emphasize the importance to nonprofit entities of meeting the financial reporting and management needs of various stakeholders such as donors, service providers and recipients, community members, and regulatory agencies. Funds, fund accounting, and the newest GASB and FASB pronouncements relating to accounting for governmental and nonprofit entities are also presented.",
     "prerequisites": "ACCT 1B or ACCT 1BH"
+  },
+  {
+    "code": "ACCT 87AH",
+    "title": "Computerized\nAccounting Programs I\n(Peachtree - Windows)",
+    "units": "2.0",
+    "description": "This course is an introduction to computerized accounting for the service industry. Applications include general ledger setup, accounts payable, accounts receivable and payroll. Course will take advantage of new accounting software being used in industry.",
+    "prerequisites": "ACCT 1A or ACCT 1AH"
+  },
+  {
+    "code": "ACCT 87AI",
+    "title": "Computerized\nAccounting Programs I\n(Quickbooks)",
+    "units": "2.0",
+    "description": "This course is an introduction to computerized accounting for the service industry. Applications include general ledger setup, accounts payable, accounts receivable and payroll. Course will take advantage of new accounting software being used in industry.",
+    "prerequisites": "ACCT 1A or ACCT 1AH"
+  },
+  {
+    "code": "ACCT 87AJ",
+    "title": "Computerized\nAccounting Programs I\n(Microsoft Dynamics GP)",
+    "units": "2.0",
+    "description": "This course is an introduction to computerized accounting for the service industry. Applications include general ledger setup, accounts payable, accounts receivable and payroll. Course will take advantage of new accounting software being used in industry.",
+    "prerequisites": "ACCT 1A or ACCT 1AH"
   },
   {
     "code": "ACCT 88",
@@ -637,6 +679,13 @@
     "prerequisites": "None"
   },
   {
+    "code": "APRN 64HP",
+    "title": "High\nPerformance Engine\nPreparation",
+    "units": "9.0",
+    "description": "This course covers precision and performance engine preparation, including the selection and matching of engine and valve train components for maximum efficiency and output.",
+    "prerequisites": "None"
+  },
+  {
     "code": "APRN 65P",
     "title": "Smog Inspector\n- Level 1 Training",
     "units": "7.0",
@@ -936,6 +985,20 @@
     "units": "4.0",
     "description": "This course covers advanced idea development, visual investigation and the sculpture-making process. Additional materials and processes will be examined and demonstrated.",
     "prerequisites": "ARTS 37B Repeatability (This course is included in the Sculpture Family of activity courses. Please see the rules on \"Repeating Courses\" in the College Policies section of the catalog.)"
+  },
+  {
+    "code": "ARTS 3TC",
+    "title": "Women and Art",
+    "units": "4.0",
+    "description": "This course examines the history of women in relation to society and the visual arts from prehistory to the present, across a range of cultures. Obstacles faced by women artists are explored, as well as contributions made by women artists, and art in which women serve as subject matter.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "ARTS 3TE",
+    "title": "Today's Art Scene",
+    "units": "4.0",
+    "description": "This course focuses on the issues and challenges facing today's working artists. Topics include the roots of international contemporary art, technological influences on current art practices, and the essential components for assembling a dynamic portfolio presentation.",
+    "prerequisites": "None"
   },
   {
     "code": "ARTS 4A",
@@ -1701,6 +1764,13 @@
     "prerequisites": "None"
   },
   {
+    "code": "AUTO 64HP",
+    "title": "High\nPerformance Engine\nPreparation",
+    "units": "9.0",
+    "description": "This course covers precision and performance engine preparation, including the selection and matching of engine and valve train components for maximum efficiency and output.",
+    "prerequisites": "None"
+  },
+  {
     "code": "AUTO 65P",
     "title": "Smog Inspector -\nLevel 1 Training",
     "units": "7.0",
@@ -2016,6 +2086,13 @@
     "prerequisites": "CHEM 1A or CHEM 1AH or CHEM 25 with a grade of C or better; or satisfactory score on the Chemistry Placement Exam"
   },
   {
+    "code": "BIOL 6AH",
+    "title": "Form and\nFunction in the Biological\nWorld - HONORS",
+    "units": "6.0",
+    "description": "This course is an introduction to biology and scientific methods for students beginning the biology major series. It covers the structure and physiological processes of living organisms, with an emphasis on plants and animals. Because this is an honors course, students will be expected to complete extra assignments to gain a deeper insight into biological form and function.",
+    "prerequisites": "CHEM 1A or CHEM 1AH or CHEM 25 with a grade of C or better; or satisfactory score on the Chemistry Placement Exam"
+  },
+  {
     "code": "BIOL 6B",
     "title": "Cell and Molecular\nBiology",
     "units": "6.0",
@@ -2027,6 +2104,13 @@
     "title": "Ecology and\nEvolution",
     "units": "6.0",
     "description": "This course covers the principles of ecology and evolution, including the ecology of populations, communities, ecosystems and biomes, as well as the evolution of populations and the origin of species and higher taxa. The laboratory portion of the course includes a research project designed, researched and presented by students.",
+    "prerequisites": "BIOL 6A (or BIOL 6AH) and BIOL 6B, with a grade of C or better"
+  },
+  {
+    "code": "BIOL 6CH",
+    "title": "Ecology and\nEvolution - HONORS",
+    "units": "6.0",
+    "description": "This course covers the principles of ecology and evolution, including the ecology of populations, communities, ecosystems and biomes, as well as the evolution of populations and the origin of species and higher taxa. The laboratory portion of the course includes a research project designed, researched and presented by students. Because this is an honors course, students will be expected to complete extra assignments to gain a deeper insight into ecology and evolution.",
     "prerequisites": "BIOL 6A (or BIOL 6AH) and BIOL 6B, with a grade of C or better"
   },
   {
@@ -2688,6 +2772,13 @@
     "prerequisites": "CHEM 25 or CHEM 30A with a grade of C or better, or satisfactory score on the Chemistry Placement Test; and intermediate algebra or equivalent (or higher), or appropriate placement beyond intermediate algebra"
   },
   {
+    "code": "CHEM 1AH",
+    "title": "General\nChemistry I - HONORS",
+    "units": "5.0",
+    "description": "This course provides an introduction to the structure and reactivity of matter at the molecular level, as well as an application of critical reasoning to modern chemical theory and structured numerical problem-solving. Students will learn the development of molecular structure from rudimentary quantum mechanics, including an introduction to ionic and covalent bonding; chemical problem-solving involving both formula and reaction stoichiometry employing the unit analysis method, and be introduced to thermochemistry and a discussion of the first law of thermodynamics. Additionally, this course is part of the Honors Program.",
+    "prerequisites": "CHEM 25 or CHEM 30A with a grade of C or better, or satisfactory score on the Chemistry Placement Test; and intermediate algebra or equivalent (or higher), or appropriate placement beyond intermediate algebra"
+  },
+  {
     "code": "CHEM 1B",
     "title": "General\nChemistry II",
     "units": "5.0",
@@ -2695,10 +2786,24 @@
     "prerequisites": "CHEM 1A or CHEM 1AH with a grade of C or better"
   },
   {
+    "code": "CHEM 1BH",
+    "title": "General\nChemistry II - HONORS",
+    "units": "5.0",
+    "description": "This course is a continuation of an introduction to the principles of chemistry covering the investigations of intermolecular forces and their effects on chemical and physical properties. Also covered are investigations of reversible reactions from the standpoints of kinetics, thermodynamics, and equilibrium. Investigation and application of gas laws and kinetic molecular theory. Additionally, this course is part of the Honors Program.",
+    "prerequisites": "CHEM 1A or CHEM 1AH with a grade of C or better"
+  },
+  {
     "code": "CHEM 1C",
     "title": "General\nChemistry III",
     "units": "5.0",
     "description": "This is the third and final quarter in the year-long General Chemistry sequence. In this class, advanced equilibrium concepts pertaining to solubility and buffers will be discussed. This will be followed by an introduction to electrochemistry, the chemistry of transition metals, and nuclear chemistry.",
+    "prerequisites": "CHEM 1B or CHEM 1BH with a grade of C or better"
+  },
+  {
+    "code": "CHEM 1CH",
+    "title": "General\nChemistry III - HONORS",
+    "units": "5.0",
+    "description": "This is the third and final quarter in the year-long General Chemistry sequence. In this class, advanced equilibrium concepts pertaining to solubility and buffers will be discussed. This will be followed by an introduction to electrochemistry, the chemistry of transition metals, and nuclear chemistry. Note: This course is part of the Honors Program.",
     "prerequisites": "CHEM 1B or CHEM 1BH with a grade of C or better"
   },
   {
@@ -2874,7 +2979,7 @@
     "title": "Bash Scripting",
     "units": "4.5",
     "description": "This course covers the usage of bash as a programming language. Students write bash scripts that include basic and advanced Unix/Linux utilities, bash syntax, constructs, and signal handling.",
-    "prerequisites": "CIS 18B CIS 21JA - Introduction to x86 Processor Assembly Language and Computer Architecture 4.5 Units Credit - Degree Applicable This course is an introduction to the syntax and semantics of the x86 processor assembly language, standard instruction set, selected macros and directives, and x86 architecture."
+    "prerequisites": "CIS 18B"
   },
   {
     "code": "CIS 2",
@@ -2882,6 +2987,20 @@
     "units": "4.0",
     "description": "This course provides a critical examination of the capabilities and uses of the Internet, computers, and cellular communications. Additionally, this course explores how these technologies are changing business, law, politics, health, education, entertainment, and society.",
     "prerequisites": "None"
+  },
+  {
+    "code": "CIS 21JA",
+    "title": "Introduction to\nx86 Processor Assembly\nLanguage and Computer\nArchitecture",
+    "units": "4.5",
+    "description": "This course is an introduction to the syntax and semantics of the x86 processor assembly language, standard instruction set, selected macros and directives, and x86 architecture.",
+    "prerequisites": "CIS 22B or CIS 22BH or CIS 26A or CIS 35A or CIS 36B or CIS 41A"
+  },
+  {
+    "code": "CIS 21JB",
+    "title": "Advanced x86\nProcessor Assembly\nProgramming",
+    "units": "4.5",
+    "description": "This course covers the theory and application of advanced assembly programming techniques, with emphasis on multi-module programs, interrupt level programming, recursive and re-entrant techniques, floating- point processing, interface with the OS and high-level language.",
+    "prerequisites": "CIS 21JA"
   },
   {
     "code": "CIS 22A",
@@ -2898,10 +3017,24 @@
     "prerequisites": "(Students may receive credit for either (CIS 22A and CIS 22B (or CIS 22BH)) or CIS 27); CIS 22A"
   },
   {
+    "code": "CIS 22BH",
+    "title": "Intermediate\nProgramming\nMethodologies in C++ -\nHONORS",
+    "units": "4.5",
+    "description": "This course is taught as a systematic approach to the design, construction, and management of computer programs, emphasizing design, programming style, documentation, testing, and debugging techniques. Key concepts in Object-oriented programming to be covered are (a) Strings, (b) Multidimensional arrays, (c) Pointers and their use in arrays, parameters, and dynamic allocation, (d) Structures and Classes with operator overloading, (e) Inheritance and Polymorphism, (f) Templates, (g) Exceptions and (h) Introduction to Linked lists. Software engineering and computer science students are the targeted groups.",
+    "prerequisites": "(Students may receive credit for either (CIS 22A and CIS 22B (or CIS 22BH)) or CIS 27); CIS 22A"
+  },
+  {
     "code": "CIS 22C",
     "title": "Data Abstraction\nand Structures",
     "units": "4.5",
     "description": "Application of software engineering techniques to the design and development of large programs, including a team project, with an emphasis on data abstraction and structures and associated algorithms: stacks, queues, linked lists, trees, graphs, and hash tables. This course also covers recursion and advanced sorting algorithms.",
+    "prerequisites": "CIS 22B, CIS 22BH, CIS 35A or CIS 36B"
+  },
+  {
+    "code": "CIS 22CH",
+    "title": "Data Abstraction\nand Structures - HONORS",
+    "units": "4.5",
+    "description": "Application of software engineering techniques to the design and development of large programs, including a team project, with an emphasis on data abstraction and structures and associated algorithms: stacks, queues, linked lists, trees, graphs, and hash tables. This course also covers recursion and advanced sorting algorithms. As an honors course, the students will be expected to complete extra assignments to gain deeper insight into the design and implementation of data structures.",
     "prerequisites": "CIS 22B, CIS 22BH, CIS 35A or CIS 36B"
   },
   {
@@ -2916,6 +3049,13 @@
     "title": "Advanced C\nProgramming",
     "units": "4.5",
     "description": "The primary objective of this course is to teach applications of the advanced features of the C programming language and the C-library functions. Emphasis will be placed on binary and random-access input/output, dynamic data structures, bit manipulation, string parsing and string-to-numeric conversion, event and error processing, pointers and function pointers, recursion, and variable-length argument list functions.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "CIS 26BH",
+    "title": "Advanced C\nProgramming - HONORS",
+    "units": "4.5",
+    "description": "The primary objective of this course is to teach applications of the advanced features of the C programming language and the C-library functions. Emphasis will be placed on binary and random-access input/output, dynamic data structures, bit manipulation, string parsing and string-to-numeric conversion, event and error processing, pointers and function pointers, recursion, and variable-length argument list functions. As an honors course, the students will be expected to complete extra assignments to gain deeper insight into the design and implementation of advanced C programs.",
     "prerequisites": "None"
   },
   {
@@ -5418,6 +5558,13 @@
     "prerequisites": "Eligibility for college-level composition (ENGL C1000 or ENGL C1000H or ESL 5) as determined by college assessment or other appropriate methods. Entrance Skills (Eligibility for college-level composition as determined by college assessment or other appropriate methods.)"
   },
   {
+    "code": "ELIT 46AH",
+    "title": "Major British\nWriters (Medieval and\nRenaissance) - HONORS",
+    "units": "4.0",
+    "description": "This course includes reading and critical analysis of representative works by major writers such as Chaucer, Shakespeare, and Milton. Students in this course will be expected to complete extra assignments to gain a deeper insight into Literature.",
+    "prerequisites": "Eligibility for college-level composition (ENGL C1000 or ENGL C1000H or ESL 5) as determined by college assessment or other appropriate methods. Entrance Skills (Eligibility for college-level composition as determined by college assessment or other appropriate methods.)"
+  },
+  {
     "code": "ELIT 46B",
     "title": "Major British\nWriters (Neo-Classical and\nRomantic)",
     "units": "4.0",
@@ -5425,10 +5572,24 @@
     "prerequisites": "Eligibility for college-level composition (ENGL C1000 or ENGL C1000H or ESL 5) as determined by college assessment or other appropriate methods. Entrance Skills (Eligibility for college-level composition as determined by college assessment or other appropriate methods.)"
   },
   {
+    "code": "ELIT 46BH",
+    "title": "Major British\nWriters (Neo-Classical and\nRomantic) - HONORS",
+    "units": "4.0",
+    "description": "This course explores readings and critical responses to representative works by major writers such as Pope, Behn, Swift, Johnson, Wordsworth, Coleridge, Percy and Mary Godwin Shelley, Keats, Austen, Montagu, and the Bronte sisters. Students will be expected to complete extra assignments to gain a deeper insight into Literature.",
+    "prerequisites": "Eligibility for college-level composition (ENGL C1000 or ENGL C1000H or ESL 5) as determined by college assessment or other appropriate methods. Entrance Skills (Eligibility for college-level composition as determined by college assessment or other appropriate methods.)"
+  },
+  {
     "code": "ELIT 46C",
     "title": "Major British\nWriters (Victorian and\nModern)",
     "units": "4.0",
     "description": "This course will examine readings and critical responses to representative works by major writers such as the Brontes, Tennyson, Barrett Browning, Browning, Dickens, Arnold, Hopkins, Wilde, Lawrence, Hardy, Yeats, Conrad, Joyce, Eliot, Beckett, Woolf, and Auden.",
+    "prerequisites": "Eligibility for college-level composition (ENGL C1000 or ENGL C1000H or ESL 5) as determined by college assessment or other appropriate methods. Entrance Skills (Eligibility for college-level composition as determined by college assessment or other appropriate methods.)"
+  },
+  {
+    "code": "ELIT 46CH",
+    "title": "Major British\nWriters (Victorian and\nModern) - HONORS",
+    "units": "4.0",
+    "description": "This course will examine readings and critical responses to representative works by major writers such as the Brontes, Tennyson, Barrett Browning, Browning, Dickens, Arnold, Hopkins, Wilde, Lawrence, Hardy, Yeats, Conrad, Joyce, Eliot, Beckett, Woolf, and Auden. Students will be expected to complete extra assignments to gain a deeper insight into English Literature.",
     "prerequisites": "Eligibility for college-level composition (ENGL C1000 or ENGL C1000H or ESL 5) as determined by college assessment or other appropriate methods. Entrance Skills (Eligibility for college-level composition as determined by college assessment or other appropriate methods.)"
   },
   {
@@ -5453,6 +5614,13 @@
     "prerequisites": "Eligibility for college-level composition (ENGL C1000 or ENGL C1000H or ESL 5) as determined by college assessment or other appropriate methods. Entrance Skills (Eligibility for college-level composition as determined by college assessment or other appropriate methods.)"
   },
   {
+    "code": "ELIT 48AH",
+    "title": "Major American\nWriters (Colonial to\nRomantic, 1620-1865) -\nHONORS",
+    "units": "4.0",
+    "description": "This course explores the reading and critical analysis of representative works by diverse writers such as William Bradford, Anne Bradstreet, Jonathan Edwards, Ben Franklin, Thomas Jefferson, James Fenimore Cooper, Edgar Allan Poe, Nathaniel Hawthorne, Herman Melville, Frederick Douglass, Harriet Jacobs, Harriet Beecher Stowe, Elias Boudinot, Chief Seattle, Sojourner Truth, Ralph Waldo Emerson, Margaret Fuller, and Henry David Thoreau. Because this is an honors program course, students will be expected to complete extra assignments to gain deeper insight in literature.",
+    "prerequisites": "Eligibility for college-level composition (ENGL C1000 or ENGL C1000H or ESL 5) as determined by college assessment or other appropriate methods. Entrance Skills (Eligibility for college-level composition as determined by college assessment or other appropriate methods.)"
+  },
+  {
     "code": "ELIT 48B",
     "title": "Major American\nWriters (The Advent of\nRealism, 1865-1914)",
     "units": "4.0",
@@ -5460,10 +5628,24 @@
     "prerequisites": "Eligibility for college-level composition (ENGL C1000 or ENGL C1000H or ESL 5) as determined by college assessment or other appropriate methods. Entrance Skills (Eligibility for college-level composition as determined by college assessment or other appropriate methods.)"
   },
   {
+    "code": "ELIT 48BH",
+    "title": "Major American\nWriters (The Advent of\nRealism, 1865-1914) -\nHONORS",
+    "units": "4.0",
+    "description": "This course explores the reading and critical analysis of representative works by major writers such as Walt Whitman, Emily Dickinson, Mark Twain, Henry James, William Dean Howells, Charlotte Perkins Gilman, Charles Chesnutt, Mary Wilkins Freeman, Kate Chopin, Stephen Crane, Booker T. Washington, W.E.B. DuBois, Black Elk, and Robert Frost. Because this is an honors program course, students will be expected to complete extra assignments to gain deeper insight in Literature.",
+    "prerequisites": "Eligibility for college-level composition (ENGL C1000 or ENGL C1000H or ESL 5) as determined by college assessment or other appropriate methods. Entrance Skills (Eligibility for college-level composition as determined by college assessment or other appropriate methods.)"
+  },
+  {
     "code": "ELIT 48C",
     "title": "Major American\nWriters (The Modern Age,\n1914-the Present)",
     "units": "4.0",
     "description": "This course explores the reading and critical analysis of representative works by major writers of the modern/postmodern periods such as Faulkner, Hemingway, Hurston, Morrison, Fitzgerald, Hughes, Wright, Ellison, Williams, Cisneros, Stevens, Sexton, Eliot, Vonnegut, Pynchon, O'Connor, Plath, Carver, Wilson, and O'Neill.",
+    "prerequisites": "Eligibility for college-level composition (ENGL C1000 or ENGL C1000H or ESL 5) as determined by college assessment or other appropriate methods. Entrance Skills (Eligibility for college-level composition as determined by college assessment or other appropriate methods.)"
+  },
+  {
+    "code": "ELIT 48CH",
+    "title": "Major American\nWriters (The Modern Age,\n1914-the Present) - HONORS",
+    "units": "4.0",
+    "description": "This course explores the reading and critical analysis of representative works by major writers of the modern and postmodern periods, such as Faulkner, Hemingway, Hurston, Morrison, Fitzgerald, Hughes, Wright, Ellison, Williams, Cisneros, Stevens, Sexton, Eliot, Vonnegut, Pynchon, O'Connor, Plath, Carver, Wilson, and O'Neill. Because this is an honors program course, students will be expected to complete extra assignments to gain deeper insight into English literature.",
     "prerequisites": "Eligibility for college-level composition (ENGL C1000 or ENGL C1000H or ESL 5) as determined by college assessment or other appropriate methods. Entrance Skills (Eligibility for college-level composition as determined by college assessment or other appropriate methods.)"
   },
   {
@@ -6202,10 +6384,24 @@
     "prerequisites": "Eligibility for college-level composition (EWRT 1A or EWRT 1AH) as determined by college assessment or other appropriate methods. Entrance Skills (Eligibility for college-level composition as determined by college assessment or other appropriate methods.)"
   },
   {
+    "code": "EWRT 1AH",
+    "title": "Composition and Reading -\nHONORS",
+    "units": "5.0",
+    "description": "This course introduces students to university-level reading and writing, with an emphasis on analysis, and closely examines a variety of texts (personal, popular, literary, professional, academic) from culturally diverse traditions. Students will practice common rhetorical strategies used in academic writing and compose clear, well-organized, and well-developed essays, with varying purposes and differing audiences, from personal to academic. As an honors course, the students will be expected to complete extra assignments to gain deeper insight into English Composition.",
+    "prerequisites": "Eligibility for college-level composition (EWRT 1A or EWRT 1AH) as determined by college assessment or other appropriate methods. Entrance Skills (Eligibility for college-level composition as determined by college assessment or other appropriate methods.)"
+  },
+  {
     "code": "EWRT 1B",
     "title": "Reading, Writing\nand Research",
     "units": "5.0",
     "description": "This course will emphasize the development of analytical, integrative skills in reading and writing. Students will explore academic (interpretive, analytical, argumentative) writing based largely on reading of literary/imaginative texts linked by a common theme or issue. The course includes outside research leading to analysis, comparison, and synthesis in documented research paper.",
+    "prerequisites": "ENGL C1000 or ENGL C1000H or ESL 5"
+  },
+  {
+    "code": "EWRT 1BH",
+    "title": "Reading, Writing\nand Research - HONORS",
+    "units": "5.0",
+    "description": "This course will emphasize the development of analytical, integrative skills in reading and writing. Students will explore academic (interpretive, analytical, argumentative) writing based largely on reading of literary/imaginative texts linked by a common theme or issue. The course includes outside research leading to analysis, comparison, and synthesis in documented research paper. Because this is an honors program course, students will be expected to complete extra assignments to gain deeper insight in critical thinking and literature.",
     "prerequisites": "ENGL C1000 or ENGL C1000H or ESL 5"
   },
   {
@@ -6272,9 +6468,23 @@
     "prerequisites": "None"
   },
   {
+    "code": "EWRT 65AX",
+    "title": "Literary\nMagazine I, National Edition",
+    "units": "3.0",
+    "description": "This course emphasizes collaborative evaluation and selection of fiction, poetry, and other literary submissions for professional annual magazine publication including attention to management and issue planning as well as design.",
+    "prerequisites": "None"
+  },
+  {
     "code": "EWRT 65B",
     "title": "Literary\nMagazine II, National Edition",
     "units": "2.0",
+    "description": "This course emphasizes genre-specific collaboration with editing, design, issue planning, screening, and/or management teams, including evaluating fiction, poetry, and other literary submissions for an annual national literary magazine.",
+    "prerequisites": "EWRT 65A or EWRT 65AX"
+  },
+  {
+    "code": "EWRT 65BX",
+    "title": "Literary\nMagazine II, National Edition",
+    "units": "3.0",
     "description": "This course emphasizes genre-specific collaboration with editing, design, issue planning, screening, and/or management teams, including evaluating fiction, poetry, and other literary submissions for an annual national literary magazine.",
     "prerequisites": "EWRT 65A or EWRT 65AX"
   },
@@ -6286,9 +6496,23 @@
     "prerequisites": "EWRT 65B or EWRT 65BX"
   },
   {
+    "code": "EWRT 65CX",
+    "title": "Editorial\nLeadership Literary\nMagazine, National Edition",
+    "units": "3.0",
+    "description": "This course emphasizes individual and team leadership in magazine work, including screening, evaluation, and selection of fiction, poetry, art, and other submissions for national literary journals as well as coordinating subcommittees in copy editing, issue planning, management, production, or design.",
+    "prerequisites": "EWRT 65B or EWRT 65BX"
+  },
+  {
     "code": "EWRT 68A",
     "title": "Literary\nMagazine I, Student Edition",
     "units": "2.0",
+    "description": "This course emphasizes collaborative evaluation and selection of fiction, poetry, photography, drawings, and other literary and artistic work for the student edition of a literary magazine. Emphasis is on layout, design, production, publicity, event planning, and magazine distribution along with soliciting, submission management, manuscript evaluation, and copy editing.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "EWRT 68AX",
+    "title": "Literary\nMagazine I, Student Edition",
+    "units": "3.0",
     "description": "This course emphasizes collaborative evaluation and selection of fiction, poetry, photography, drawings, and other literary and artistic work for the student edition of a literary magazine. Emphasis is on layout, design, production, publicity, event planning, and magazine distribution along with soliciting, submission management, manuscript evaluation, and copy editing.",
     "prerequisites": "None"
   },
@@ -6300,9 +6524,23 @@
     "prerequisites": "EWRT 68A or EWRT 68AX"
   },
   {
+    "code": "EWRT 68BX",
+    "title": "Literary\nMagazine II, Student Edition",
+    "units": "3.0",
+    "description": "Students collaboratively evaluate fiction, poetry, photography, drawings, and other literary and artistic work for student literary magazines. This course emphasizes genre-specific and specialized work in layout, design, production, publicity, event planning, and magazine distribution along with soliciting, submission management, manuscript selection, screening, and copy editing.",
+    "prerequisites": "EWRT 68A or EWRT 68AX"
+  },
+  {
     "code": "EWRT 68C",
     "title": "Editorial\nLeadership Literary\nMagazine, Student Edition",
     "units": "2.0",
+    "description": "This course includes collaborative evaluation of fiction, poetry, photography, drawings, and other literary and artistic work for the student edition of a literary magazine. The course emphasizes independent and team leadership in magazine organizational processes including layout, design, production, publicity, event planning, and magazine distribution along with soliciting, submission management, manuscript selection, screening, and copy editing.",
+    "prerequisites": "EWRT 68B or EWRT 68BX"
+  },
+  {
+    "code": "EWRT 68CX",
+    "title": "Editorial\nLeadership Literary\nMagazine, Student Edition",
+    "units": "3.0",
     "description": "This course includes collaborative evaluation of fiction, poetry, photography, drawings, and other literary and artistic work for the student edition of a literary magazine. The course emphasizes independent and team leadership in magazine organizational processes including layout, design, production, publicity, event planning, and magazine distribution along with soliciting, submission management, manuscript selection, screening, and copy editing.",
     "prerequisites": "EWRT 68B or EWRT 68BX"
   },
@@ -6461,6 +6699,13 @@
     "prerequisites": "None"
   },
   {
+    "code": "HIST 17AH",
+    "title": "History of the\nUnited States to Early\nNational Era - HONORS",
+    "units": "4.0",
+    "description": "This course examines U.S. civilization to the Early National Era. Students will survey the social, cultural, political, economic, and intellectual development of the Colonial Era with an emphasis on the era of the American Revolution, the development of the Constitution, and the role of the major ethnic, social, and gender groups in the American experience. Because this is an honors program course, students will be expected to complete extra assignments, or an additional longer assignment, to gain deeper insight into American history from the colonial period to the early national era.",
+    "prerequisites": "None"
+  },
+  {
     "code": "HIST 17B",
     "title": "History of the\nUnited States from 1800 to\n1900",
     "units": "4.0",
@@ -6468,10 +6713,24 @@
     "prerequisites": "None"
   },
   {
+    "code": "HIST 17BH",
+    "title": "History of the\nUnited States from 1800 to\n1900 - HONORS",
+    "units": "4.0",
+    "description": "This course examines U.S. civilization from 1800 to 1900 and includes a survey of United States history (political, economic, intellectual, cultural, and social developments). Because this is an honors program course, students will be expected to complete extra assignments, or an additional longer assignment, to gain deeper insight into American history between 1800 and 1900.",
+    "prerequisites": "None"
+  },
+  {
     "code": "HIST 17C",
     "title": "History of the\nUnited States from 1900 to\nthe Present",
     "units": "4.0",
     "description": "This course examines American civilization from 1900 to the present and includes a survey of United States history (political, economic, intellectual, cultural, and social developments).",
+    "prerequisites": "None"
+  },
+  {
+    "code": "HIST 17CH",
+    "title": "History of the\nUnited States from 1900 to\nthe Present - HONORS",
+    "units": "4.0",
+    "description": "This course examines American civilization from 1900 to the present and includes a survey of United States history (political, economic, intellectual, cultural, and social developments). Because this is an honors program course, students will be expected to complete extra assignments, or an additional longer assignment, to gain deeper insight into American history between 1900 and the present.",
     "prerequisites": "None"
   },
   {
@@ -6510,6 +6769,13 @@
     "prerequisites": "None"
   },
   {
+    "code": "HIST 3AH",
+    "title": "World History\nfrom Prehistory to 750 CE -\nHONORS",
+    "units": "4.0",
+    "description": "Starting from the late prehistoric times and covering to 750 Common Era (CE), students will explore the world's history of ancient peoples, cultures, and civilizations. This course provides an interdisciplinary, multi-perspective view of world history, using a thematic approach and offering a balanced, representative and inclusive sampling of the world's cultures from Africa, the Americas, Asia, Europe, and Oceania. Because this is an honors program course, students will be expected to complete extra assignments, or an additional longer assignment, to gain deeper insight into world history between prehistory and 750 CE.",
+    "prerequisites": "None"
+  },
+  {
     "code": "HIST 3B",
     "title": "World History from\n750 to 1750 CE",
     "units": "4.0",
@@ -6517,10 +6783,24 @@
     "prerequisites": "None"
   },
   {
+    "code": "HIST 3BH",
+    "title": "World History\nfrom 750 to 1750 CE -\nHONORS",
+    "units": "4.0",
+    "description": "Starting from 750 Common Era (CE) and covering to 1750 CE, this course explores the convergence of, or increasing encounters between the world's peoples, cultures, and civilizations. Students will gain an interdisciplinary, multi-perspective view of world history, using a thematic approach and offering a balanced, representative and inclusive sampling of the world's cultures from Africa, the Americas, Asia, Europe, and Oceania. Because this is an honors program course, students will be expected to complete extra assignments, or an additional longer assignment, to gain deeper insight into world history between 750 and 1750 CE.",
+    "prerequisites": "None"
+  },
+  {
     "code": "HIST 3C",
     "title": "World History from\n1750 CE to the Present",
     "units": "4.0",
     "description": "This course covers the era from 1750 Common Era (CE) and extending to the present, recent and current interactions between the world's peoples, cultures, and civilizations. Students will gain an interdisciplinary, multi-perspective view of world history, using a thematic approach and offering a balanced, representative and inclusive sampling of the world's cultures from Africa, the Americas, Asia, Europe, and Oceania.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "HIST 3CH",
+    "title": "World History\nfrom 1750 CE to the Present -\nHONORS",
+    "units": "4.0",
+    "description": "This course covers the era from 1750 Common Era (CE) and extending to the present, recent and current interactions between the world's peoples, cultures, and civilizations. Students will gain an interdisciplinary, multi-perspective view of world history, using a thematic approach and offering a balanced, representative and inclusive sampling of the world's cultures from Africa, the Americas, Asia, Europe, and Oceania. Because this is an honors program course, students will be expected to complete extra assignments, or an additional longer assignment, to gain deeper insight into world history between 1750 CE and the present.",
     "prerequisites": "None"
   },
   {
@@ -6580,6 +6860,13 @@
     "prerequisites": "None"
   },
   {
+    "code": "HIST 6AH",
+    "title": "History of\nWestern Civilization: Pre-\nHistory to 750 C.E. -\nHONORS",
+    "units": "4.0",
+    "description": "The development of Western civilization from the fourth millennium BCE to the eighth century CE. As an honors course, the students will be expected to complete extra assignments, or an additional longer assignment, to gain deeper insight into the history of Western civilization from the ancient period through late antiquity (750 CE).",
+    "prerequisites": "None"
+  },
+  {
     "code": "HIST 6B",
     "title": "History of Western\nCivilization: 750 C.E. to 1750\nC.E.",
     "units": "4.0",
@@ -6587,10 +6874,24 @@
     "prerequisites": "None"
   },
   {
+    "code": "HIST 6BH",
+    "title": "History of\nWestern Civilization: 750 C.E.\nto 1750 C.E. - HONORS",
+    "units": "4.0",
+    "description": "The development of Western Civilization from the early Middle Ages to the early Modern Era (1750 CE), which includes late Medieval, the Renaissance, Reformation, and the Enlightenment. As an honors course, the students will be expected to complete extra assignments, or an additional longer assignment, to gain deeper insight into the history of Western civilization from the early Middle Ages to the early Modern Era (1750 CE).",
+    "prerequisites": "None"
+  },
+  {
     "code": "HIST 6C",
     "title": "History of Western\nCivilization: 1750 C.E. to\nPresent",
     "units": "4.0",
     "description": "The development of Western Civilization from the early modern period (1750 CE) to the present, with an emphasis on the French Revolution, industrialization, nationalism, European imperialism, both world wars, environmentalism and the economic growth of Europe during and after the Cold War era.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "HIST 6CH",
+    "title": "History of\nWestern Civilization: 1750\nC.E. to Present - HONORS",
+    "units": "4.0",
+    "description": "The development of Western Civilization from the early modern period (1750 CE) to the present, with an emphasis on the French Revolution, industrialization, nationalism, European imperialism, both world wars, environmentalism and the economic growth of Europe during and after the Cold War era. As an honors course, the students will be expected to complete extra assignments, or an additional longer assignment, to gain deeper insight into the history of Western civilization from the early modern period (1750 CE) to the present.",
     "prerequisites": "None"
   },
   {
@@ -7812,9 +8113,23 @@
     "prerequisites": "None"
   },
   {
+    "code": "KNES 11AX",
+    "title": "Cardio Kick",
+    "units": "1.0",
+    "description": "This course is an introduction to the discipline of Kinesiology through the activity of cardio kick. Dynamic kickboxing techniques provide a level of conditioning for both the aerobic and anaerobic systems. The freestyle interval format combines boxing and kicking drills specific to martial arts and kickboxing, integrating the elements of mind/body, readiness, visualization, and reaction. Students will participate in a safe, adaptable program to improve overall fitness, agility, balance, strength, and endurance. A historical examination of cardio kick for fitness and its roots in kickboxing, boxing, and martial arts will be included.",
+    "prerequisites": "None"
+  },
+  {
     "code": "KNES 11B",
     "title": "Cardio Kick 2",
     "units": "0.5",
+    "description": "An introduction to the discipline of Kinesiology through the activity of cardio kick. Dynamic kickboxing techniques are used to provide a level of conditioning for both the aerobic and anaerobic systems at an intermediate level. The freestyle interval format combines boxing and kicking drills specific to martial arts and kickboxing integrating the element of mind/body, readiness, visualization, and reaction at an intermediate level. Students will participate in a safe, modifiable, program to improve overall fitness, agility, balance, strength, and endurance at an intermediate level. An historical examination of cardio kick for fitness and its roots in the sports of kickboxing, boxing, and martial arts will be included.",
+    "prerequisites": "KNES 11A or KNES 11AX"
+  },
+  {
+    "code": "KNES 11BX",
+    "title": "Cardio Kick 2",
+    "units": "1.0",
     "description": "An introduction to the discipline of Kinesiology through the activity of cardio kick. Dynamic kickboxing techniques are used to provide a level of conditioning for both the aerobic and anaerobic systems at an intermediate level. The freestyle interval format combines boxing and kicking drills specific to martial arts and kickboxing integrating the element of mind/body, readiness, visualization, and reaction at an intermediate level. Students will participate in a safe, modifiable, program to improve overall fitness, agility, balance, strength, and endurance at an intermediate level. An historical examination of cardio kick for fitness and its roots in the sports of kickboxing, boxing, and martial arts will be included.",
     "prerequisites": "KNES 11A or KNES 11AX"
   },
@@ -7826,9 +8141,23 @@
     "prerequisites": "None"
   },
   {
+    "code": "KNES 12DX",
+    "title": "Beginning\nKarate",
+    "units": "1.0",
+    "description": "An introduction to the discipline of Kinesiology through the discipline of karate. Includes, a global and historical examination of the sport, rules, equipment, and etiquette. Students will analyze and demonstrate the application of traditional Japanese Shotokan karate techniques including blocking, punching, kicking striking and stances. Students will strive to understand and apply basic exercise physiology, nutrition, flexibility and strength concepts in an effort to improve their physical condition. Considerations for the variables that occur due to age, gender and physical conditions will be covered.",
+    "prerequisites": "None"
+  },
+  {
     "code": "KNES 12E",
     "title": "Intermediate\nKarate",
     "units": "0.5",
+    "description": "An introduction to the discipline of physical education through the discipline of karate. Includes a global and historical examination of the sport, rules, equipment, and etiquette of the sport. Intermediate karate skills and techniques of Japanese karate will be covered including blocking, punching, kicking, stances and individual evasive movement, and group interaction. Students will strive to understand and apply basic exercise physiology, nutrition, flexibility, and strength concepts in an effort to improve their physical condition in order to train at a more advanced level, with consideration for the variables that occur due to age, gender, and physical conditions.",
+    "prerequisites": "KNES 12D or KNES 12DX, or permission of instructor"
+  },
+  {
+    "code": "KNES 12EX",
+    "title": "Intermediate\nKarate",
+    "units": "1.0",
     "description": "An introduction to the discipline of physical education through the discipline of karate. Includes a global and historical examination of the sport, rules, equipment, and etiquette of the sport. Intermediate karate skills and techniques of Japanese karate will be covered including blocking, punching, kicking, stances and individual evasive movement, and group interaction. Students will strive to understand and apply basic exercise physiology, nutrition, flexibility, and strength concepts in an effort to improve their physical condition in order to train at a more advanced level, with consideration for the variables that occur due to age, gender, and physical conditions.",
     "prerequisites": "KNES 12D or KNES 12DX, or permission of instructor"
   },
@@ -7847,9 +8176,23 @@
     "prerequisites": "None"
   },
   {
+    "code": "KNES 12HX",
+    "title": "Tai Chi",
+    "units": "1.0",
+    "description": "This course introduces the discipline of Kinesiology through Tai Chi exercises including well-known short forms consisting of 24 postures. The principles of unity, centering, balance, alignment, breath and mind intent, \"yin and yang\" relationships, and the development of Chi are examined, along with the benefits of Tai Chi exercise relative to age, gender, and environmental conditions. Basic exercise physiology, nutrition, fundamentals of strength development, flexibility, and meditation concepts as related to Tai Chi and \"health and wellness\" are explored. There will also be a global and historical examination of the Taoist philosophy and the development of various forms of Tai Chi.",
+    "prerequisites": "None"
+  },
+  {
     "code": "KNES 12J",
     "title": "Intermediate Tai\nChi",
     "units": "0.5",
+    "description": "This is a further examination of Kinesiology through the practice of the ancient exercise of the 24 and 36 posture Tai Chi forms. Students will strive to master syncing breathing patterns with movement and to improve balance, alignment, and mind intent while continuing to practice the 24 posture form. The 36 posture Tai Chi form will be introduced with related self-defense applications, \"push-hands\" and Chi Gong meditations. Benefits of Tai Chi exercise relative to age, gender, and for individuals with physical limitations will be critiqued. The course will review basic exercise physiology, nutrition, strength development, and flexibility concepts as related to the benefits of Tai Chi and overall health and wellness.",
+    "prerequisites": "KNES 12H or KNES 12HX, or comparable level, or permission of instructor"
+  },
+  {
+    "code": "KNES 12JX",
+    "title": "Intermediate Tai\nChi",
+    "units": "1.0",
     "description": "This is a further examination of Kinesiology through the practice of the ancient exercise of the 24 and 36 posture Tai Chi forms. Students will strive to master syncing breathing patterns with movement and to improve balance, alignment, and mind intent while continuing to practice the 24 posture form. The 36 posture Tai Chi form will be introduced with related self-defense applications, \"push-hands\" and Chi Gong meditations. Benefits of Tai Chi exercise relative to age, gender, and for individuals with physical limitations will be critiqued. The course will review basic exercise physiology, nutrition, strength development, and flexibility concepts as related to the benefits of Tai Chi and overall health and wellness.",
     "prerequisites": "KNES 12H or KNES 12HX, or comparable level, or permission of instructor"
   },
@@ -7861,9 +8204,23 @@
     "prerequisites": "None"
   },
   {
+    "code": "KNES 15AX",
+    "title": "Cross Training",
+    "units": "1.0",
+    "description": "An introduction to the discipline of Physical Education including a historical examination of cross training. Cardiovascular fitness will be increased through circuit and interval training. Agility, speed, strength, and flexibility will be enhanced through the utilization of a variety of fitness equipment. Strength, cardiovascular, flexibility, and body composition assessments will be included in course activities. Students will participate indoors as well as outdoors.",
+    "prerequisites": "None"
+  },
+  {
     "code": "KNES 15C",
     "title": "Total Fitness",
     "units": "0.5",
+    "description": "This course introduces the discipline of Kinesiology through total fitness, including a historical and global examination of total fitness and conditioning. Students will improve their fitness through a program of cardiovascular exercise, agility, speed, flexibility, and resistance training using both indoor and outdoor facilities. Fitness assessments will occur throughout the term.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "KNES 15CX",
+    "title": "Total Fitness",
+    "units": "1.0",
     "description": "This course introduces the discipline of Kinesiology through total fitness, including a historical and global examination of total fitness and conditioning. Students will improve their fitness through a program of cardiovascular exercise, agility, speed, flexibility, and resistance training using both indoor and outdoor facilities. Fitness assessments will occur throughout the term.",
     "prerequisites": "None"
   },
@@ -7875,9 +8232,30 @@
     "prerequisites": "None"
   },
   {
+    "code": "KNES 15EX",
+    "title": "Cardiovascular\nand Strength Training",
+    "units": "1.0",
+    "description": "The course introduces the discipline of Physical Education through cardiovascular and strength training. Includes rules, equipment, facilities, etiquette, safety, and technique of cardiovascular and strength training. A brief historical examination of how cardiovascular and strength training has changed due to the influence of individuals and their countries will be presented. Students will review and apply basic exercise physiology, nutrition, and flexibility concepts to improve their physical condition.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "KNES 15EY",
+    "title": "Cardiovascular\nand Strength Training",
+    "units": "1.5",
+    "description": "The course introduces the discipline of Physical Education through cardiovascular and strength training. Includes rules, equipment, facilities, etiquette, safety, and technique of cardiovascular and strength training. A brief historical examination of how cardiovascular and strength training has changed due to the influence of individuals and their countries will be presented. Students will review and apply basic exercise physiology, nutrition, and flexibility concepts to improve their physical condition.",
+    "prerequisites": "None"
+  },
+  {
     "code": "KNES 15F",
     "title": "High Intensity\nInterval Training - HIIT",
     "units": "0.5",
+    "description": "This is an introduction to the field of kinesiology through the practice of high- intensity interval training. The fitness training will focus on heart-rate-based interval training. Resting heart rate, aerobic peak, and reserve rates will be measured for elevated fitness training. This course will go over basic concepts of physiology, cardiovascular, muscular strength, and endurance, and nutritional concepts will be discussed.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "KNES 15FX",
+    "title": "High Intensity\nInterval Training - HIIT",
+    "units": "1.0",
     "description": "This is an introduction to the field of kinesiology through the practice of high- intensity interval training. The fitness training will focus on heart-rate-based interval training. Resting heart rate, aerobic peak, and reserve rates will be measured for elevated fitness training. This course will go over basic concepts of physiology, cardiovascular, muscular strength, and endurance, and nutritional concepts will be discussed.",
     "prerequisites": "None"
   },
@@ -7889,9 +8267,30 @@
     "prerequisites": "None"
   },
   {
+    "code": "KNES 16AX",
+    "title": "Fit Camp",
+    "units": "1.0",
+    "description": "An introduction to the discipline of Kinesiology through fit camp. A historical examination of fit camp for fitness which includes a look at the U.S. Military boot camp regimen. The student will strive for ultimate fitness through a program of cardiovascular exercise including circuit and intervals, balance, agility, speed, strength, and flexibility training both indoors and outdoors. Strength, cardiovascular fitness, flexibility, and body composition assessments will occur throughout the term.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "KNES 16AY",
+    "title": "Fit Camp",
+    "units": "1.5",
+    "description": "An introduction to the discipline of Kinesiology through fit camp. A historical examination of fit camp for fitness which includes a look at the U.S. Military boot camp regimen. The student will strive for ultimate fitness through a program of cardiovascular exercise including circuit and intervals, balance, agility, speed, strength, and flexibility training both indoors and outdoors. Strength, cardiovascular fitness, flexibility, and body composition assessments will occur throughout the term.",
+    "prerequisites": "None"
+  },
+  {
     "code": "KNES 17A",
     "title": "Plyometric\nConditioning 1",
     "units": "0.5",
+    "description": "This is an introductory course to the discipline of Kinesiology through plyometric conditioning, which includes a historical and global examination of plyometric exercise and conditioning. This introductory course is designed to advance the physiological development of strength, speed, and power through a series of leaping, bounding, and hopping exercises to improve coordination and agility effectively.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "KNES 17AX",
+    "title": "Plyometric\nConditioning 1",
+    "units": "1.0",
     "description": "This is an introductory course to the discipline of Kinesiology through plyometric conditioning, which includes a historical and global examination of plyometric exercise and conditioning. This introductory course is designed to advance the physiological development of strength, speed, and power through a series of leaping, bounding, and hopping exercises to improve coordination and agility effectively.",
     "prerequisites": "None"
   },
@@ -7903,9 +8302,23 @@
     "prerequisites": "None"
   },
   {
+    "code": "KNES 19AX",
+    "title": "Strength\nDevelopment",
+    "units": "1.0",
+    "description": "This course is an introduction to the discipline of Kinesiology through strength training. Topics of etiquette, safety, and techniques of strength development, alongside a brief historical examination of how strength training has changed due to the influence of individuals, and their style of lifting, will be explored. The development of skills and adaptations based on the physical ability, age, and gender of the individual student will be encouraged. Students will review and apply basic exercise physiology, nutrition, flexibility, and strength concepts to improve their physical condition.",
+    "prerequisites": "None"
+  },
+  {
     "code": "KNES 19B",
     "title": "Strength\nDevelopment 2",
     "units": "0.5",
+    "description": "This course is an introduction to the discipline of Kinesiology through strength training at an intermediate level, which includes etiquette, safety, and techniques of strength development, with a brief historical examination of how strength training has changed due to the influence of individuals and their style of lifting. The development of skills and adaptations based on the physical ability, age, and gender of the individual student will be encouraged. Students will review and apply basic exercise physiology, nutrition, flexibility and strength concepts to improve their physical condition.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "KNES 19BX",
+    "title": "Strength\nDevelopment 2",
+    "units": "1.0",
     "description": "This course is an introduction to the discipline of Kinesiology through strength training at an intermediate level, which includes etiquette, safety, and techniques of strength development, with a brief historical examination of how strength training has changed due to the influence of individuals and their style of lifting. The development of skills and adaptations based on the physical ability, age, and gender of the individual student will be encouraged. Students will review and apply basic exercise physiology, nutrition, flexibility and strength concepts to improve their physical condition.",
     "prerequisites": "None"
   },
@@ -7917,6 +8330,13 @@
     "prerequisites": "None"
   },
   {
+    "code": "KNES 19DX",
+    "title": "Resistance\nTraining 1",
+    "units": "1.0",
+    "description": "This course is an introduction to Kinesiology through the training for muscular endurance. It includes safety, etiquette, and techniques for developing muscular endurance through resistance and weight training. A global and historical view of muscular endurance training and the role in total fitness will be examined. This course focuses on the basic concepts of strength, agility, and how to improve one's physical condition.",
+    "prerequisites": "None"
+  },
+  {
     "code": "KNES 19E",
     "title": "Body Sculpting",
     "units": "0.5",
@@ -7924,9 +8344,23 @@
     "prerequisites": "None"
   },
   {
+    "code": "KNES 19EX",
+    "title": "Body Sculpting",
+    "units": "1.0",
+    "description": "This course is an introduction to the discipline of Kinesiology. It includes a historical examination of core strengthening. Body sculpting is an integrated approach that focuses on developing the muscles of the entire body. Through body sculpting, the student will achieve ultimate fitness by focusing on a program of strength, balance, agility, and flexibility. Concentration will be on the muscles of the entire body. Resistance training, medicine balls, stability balls, and the body bar will be used in conjunction with proper breathing, posture, and muscle awareness.",
+    "prerequisites": "None"
+  },
+  {
     "code": "KNES 19G",
     "title": "Core\nConditioning",
     "units": "0.5",
+    "description": "An introduction to the discipline of Physical Education through core conditioning which is an integrated fitness approach that focuses on developing the stabilization muscles of the center of the body. Included is a historical examination of core strengthening. Concentration will be on the muscles of the torso, back, hips, inner and outer thighs, chest, and abdominals. Mat work emphasizing breathing techniques, posture, and muscle awareness will be utilized.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "KNES 19GX",
+    "title": "Core\nConditioning",
+    "units": "1.0",
     "description": "An introduction to the discipline of Physical Education through core conditioning which is an integrated fitness approach that focuses on developing the stabilization muscles of the center of the body. Included is a historical examination of core strengthening. Concentration will be on the muscles of the torso, back, hips, inner and outer thighs, chest, and abdominals. Mat work emphasizing breathing techniques, posture, and muscle awareness will be utilized.",
     "prerequisites": "None"
   },
@@ -7952,9 +8386,23 @@
     "prerequisites": "KNES 1B or equivalent swimming skills"
   },
   {
+    "code": "KNES 1CX",
+    "title": "Intermediate\nSwimming",
+    "units": "1.0",
+    "description": "This course is an introduction to the discipline of Kinesiology through skills and techniques for the intermediate swimmer. The global and historical development of swimming as a fitness and competitive activity will be discussed. Intermediate stroke skills, springboard diving, turns, and water safety will be covered. The student will be expected to swim greater lengths with increased motor skills. American Red Cross stroke standards will be followed but adaptations will be allowed based on physical ability, age, strength, and gender. Students will review basic exercise physiology and nutrition appropriate to swimming.",
+    "prerequisites": "KNES 1B or equivalent swimming skills"
+  },
+  {
     "code": "KNES 1D",
     "title": "Advanced\nSwimming",
     "units": "0.5",
+    "description": "This course is an introduction to Kinesiology through skills and techniques for the advanced swimmer. Global and historical development of swimming as a fitness and competitive activity will be discussed. Advanced stroke skills, endurance swimming, racing turns and starts, and springboard diving will be covered. The student will perform skills at a greater speed and distance at an advanced motor skill level. American Red Cross stroke standards will be followed but adaptations will be allowed based on physical ability, age, strength, and gender. Students will review basic exercise physiology and nutrition appropriate to swimming.",
+    "prerequisites": "KNES 1C or KNES 1CX, or equivalent swimming skills"
+  },
+  {
+    "code": "KNES 1DX",
+    "title": "Advanced\nSwimming",
+    "units": "1.0",
     "description": "This course is an introduction to Kinesiology through skills and techniques for the advanced swimmer. Global and historical development of swimming as a fitness and competitive activity will be discussed. Advanced stroke skills, endurance swimming, racing turns and starts, and springboard diving will be covered. The student will perform skills at a greater speed and distance at an advanced motor skill level. American Red Cross stroke standards will be followed but adaptations will be allowed based on physical ability, age, strength, and gender. Students will review basic exercise physiology and nutrition appropriate to swimming.",
     "prerequisites": "KNES 1C or KNES 1CX, or equivalent swimming skills"
   },
@@ -7966,9 +8414,23 @@
     "prerequisites": "None"
   },
   {
+    "code": "KNES 20AX",
+    "title": "Circuit Training\n1",
+    "units": "1.0",
+    "description": "This course introduces the discipline of Kinesiology through beginning-level circuit training. Emphasis is placed on varying exercises grouped and performed to enhance cardiovascular and muscular strength and endurance development. Basic physiological, nutritional, flexibility, and body composition concepts will also be discussed.",
+    "prerequisites": "None"
+  },
+  {
     "code": "KNES 22A",
     "title": "Hatha Yoga",
     "units": "0.5",
+    "description": "This course introduces the discipline of Kinesiology through the study of yoga. It includes a historical examination, key philosophical concepts, and the evolution of yoga throughout the ages. Students will practice simple yoga poses for the mind and body. Other areas, such as mindfulness, breath awareness, and relaxation techniques, will also be covered. This course will also include concepts of exercise physiology and basic nutrition.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "KNES 22AX",
+    "title": "Hatha Yoga",
+    "units": "1.0",
     "description": "This course introduces the discipline of Kinesiology through the study of yoga. It includes a historical examination, key philosophical concepts, and the evolution of yoga throughout the ages. Students will practice simple yoga poses for the mind and body. Other areas, such as mindfulness, breath awareness, and relaxation techniques, will also be covered. This course will also include concepts of exercise physiology and basic nutrition.",
     "prerequisites": "None"
   },
@@ -7980,9 +8442,23 @@
     "prerequisites": "None"
   },
   {
+    "code": "KNES 22BX",
+    "title": "Yoga for\nRelaxation",
+    "units": "1.0",
+    "description": "An introduction to the discipline of Physical Education through the study of yoga for relaxation. Includes a global and historical examination and key philosophical concepts of the yoga tradition. Students will practice yoga techniques to relax the mind and the body. Includes breath awareness and stress reduction techniques. Basic exercise physiology, nutrition, strength development, and flexibility will be covered.",
+    "prerequisites": "None"
+  },
+  {
     "code": "KNES 22C",
     "title": "Power Yoga",
     "units": "0.5",
+    "description": "An introduction to physical education through the study of power yoga. The course includes a historical examination and key philosophical concepts of the yoga tradition, and the evolution of yoga throughout the ages will be covered. Students will practice power yoga poses for muscular development and flexibility, along with, being mindful while using breathing techniques. Basic exercise physiology, nutrition, flexibility, strength, and mental concepts to improve one's physical condition, including, variables which occur due to age, gender, and physical conditions will be covered.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "KNES 22CX",
+    "title": "Power Yoga",
+    "units": "1.0",
     "description": "An introduction to physical education through the study of power yoga. The course includes a historical examination and key philosophical concepts of the yoga tradition, and the evolution of yoga throughout the ages will be covered. Students will practice power yoga poses for muscular development and flexibility, along with, being mindful while using breathing techniques. Basic exercise physiology, nutrition, flexibility, strength, and mental concepts to improve one's physical condition, including, variables which occur due to age, gender, and physical conditions will be covered.",
     "prerequisites": "None"
   },
@@ -7994,9 +8470,23 @@
     "prerequisites": "None"
   },
   {
+    "code": "KNES 22DX",
+    "title": "Flow Yoga",
+    "units": "1.0",
+    "description": "This course is an introduction to Kinesiology through flow yoga and includes a historical examination and key philosophical concepts of the yoga tradition, as well as the evolution of yoga throughout the ages. It is designed to introduce students to the flow element of yoga which emphasizes a mind-body connection from pose to pose, breathing techniques, flexibility, and relaxation. Basic exercise physiology, nutrition, flexibility, strength, and mental concepts to improve one's physical condition, including variables which occur due to age, gender, and physical conditions will be covered.",
+    "prerequisites": "None"
+  },
+  {
     "code": "KNES 22E",
     "title": "Yoga/Pilates\nCombo",
     "units": "0.5",
+    "description": "An introduction to the discipline of physical education through the study of the mind-body connection. Includes a global and historical perspective of mind-body exercise including Yoga and Pilates. Students will practice breathing techniques and examine different ways to center and focus the mind and body using both mat Pilates and Yogic asanas. Basic exercise physiology, nutrition, strength development, and flexibility will be covered.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "KNES 22EX",
+    "title": "Yoga/Pilates\nCombo",
+    "units": "1.0",
     "description": "An introduction to the discipline of physical education through the study of the mind-body connection. Includes a global and historical perspective of mind-body exercise including Yoga and Pilates. Students will practice breathing techniques and examine different ways to center and focus the mind and body using both mat Pilates and Yogic asanas. Basic exercise physiology, nutrition, strength development, and flexibility will be covered.",
     "prerequisites": "None"
   },
@@ -8008,9 +8498,23 @@
     "prerequisites": "None"
   },
   {
+    "code": "KNES 25AX",
+    "title": "Stretching",
+    "units": "1.0",
+    "description": "This course is an introduction to the discipline of Kinesiology through stretching. Techniques for improving flexibility, including passive and active stretches, partner stretches, and stretches using stability balls and yoga straps, will be included. Emphasis will be placed on flexibility, balance, spatial awareness, and safety during stretching. Technique modifications to account for physical limitations will be emphasized. A brief examination of the evolution of the various forms of stretching reflecting cultural, gender, and age differences, exercise physiology, nutrition, and wellness concepts related to total fitness, disabilities, and/or genetics will be covered.",
+    "prerequisites": "None"
+  },
+  {
     "code": "KNES 25B",
     "title": "Active Isolated\nStretching",
     "units": "0.5",
+    "description": "This course is an introduction to the discipline of Kinesiology through active isolated stretching (AIS). This course goes over techniques to help improve flexibility using dynamic, facilitated stretching of major muscle groups. Some technique modifications can account for physical limitations that will be emphasized. A brief examination of the evolution of the various forms of stretching, including active isolated stretching techniques, will be included. This course also emphasizes exercise physiology, neurological reflexes, hydration, muscular strength and endurance, wellness concepts related to total fitness, age, gender, disabilities, and/or genetics will be covered.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "KNES 25BX",
+    "title": "Active Isolated\nStretching",
+    "units": "1.0",
     "description": "This course is an introduction to the discipline of Kinesiology through active isolated stretching (AIS). This course goes over techniques to help improve flexibility using dynamic, facilitated stretching of major muscle groups. Some technique modifications can account for physical limitations that will be emphasized. A brief examination of the evolution of the various forms of stretching, including active isolated stretching techniques, will be included. This course also emphasizes exercise physiology, neurological reflexes, hydration, muscular strength and endurance, wellness concepts related to total fitness, age, gender, disabilities, and/or genetics will be covered.",
     "prerequisites": "None"
   },
@@ -8022,9 +8526,23 @@
     "prerequisites": "None"
   },
   {
+    "code": "KNES 26AX",
+    "title": "Basic Pilates\nMat Exercise",
+    "units": "1.0",
+    "description": "This course introduces Kinesiology through the study of Pilates. It includes a global and historical perspective, key philosophical concepts, and the six principles of Pilates exercise. Students will practice basic Pilates mat techniques to improve concentration, mind relaxation techniques, core strength, and flexibility. The course also includes basic exercise physiology concepts and nutrition.",
+    "prerequisites": "None"
+  },
+  {
     "code": "KNES 26B",
     "title": "Integrated Pilates\nMat Exercise",
     "units": "0.5",
+    "description": "This course is an introduction to Kinesiology through integrated Pilates mat exercise. A variety of equipment will be used to develop core strength and flexibility. Intermediate to advanced Pilates exercises will be practiced to increase and develop muscle strength, discipline of the mind, and rhythmic breathing techniques. This course will also include exercise physiology concepts and basic nutrition.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "KNES 26BX",
+    "title": "Integrated\nPilates Mat Exercise",
+    "units": "1.0",
     "description": "This course is an introduction to Kinesiology through integrated Pilates mat exercise. A variety of equipment will be used to develop core strength and flexibility. Intermediate to advanced Pilates exercises will be practiced to increase and develop muscle strength, discipline of the mind, and rhythmic breathing techniques. This course will also include exercise physiology concepts and basic nutrition.",
     "prerequisites": "None"
   },
@@ -8050,9 +8568,23 @@
     "prerequisites": "KNES 1C or KNES 1CX, or permission of instructor"
   },
   {
+    "code": "KNES 2AX",
+    "title": "Aerobic\nSwimming",
+    "units": "1.0",
+    "description": "This course is an introduction to the discipline of Kinesiology through aerobic swimming. The focus is on cardiovascular conditioning for the swimmer who is proficient at the intermediate level. This course includes an overview of the global and historical development of swimming as a fitness activity. Students will review training methods, measurements, safety, individual program design, exercise physiology, nutrition appropriate to swimming, intermediate strokes, and turns.",
+    "prerequisites": "KNES 1C or KNES 1CX, or permission of instructor"
+  },
+  {
     "code": "KNES 2B",
     "title": "Deep Water\nRunning",
     "units": "0.5",
+    "description": "This course introduces the discipline of Kinesiology through deep water running, including a historical and global examination of deep water running for fitness and rehabilitation. Students will improve fitness through a program of cardiovascular endurance, strength development, and flexibility using water-based exercise routines and equipment.",
+    "prerequisites": "KNES 1C or KNES 1CX, or permission of instructor"
+  },
+  {
+    "code": "KNES 2BX",
+    "title": "Deep Water\nRunning",
+    "units": "1.0",
     "description": "This course introduces the discipline of Kinesiology through deep water running, including a historical and global examination of deep water running for fitness and rehabilitation. Students will improve fitness through a program of cardiovascular endurance, strength development, and flexibility using water-based exercise routines and equipment.",
     "prerequisites": "KNES 1C or KNES 1CX, or permission of instructor"
   },
@@ -8071,6 +8603,13 @@
     "prerequisites": "KNES 30A or permission of instructor"
   },
   {
+    "code": "KNES 30BX",
+    "title": "Advanced Beginning Golf",
+    "units": "1.0",
+    "description": "An introduction to the discipline of Kinesiology through the sport of golf at the advanced beginning level. Includes a global and historical examination of the sport, rules, equipment, facilities, etiquette, and safety. The skills portion of the course will focus on mid irons (5, 6 and 7, 8, 9, and putter) and will include approach shots to the green including 3/4 swing, 1/2 swing, and various other chipping shots. The student will also be required to complete practice sessions at a local driving range.",
+    "prerequisites": "KNES 30A or permission of instructor"
+  },
+  {
     "code": "KNES 30C",
     "title": "Intermediate Golf",
     "units": "0.5",
@@ -8085,9 +8624,23 @@
     "prerequisites": "None"
   },
   {
+    "code": "KNES 31AX",
+    "title": "Beginning\nBadminton",
+    "units": "1.0",
+    "description": "This course is an introduction to the discipline of Kinesiology through badminton. This course includes a global and historical examination of the sport, rules, equipment, facilities, etiquette, and basic strokes in beginning- level badminton. Basic exercise physiology, nutrition, flexibility, and strength concepts to improve physical condition will be discussed. The skills portion of the course will encourage an understanding of how to adapt the game and conventional techniques to age, gender, and physical conditions.",
+    "prerequisites": "None"
+  },
+  {
     "code": "KNES 31B",
     "title": "Intermediate\nBadminton",
     "units": "0.5",
+    "description": "This course provides an introduction to the discipline of Kinesiology through the sport of badminton, including a global and historical examination of the sport, rules, equipment, facilities, and etiquette. Basic exercise physiology, nutrition, fundamentals of strength development, and flexibility relative to playing at an intermediate level will be included. The course will encourage an understanding of how to adapt game strategies and conventional techniques to one's needs and abilities based on age, gender, and environmental conditions, personal strengths, and weaknesses.",
+    "prerequisites": "KNES 31A or KNES 31AX, or permission of instructor"
+  },
+  {
+    "code": "KNES 31BX",
+    "title": "Intermediate\nBadminton",
+    "units": "1.0",
     "description": "This course provides an introduction to the discipline of Kinesiology through the sport of badminton, including a global and historical examination of the sport, rules, equipment, facilities, and etiquette. Basic exercise physiology, nutrition, fundamentals of strength development, and flexibility relative to playing at an intermediate level will be included. The course will encourage an understanding of how to adapt game strategies and conventional techniques to one's needs and abilities based on age, gender, and environmental conditions, personal strengths, and weaknesses.",
     "prerequisites": "KNES 31A or KNES 31AX, or permission of instructor"
   },
@@ -8099,10 +8652,24 @@
     "prerequisites": "KNES 31B or KNES 31BX, or permission of instructor"
   },
   {
+    "code": "KNES 31CX",
+    "title": "Advanced\nBadminton",
+    "units": "1.0",
+    "description": "This course provides a further examination of Kinesiology through the sport of badminton, including an in-depth study of the sport at an advanced level. It covers rules, equipment, facilities, etiquette, and advanced skills and strategies related to competitive play. Basic concepts in exercise physiology, nutrition, flexibility, and strength will be covered to improve physical condition and enhance performance at a more advanced level. The skills portion of the course will encourage an understanding of how to adapt the game and conventional techniques to age, gender, and physical conditions.",
+    "prerequisites": "KNES 31B or KNES 31BX, or permission of instructor"
+  },
+  {
     "code": "KNES 31J",
     "title": "Pickleball Level 1",
     "units": "0.5",
     "description": "This course covers the development of beginning-level playing and competitive skills in the paddle sport of pickleball. Instruction in the beginning skills, techniques, strategies, along with rules and etiquette. Pickleball features simple rules and is easy to learn. Because beginners can enjoy the sport almost immediately, while advanced players experience it as a fast-paced, highly competitive game, pickleball is suitable for individuals of all ages, fitness levels and athletic abilities.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "KNES 31JX",
+    "title": "Pickleball Level 1",
+    "units": "1.0",
+    "description": "This course covers the development of beginning-level playing and competitive skills in the paddle sport of pickleball and instruction will be in the beginning skills of techniques and strategies, along with rules and etiquette. Pickleball features simple rules and is easy to learn. Because beginners can enjoy the sport almost immediately, while advanced players experience it as a fast-paced, highly competitive game, pickleball is suitable for individuals of all ages, fitness levels, and athletic abilities.",
     "prerequisites": "None"
   },
   {
@@ -8113,9 +8680,23 @@
     "prerequisites": "KNES 31J or KNES 31JX"
   },
   {
+    "code": "KNES 31KX",
+    "title": "Pickleball Level\n2",
+    "units": "1.0",
+    "description": "Development of intermediate-level playing and competitive skills in the paddle sport of pickleball. Instruction in the intermediate skills, techniques, strategies, along with rules and etiquette. Pickleball features simple rules and is easy to learn. Because beginners can enjoy the sport almost immediately, while advanced players experience it as a fast-paced, highly competitive game, pickleball is suitable for individuals of all ages, fitness levels, and athletic abilities.",
+    "prerequisites": "KNES 31J or KNES 31JX"
+  },
+  {
     "code": "KNES 31L",
     "title": "Pickleball Level 3",
     "units": "0.5",
+    "description": "This course builds on the fundamental knowledge of intermediate-advanced level playing and competitive skills in the paddle sport of pickleball. Instruction will be in pickleball rules, etiquette, intermediate-advanced skills practice, strokes, footwork, speed of play, and strategy. Emphasis is on skills development including the dink, drop shot, serve, lob, overhead smash, and shot placement. Intermediate- advanced players experience pickleball as a fast-paced, highly competitive game, pickleball is suitable for individuals of all ages, fitness levels, and athletic abilities.",
+    "prerequisites": "KNES 31K or KNES 31KX"
+  },
+  {
+    "code": "KNES 31LX",
+    "title": "Pickleball Level\n3",
+    "units": "1.0",
     "description": "This course builds on the fundamental knowledge of intermediate-advanced level playing and competitive skills in the paddle sport of pickleball. Instruction will be in pickleball rules, etiquette, intermediate-advanced skills practice, strokes, footwork, speed of play, and strategy. Emphasis is on skills development including the dink, drop shot, serve, lob, overhead smash, and shot placement. Intermediate- advanced players experience pickleball as a fast-paced, highly competitive game, pickleball is suitable for individuals of all ages, fitness levels, and athletic abilities.",
     "prerequisites": "KNES 31K or KNES 31KX"
   },
@@ -8127,9 +8708,23 @@
     "prerequisites": "KNES 31L or KNES 31LX"
   },
   {
+    "code": "KNES 31MX",
+    "title": "Pickleball Level\n4",
+    "units": "1.0",
+    "description": "This course covers advanced pickleball strategies and strokes with an emphasis on competitive singles and doubles match play. Instruction will include advanced pickleball skills including tactics in poaching, varying the service, anticipating shots, adjusting tactics, and tournament play. Concepts of warm-up, fitness, nutrition, injury prevention, and the mental game are explored for the competitive player.",
+    "prerequisites": "KNES 31L or KNES 31LX"
+  },
+  {
     "code": "KNES 32A",
     "title": "Beginning Tennis",
     "units": "0.5",
+    "description": "This course is an introduction to the discipline of Kinesiology through the sport of tennis. Basic ground strokes, serve and footwork as well as basic singles' and doubles' strategies will be covered. This course includes a brief historical examination of the sport, rules, equipment, facilities, and etiquette. Students will strive to understand and apply basic exercise physiology, nutrition, flexibility, and strength concepts to improve their physical condition in order to play at a more advanced level and to adapt the game to their individual physical ability, age, and gender.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "KNES 32AX",
+    "title": "Beginning\nTennis",
+    "units": "1.0",
     "description": "This course is an introduction to the discipline of Kinesiology through the sport of tennis. Basic ground strokes, serve and footwork as well as basic singles' and doubles' strategies will be covered. This course includes a brief historical examination of the sport, rules, equipment, facilities, and etiquette. Students will strive to understand and apply basic exercise physiology, nutrition, flexibility, and strength concepts to improve their physical condition in order to play at a more advanced level and to adapt the game to their individual physical ability, age, and gender.",
     "prerequisites": "None"
   },
@@ -8141,9 +8736,23 @@
     "prerequisites": "KNES 32A or KNES 32AX, or equivalent skills"
   },
   {
+    "code": "KNES 32BX",
+    "title": "Advanced\nBeginning Tennis",
+    "units": "1.0",
+    "description": "This course is a continuing introduction to the discipline of Kinesiology through the rules, equipment, facilities, etiquette, and basic strokes - volley, lob, and overhead and with further development of the forehand, backhand, and serve. Instructors will emphasize conventional skill development and encourage adaptations based on physical ability, age, strength, gender, of various countries and/or genetics. A brief historical examination of how the game of tennis has changed due to the influence of individual men, women, and children of various countries and their styles of play or strategies will be covered. Students will review and apply basic exercise physiology, nutrition, flexibility, and strength concepts to improve their physical condition and play tennis at a more advanced level.",
+    "prerequisites": "KNES 32A or KNES 32AX, or equivalent skills"
+  },
+  {
     "code": "KNES 32C",
     "title": "Intermediate\nTennis",
     "units": "0.5",
+    "description": "This course provides an introduction to the discipline of Kinesiology through the sport of tennis. Development of consistency, accuracy, and control for forehand, backhand ground-strokes, serve, volley, lob, and overhead skills utilizing fundamental theories of physics. Introducing elements of changing the dynamics of the game with spins and drop shots or by approaching the net, basic singles and doubles strategies. A brief historical examination of how the game of tennis has changed due to the influence of individual men, women, and children from various countries, and their styles of play or strategies. Students will review and apply basic exercise physiology, nutrition, flexibility, and strength concepts to improve their physical condition in order to play tennis at a more advanced level.",
+    "prerequisites": "KNES 32B or KNES 32BX, or equivalent skills"
+  },
+  {
+    "code": "KNES 32CX",
+    "title": "Intermediate\nTennis",
+    "units": "1.0",
     "description": "This course provides an introduction to the discipline of Kinesiology through the sport of tennis. Development of consistency, accuracy, and control for forehand, backhand ground-strokes, serve, volley, lob, and overhead skills utilizing fundamental theories of physics. Introducing elements of changing the dynamics of the game with spins and drop shots or by approaching the net, basic singles and doubles strategies. A brief historical examination of how the game of tennis has changed due to the influence of individual men, women, and children from various countries, and their styles of play or strategies. Students will review and apply basic exercise physiology, nutrition, flexibility, and strength concepts to improve their physical condition in order to play tennis at a more advanced level.",
     "prerequisites": "KNES 32B or KNES 32BX, or equivalent skills"
   },
@@ -8155,9 +8764,23 @@
     "prerequisites": "KNES 32C or KNES 32CX, or equivalent skills based on instructor's evaluation"
   },
   {
+    "code": "KNES 32DX",
+    "title": "Advanced\nTennis",
+    "units": "1.0",
+    "description": "This course further examines Kinesiology through tennis. Basic exercise physiology, nutrition, fundamentals of strength development and flexibility relative to playing at an advanced level will be included. The course will encourage an understanding of how to adapt game strategies and conventional techniques to one's needs and abilities based on age, gender and environmental conditions, personal strengths and weaknesses.",
+    "prerequisites": "KNES 32C or KNES 32CX, or equivalent skills based on instructor's evaluation"
+  },
+  {
     "code": "KNES 32E",
     "title": "Beginning Table\nTennis",
     "units": "0.5",
+    "description": "An introduction to the discipline of Physical Education through table tennis. Includes a global and historical examination of the sport, rules, equipment, facilities, etiquette, and basic strokes in beginning level table tennis. Basic exercise physiology, nutrition, flexibility and strength concepts to improve physical condition will be discussed. The skills portion of the course will encourage an understanding of how to adapt the game and conventional techniques to age, gender and physical conditions.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "KNES 32EX",
+    "title": "Beginning Table\nTennis",
+    "units": "1.0",
     "description": "An introduction to the discipline of Physical Education through table tennis. Includes a global and historical examination of the sport, rules, equipment, facilities, etiquette, and basic strokes in beginning level table tennis. Basic exercise physiology, nutrition, flexibility and strength concepts to improve physical condition will be discussed. The skills portion of the course will encourage an understanding of how to adapt the game and conventional techniques to age, gender and physical conditions.",
     "prerequisites": "None"
   },
@@ -8169,6 +8792,13 @@
     "prerequisites": "KNES 32E or KNES 32EX"
   },
   {
+    "code": "KNES 32FX",
+    "title": "Intermediate\nTable Tennis",
+    "units": "1.0",
+    "description": "Development of consistency, accuracy and control for forehand, backhand strokes, and serve. Introducing elements of changing the dynamics of the game with spins; basic singles and doubles strategies. Includes a global and historical examination of the sport, rules, equipment, facilities, etiquette, in intermediate level table tennis. Basic exercise physiology, nutrition, flexibility and strength concepts to improve physical condition will be discussed. The skills portion of the course will encourage an understanding of how to adapt the game and conventional techniques to age, gender and physical conditions.",
+    "prerequisites": "KNES 32E or KNES 32EX"
+  },
+  {
     "code": "KNES 36A",
     "title": "Team Sport -\nBasketball Level 1",
     "units": "0.5",
@@ -8176,9 +8806,23 @@
     "prerequisites": "None"
   },
   {
+    "code": "KNES 36AX",
+    "title": "Team Sport -\nBasketball Level 1",
+    "units": "1.0",
+    "description": "An introduction to the discipline of Kinesiology through beginning basketball. Activities include individual and team strategies and techniques required for competitive games. A brief historical examination of significant national and international contributions to the development of styles of play will be presented. The impact of culture and gender on amateur and professional levels of competition will also be analyzed. Skills emphasized will enable students to participate in informal basketball (streetball) activities. Students will recognize basketball needs associated with physiology, nutrition, flexibility, and strength concepts in order to improve their level of skill. Instructors will motivate and encourage students to practice and adapt skills to physical ability, age, strength, and gender. Major emphasis on tournament format participation.",
+    "prerequisites": "None"
+  },
+  {
     "code": "KNES 37A",
     "title": "Soccer",
     "units": "0.5",
+    "description": "This introductory course enhances soccer skills while incorporating a global perspective and recognizing contributions from both male and female experts and players. Emphasis is placed on the four major pillars of the game: technical ability, tactical understanding, physical fitness, and the mental approach necessary for successful match play. Strategies and tactics will be discussed and practiced, along with an introduction to the laws of the game, equipment, fair play, flexibility, nutrition, and key nuances of soccer. Students will be encouraged to use the Internet and other media sources to deepen their understanding of the world&rsquo;s most popular sport.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "KNES 37AX",
+    "title": "Soccer",
+    "units": "1.0",
     "description": "This introductory course enhances soccer skills while incorporating a global perspective and recognizing contributions from both male and female experts and players. Emphasis is placed on the four major pillars of the game: technical ability, tactical understanding, physical fitness, and the mental approach necessary for successful match play. Strategies and tactics will be discussed and practiced, along with an introduction to the laws of the game, equipment, fair play, flexibility, nutrition, and key nuances of soccer. Students will be encouraged to use the Internet and other media sources to deepen their understanding of the world&rsquo;s most popular sport.",
     "prerequisites": "None"
   },
@@ -8190,6 +8834,13 @@
     "prerequisites": "KNES 37A or KNES 37AX, or equivalent skills"
   },
   {
+    "code": "KNES 37BX",
+    "title": "Soccer Level 2",
+    "units": "1.0",
+    "description": "An introduction to the discipline of Kinesiology through the game of soccer, including a global perspective and the contributions of both male and female soccer experts and players. Emphasis will be placed upon the four major pillars of the game: technical ability, tactical understanding, physical fitness, and the mental approach necessary to compete successfully in match play. Technical skills and small group strategies and tactics will be introduced and performed. There will be a discussion introducing additional laws of the game, equipment, fair play, flexibility, nutrition, and the nuances of the game. Use of the Internet and other media sources will be encouraged to further understand the world's most popular game.",
+    "prerequisites": "KNES 37A or KNES 37AX, or equivalent skills"
+  },
+  {
     "code": "KNES 37C",
     "title": "Soccer Level 3",
     "units": "0.5",
@@ -8197,9 +8848,23 @@
     "prerequisites": "KNES 37B or KNES 37BX, or equivalent skills"
   },
   {
+    "code": "KNES 37CX",
+    "title": "Soccer Level 3",
+    "units": "1.0",
+    "description": "An introduction to the discipline of physical education through the game of soccer, including a global perspective and the contributions of both male and female soccer experts and players. Emphasis will be placed upon the four major pillars of the game: technical ability, tactical understanding, physical fitness, and the mental approach necessary to compete successfully in match play. Team offensive and defensive skills, strategies and tactics will be introduced and performed. There will be a discussion on additional laws of the game, equipment, fair play, flexibility, nutrition, and the nuances of the game. Use of the Internet and other media sources will be encouraged to further understand the world's most popular game.",
+    "prerequisites": "KNES 37B or KNES 37BX, or equivalent skills"
+  },
+  {
     "code": "KNES 37D",
     "title": "Soccer Level 4",
     "units": "0.5",
+    "description": "An introduction to the discipline of physical education through the game of soccer, including a global perspective and the contributions of both male and female soccer experts and players. Emphasis will be placed upon the four major pillars of the game: technical ability, tactical understanding, physical fitness, and the mental approach necessary to compete successfully in match play. Tactical skills and comprehensive team strategies will be practiced and performed. There will be a discussion introducing additional laws of the game, equipment, fair play, flexibility, nutrition, and the nuances of the game. Use of the Internet and other media sources will be encouraged to further understand the world's most popular game.",
+    "prerequisites": "KNES 37C or KNES 37CX, or equivalent skills"
+  },
+  {
+    "code": "KNES 37DX",
+    "title": "Soccer Level 4",
+    "units": "1.0",
     "description": "An introduction to the discipline of physical education through the game of soccer, including a global perspective and the contributions of both male and female soccer experts and players. Emphasis will be placed upon the four major pillars of the game: technical ability, tactical understanding, physical fitness, and the mental approach necessary to compete successfully in match play. Tactical skills and comprehensive team strategies will be practiced and performed. There will be a discussion introducing additional laws of the game, equipment, fair play, flexibility, nutrition, and the nuances of the game. Use of the Internet and other media sources will be encouraged to further understand the world's most popular game.",
     "prerequisites": "KNES 37C or KNES 37CX, or equivalent skills"
   },
@@ -8218,9 +8883,23 @@
     "prerequisites": "None"
   },
   {
+    "code": "KNES 38AX",
+    "title": "Futsal Level 1",
+    "units": "1.0",
+    "description": "This course introduces the discipline of Kinesiology through futsal (basic beginner level). Introductory skills at the beginning level will be learned for this game played indoors on a basketball court. The course will include a global perspective of futsal and a historical review of the sport. Emphasis will be placed upon the four major pillars of the game: with a basic understanding of the sport and the ability to be able to perform basic moves of elementary futsal. An introduction to the laws of the game pertaining to individual and pairs play, proper equipment, fair play, flexibility, and nutrition will be discussed.",
+    "prerequisites": "None"
+  },
+  {
     "code": "KNES 38B",
     "title": "Futsal Level 2",
     "units": "0.5",
+    "description": "This course is a further introduction to Kinesiology through the sport of futsal (advanced beginner level). The focus will be on the advancement in futsal skills, including technical ability, and tactical understanding for this game played indoors on a basketball court. The course includes a global perspective of futsal and a historical review of the sport. Advanced-beginner level skills and small group (partners) strategies and tactics will be performed. An introduction to the laws of the game pertaining to free kicks, kick-ins, goal kicks, and corner kicks will be discussed.",
+    "prerequisites": "KNES 38A or KNES 38AX, or equivalent skills"
+  },
+  {
+    "code": "KNES 38BX",
+    "title": "Futsal Level 2",
+    "units": "1.0",
     "description": "This course is a further introduction to Kinesiology through the sport of futsal (advanced beginner level). The focus will be on the advancement in futsal skills, including technical ability, and tactical understanding for this game played indoors on a basketball court. The course includes a global perspective of futsal and a historical review of the sport. Advanced-beginner level skills and small group (partners) strategies and tactics will be performed. An introduction to the laws of the game pertaining to free kicks, kick-ins, goal kicks, and corner kicks will be discussed.",
     "prerequisites": "KNES 38A or KNES 38AX, or equivalent skills"
   },
@@ -8232,9 +8911,23 @@
     "prerequisites": "KNES 38B or KNES 38BX, or equivalent skills"
   },
   {
+    "code": "KNES 38CX",
+    "title": "Futsal Level 3",
+    "units": "1.0",
+    "description": "This course is an introduction to Kinesiology through futsal (intermediate level) and includes a global perspective of futsal and a historical review of the sport. Emphasis will be placed on the technical ability at level 3. Tactical techniques, increased fitness, and the mental approach necessary to compete in match play will also be emphasized, while full side strategies and tactics will be discussed and performed. Nutrition, muscular endurance, stretching, and nutrition will be highlighted in the course.",
+    "prerequisites": "KNES 38B or KNES 38BX, or equivalent skills"
+  },
+  {
     "code": "KNES 38D",
     "title": "Futsal Level 4",
     "units": "0.5",
+    "description": "This course is an introduction to the field of Kinesiology through the game of Futsal. More enhanced skills used in the game of futsal are the focus of this course and is taught at the competitive level for the more advanced student. Technical ability, tactical understanding, physical fitness, and the mental approach necessary to compete successfully in match play will be emphasized. Competitive skills and full team strategies and tactics will be discussed and performed. There will be a discussion introducing additional laws of the game, the role of referee, match fitness, nutrition, and nuances of the game.",
+    "prerequisites": "KNES 38C or KNES 38CX, or equivalent skills"
+  },
+  {
+    "code": "KNES 38DX",
+    "title": "Futsal Level 4",
+    "units": "1.0",
     "description": "This course is an introduction to the field of Kinesiology through the game of Futsal. More enhanced skills used in the game of futsal are the focus of this course and is taught at the competitive level for the more advanced student. Technical ability, tactical understanding, physical fitness, and the mental approach necessary to compete successfully in match play will be emphasized. Competitive skills and full team strategies and tactics will be discussed and performed. There will be a discussion introducing additional laws of the game, the role of referee, match fitness, nutrition, and nuances of the game.",
     "prerequisites": "KNES 38C or KNES 38CX, or equivalent skills"
   },
@@ -8246,9 +8939,23 @@
     "prerequisites": "None"
   },
   {
+    "code": "KNES 39AX",
+    "title": "Volleyball Level\n1",
+    "units": "1.0",
+    "description": "This is an introductory course in Kinesiology designed to enhance skills used in the game of volleyball. Topics include the rules, equipment, facilities, safety, etiquette, basic fundamentals in beginning level volleyball with strategies for team offense and defense, and a brief historical examination of global contributions by the men and women who changed the game of volleyball. Students will develop passing, hitting, blocking, and serving techniques. The skills portion of the course will encourage an understanding of how to adapt the game and conventional techniques to an individual's physical abilities. Students will understand and apply basic exercise physiology, nutrition, flexibility, and strength concepts to improve their physical condition in order to play at a more advanced level.",
+    "prerequisites": "None"
+  },
+  {
     "code": "KNES 39B",
     "title": "Volleyball Level 2",
     "units": "0.5",
+    "description": "This is a continued introduction to the discipline of Kinesiology through the sport of volleyball. Topics include a global and historical examination of the sport, rules, equipment, facilities, etiquette, safety, and fundamentals of volleyball. Students will develop their volleyball skills and improve upon basic team play strategies. Students will apply basic exercise physiology, nutrition, flexibility, and strength concepts to improve their overall playing level.",
+    "prerequisites": "KNES 39A or KNES 39AX, or permission of instructor"
+  },
+  {
+    "code": "KNES 39BX",
+    "title": "Volleyball Level\n2",
+    "units": "1.0",
     "description": "This is a continued introduction to the discipline of Kinesiology through the sport of volleyball. Topics include a global and historical examination of the sport, rules, equipment, facilities, etiquette, safety, and fundamentals of volleyball. Students will develop their volleyball skills and improve upon basic team play strategies. Students will apply basic exercise physiology, nutrition, flexibility, and strength concepts to improve their overall playing level.",
     "prerequisites": "KNES 39A or KNES 39AX, or permission of instructor"
   },
@@ -8260,9 +8967,30 @@
     "prerequisites": "KNES 39B or KNES 39BX, or permission of instructor"
   },
   {
+    "code": "KNES 39CX",
+    "title": "Volleyball Level\n3",
+    "units": "1.0",
+    "description": "This is an intermediate-advanced course in Kinesiology designed to enhance skills and knowledge in the sport of volleyball. Topics include a global and historical examination of the sport, rules, equipment, facilities, etiquette, safety, and fundamentals of intermediate-advanced volleyball. Students will develop their volleyball skills and improve upon team play strategies. Students will apply basic exercise physiology, nutrition, flexibility, and strength concepts to improve their overall playing level.",
+    "prerequisites": "KNES 39B or KNES 39BX, or permission of instructor"
+  },
+  {
+    "code": "KNES 39DX",
+    "title": "Volleyball Level\n4",
+    "units": "1.0",
+    "description": "This is an advanced course in Kinesiology designed to enhance skills and knowledge in the sport of volleyball. Topics include a global and historical examination of the sport, rules, equipment, facilities, etiquette, safety, and fundamentals of advanced volleyball through tournament play. Students will improve upon team play strategies. The primary purpose of this course is to promote educational and organized competitive playing opportunities for males and females. Students will apply exercise physiology, nutrition, flexibility, and strength concepts for an advanced level of play.",
+    "prerequisites": "KNES 39C or KNES 39CX, or permission of instructor"
+  },
+  {
     "code": "KNES 40A",
     "title": "Flag Football 1",
     "units": "0.5",
+    "description": "An introduction to the discipline of kinesiology through the game of flag football. This is an introductory course designed to give students the opportunity to review and practice the basic fundamental skills relative to the game of flag football. Basic physiology, nutrition, strength, and flexibility concepts will be discussed.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "KNES 40AX",
+    "title": "Flag Football 1",
+    "units": "1.0",
     "description": "An introduction to the discipline of kinesiology through the game of flag football. This is an introductory course designed to give students the opportunity to review and practice the basic fundamental skills relative to the game of flag football. Basic physiology, nutrition, strength, and flexibility concepts will be discussed.",
     "prerequisites": "None"
   },
@@ -8274,6 +9002,13 @@
     "prerequisites": "KNES 40A or KNES 40AX"
   },
   {
+    "code": "KNES 40BX",
+    "title": "Flag Football 2",
+    "units": "1.0",
+    "description": "An introduction to the discipline of Kinesiology through the game of flag football. This is designed to give students the opportunity to review and practice the intermediate skills relative to the game of flag football. An introduction to the tactics of flag football will be covered. Basic physiology, nutrition, strength, and flexibility concepts will be discussed.",
+    "prerequisites": "KNES 40A or KNES 40AX"
+  },
+  {
     "code": "KNES 40C",
     "title": "Flag Football 3",
     "units": "0.5",
@@ -8281,9 +9016,23 @@
     "prerequisites": "KNES 40B or KNES 40BX"
   },
   {
+    "code": "KNES 40CX",
+    "title": "Flag Football 3",
+    "units": "1.0",
+    "description": "An introduction to the discipline of Kinesiology through the game of flag football. This is designed to give students the opportunity to review and practice the advanced skills relative to the game of flag football. An advanced examination of the tactics of flag football will be covered. Basic physiology, nutrition, strength, and flexibility concepts will be discussed.",
+    "prerequisites": "KNES 40B or KNES 40BX"
+  },
+  {
     "code": "KNES 41A",
     "title": "Ultimate Frisbee 1",
     "units": "0.5",
+    "description": "An introduction to the discipline of kinesiology through the sport of Ultimate Frisbee. Includes a global perspective and the contributions of both male and female Ultimate Frisbee experts and players. Emphasis will be placed in psychomotor, cognitive, and effective domains of the sport. There will be an introduction to the laws of the game, equipment, fair play, flexibility, nutrition, and the nuances of the game.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "KNES 41AX",
+    "title": "Ultimate Frisbee 1",
+    "units": "1.0",
     "description": "An introduction to the discipline of kinesiology through the sport of Ultimate Frisbee. Includes a global perspective and the contributions of both male and female Ultimate Frisbee experts and players. Emphasis will be placed in psychomotor, cognitive, and effective domains of the sport. There will be an introduction to the laws of the game, equipment, fair play, flexibility, nutrition, and the nuances of the game.",
     "prerequisites": "None"
   },
@@ -8295,6 +9044,13 @@
     "prerequisites": "Successful completion of KNES 41A, KNES 41AX or skills equivalent"
   },
   {
+    "code": "KNES 41BX",
+    "title": "Ultimate Frisbee\n2",
+    "units": "1.0",
+    "description": "An intermediate exploration into the discipline of Kinesiology through the sport of Ultimate Frisbee. Includes a global perspective and the contributions of both male and female Ultimate Frisbee experts and players. Emphasis will be placed in psychomotor, cognitive, and effective domains of the sport. There will be a complete exploration into the laws of the game, equipment, fair play, flexibility, nutrition, and the nuances of the game.",
+    "prerequisites": "Successful completion of KNES 41A, KNES 41AX or skills equivalent"
+  },
+  {
     "code": "KNES 41C",
     "title": "Ultimate Frisbee\n3",
     "units": "0.5",
@@ -8302,9 +9058,23 @@
     "prerequisites": "KNES 41B or KNES 41BX"
   },
   {
+    "code": "KNES 41CX",
+    "title": "Ultimate Frisbee\n3",
+    "units": "1.0",
+    "description": "An advanced exploration into the discipline of Kinesiology through the sport of Ultimate Frisbee. Includes a global perspective and the contributions of both male and female Ultimate Frisbee experts and players. Emphasis will be placed in psychomotor, cognitive, and effective domains of the sport. There will be an introduction to the laws of the game, equipment, fair play, flexibility, nutrition, and the nuances of the game.",
+    "prerequisites": "KNES 41B or KNES 41BX"
+  },
+  {
     "code": "KNES 42C",
     "title": "High Intensity Motor Training",
     "units": "0.5",
+    "description": "An introduction to the discipline of Kinesiology through human motor development. Emphasis will be placed upon heart rate based Interval training. Peak and reserve rates will provide a backdrop for elevated motor training. Improved health and fitness will be the main focus for students whether novice or elite. Interaction will occur in a collaborative setting.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "KNES 42CX",
+    "title": "High Intensity Motor Training",
+    "units": "1.0",
     "description": "An introduction to the discipline of Kinesiology through human motor development. Emphasis will be placed upon heart rate based Interval training. Peak and reserve rates will provide a backdrop for elevated motor training. Improved health and fitness will be the main focus for students whether novice or elite. Interaction will occur in a collaborative setting.",
     "prerequisites": "None"
   },
@@ -8344,10 +9114,24 @@
     "prerequisites": "None"
   },
   {
+    "code": "KNES 50AL",
+    "title": "Lifetime Wellness and Fitness\nCenter Laboratory",
+    "units": "1.0",
+    "description": "A laboratory designed to improve student's cardio- respiratory fitness, muscular strength and endurance, flexibility and body composition. Strength and muscular endurance will be developed using Magnum weight equipment. Cardio-respiratory programs will be run on treadmills, cycles, stair steppers, and elliptical trainers.",
+    "prerequisites": "HLTH 51, KNES 50A or KNES 53 (all courses may be taken concurrently)"
+  },
+  {
     "code": "KNES 51A",
     "title": "Fitness and\nDietary Wellness",
     "units": "3.0",
     "description": "An examination of the effect of exercise, basal metabolic rate and total daily energy expenditure on weight management. The role of cardiovascular exercise, resistance training, body composition and nutrition on an individual's metabolic rate is assessed. Lifestyle factors and choices, managing stress and motivational strategies for maintaining a healthy body weight is discussed. Students will develop a personal exercise program, assess cardiovascular fitness, muscular strength and endurance, and body composition to improve metabolic rate.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "KNES 51AL",
+    "title": "Fitness and\nDietary Wellness Laboratory",
+    "units": "1.0",
+    "description": "This is a laboratory course designed for students to utilize exercise as a weight management technique for both weight loss, weight gain, or healthy weight maintenance. Cardio-respiratory fitness and muscular strength and endurance techniques will be emphasized. The exercise programs will focus on improving body composition based on weight management techniques.",
     "prerequisites": "None"
   },
   {
@@ -8386,6 +9170,13 @@
     "prerequisites": "None"
   },
   {
+    "code": "KNES 5AX",
+    "title": "Indoor Cycling",
+    "units": "1.0",
+    "description": "This course is an introduction to the discipline of Physical Education through indoor cycling. This includes a historical examination of indoor cycling/spinning. Our cycling program is an individually paced, non- competitive, group training program designed for all riders at different fitness levels. Cycling is an exercise that is performed on a stationary racing bicycle and which plays music to enhance performance in the class. The training is fast-paced and open to anyone interested in losing body fat, improving cycling techniques, and improving their cardio respiration endurance.",
+    "prerequisites": "None"
+  },
+  {
     "code": "KNES 5B",
     "title": "High Intensity\nIndoor Cycling",
     "units": "0.5",
@@ -8393,9 +9184,23 @@
     "prerequisites": "None"
   },
   {
+    "code": "KNES 5BX",
+    "title": "High Intensity\nIndoor Cycling",
+    "units": "1.0",
+    "description": "This course is an introduction to the discipline of Kinesiology through indoor cycling, which includes a historical examination of indoor cycling/spinning. The cycling program is an individual-paced, competitive group-training program designed to develop cardiovascular fitness at higher intensity levels. Using interval training, students will improve aerobic and anaerobic energy systems. Our student will develop core endurance and strength using various equipment. Students can assess and design a personal workout program for an indoor cycling program that can be modified to an outdoor trail.",
+    "prerequisites": "None"
+  },
+  {
     "code": "KNES 6A",
     "title": "Aerobic Power\nWalking",
     "units": "0.5",
+    "description": "This course is an introduction to the discipline of Physical Education through aerobic power walking. Includes a historical and global examination of walking for health and fitness. Students will improve fitness through a progressive program of walking various distances, routes, and at variable speeds. The importance of strength development, and flexibility exercises, adaptations of the exercises to individual physical abilities, and principles of fitness and nutrition will be discussed.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "KNES 6AX",
+    "title": "Aerobic Power\nWalking",
+    "units": "1.0",
     "description": "This course is an introduction to the discipline of Physical Education through aerobic power walking. Includes a historical and global examination of walking for health and fitness. Students will improve fitness through a progressive program of walking various distances, routes, and at variable speeds. The importance of strength development, and flexibility exercises, adaptations of the exercises to individual physical abilities, and principles of fitness and nutrition will be discussed.",
     "prerequisites": "None"
   },
@@ -8428,18 +9233,67 @@
     "prerequisites": "None"
   },
   {
+    "code": "KNES 7AX",
+    "title": "Step Aerobics",
+    "units": "1.0",
+    "description": "An introduction to the discipline of Physical Education through cardiovascular/aerobic exercise utilizing a step system to promote cardiorespiratory endurance through a variety of movements. Students will learn fundamental patterns and routines with popular music accompaniment. Global and historical review of the evolution of aerobic exercise, exercise trends for men, women and athletes will be discussed. Students will review and apply basic exercise physiology, nutrition and wellness concepts related to cardiovascular exercise, strength development and flexibility relative to age, gender, or physical limitations.",
+    "prerequisites": "None"
+  },
+  {
     "code": "KNES 90",
     "title": "Introduction to\nManual Therapy - Sports\nMedicine",
     "units": "5.0",
     "description": "Designed to provide an introduction to the discipline of Kinesiology and its role in sports medicine-related fields that include manual therapies such as physical therapy, occupational therapy, orthopedic medicine, and athletic training. Critiques of common athletic injuries using the overarching principles of kinesiology and the interplay of physiological, sociological, and psychological factors related to rehabilitation will be included. Physiological, sociological, and psychological factors will be discussed as they relate to lifelong skills working in a sports medicine field. Hands-on practice of manual therapy techniques will be incorporated in the laboratory portion of the class and will prepare students for an internship to work under the guidance of a certified athletic trainer.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "KNES 90AX",
+    "title": "Manual\nTherapy Internship - Sports\nMedicine Level 1",
+    "units": "1.0",
+    "description": "Upon successful completion of KNES D090A and KNES D046., students will assume the role of student manual therapist or athletic training room student assistant under the direct guidance of an athletic trainer or coach. Through hands-on practice and observation, students will be provided a chance to refine their manual therapy skills by working with athletes prior to competition, during a competition, post-competition, or during off-season training.",
     "prerequisites": "KNES 46, KNES 90A, and FHDA LiveScan approval"
+  },
+  {
+    "code": "KNES 90BX",
+    "title": "Manual Therapy\nInternship - Sports Medicine\nLevel 2",
+    "units": "1.0",
+    "description": "Upon successful completion of KNES 90AX students shall assume the role of \"student manual therapist or athletic training room student assistant\" under the supervision of an athletic trainer or coach. Through increased levels of hands-on practice, the student will be provided an opportunity to refine their manual therapy skills by working with athletes prior to competition, during a competition, post-competition, or during off-season training.",
+    "prerequisites": "KNES 90AX and FHDA LiveScan approval"
+  },
+  {
+    "code": "KNES 90CX",
+    "title": "Manual Therapy\nInternship - Sports Medicine\nLevel 3",
+    "units": "1.0",
+    "description": "Upon successful completion of KNES D90BX, students will assume the role of student manual therapist or athletic training room student assistant under the mentorship, of an athletic trainer or coach. Through increased levels of hands-on practice, students will be provided a chance to refine their manual therapy skills by working with athletes prior to competition, during a competition, post-competition, or during off-season training.",
+    "prerequisites": "KNES 90BX and FHDA LiveScan approval"
   },
   {
     "code": "KNES 91",
     "title": "Introduction to\nManual Therapy - Disabilities",
     "units": "5.0",
     "description": "This course provides an introduction to the discipline of kinesiology and its role in the rehabilitation of disabled populations through manual therapies such as physical therapy, occupational therapy, orthopedic medicine and adapted physical education environments. Critiques of common pathological conditions using the overarching principles of kinesiology and the interplay of physiological, sociological, and psychological factors related to rehabilitation will be included. These factors will be discussed as they relate to lifelong skills needed by a therapist working in a field with individuals with physical disabilities. Hands-on practice of manual therapy techniques will be incorporated in the laboratory portion of the class, which will prepare students for an internship to work under the guidance of a certified disability management specialist.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "KNES 91AX",
+    "title": "Manual Therapy\nInternship - Disabilities Level\n1",
+    "units": "1.0",
+    "description": "Upon successful completion of KNES 91 students shall assume the role of \"student manual therapist or APE student assistant\" under the direct guidance of an instructor or full-time staff member. Through hands-on practice and observation, the student will be provided the opportunity to refine their manual therapy skills by working with disabled students in an adapted physical education setting.",
     "prerequisites": "KNES 91 and FHDA LiveScan approval"
+  },
+  {
+    "code": "KNES 91BX",
+    "title": "Manual Therapy\nInternship - Disabilities Level\n2",
+    "units": "1.0",
+    "description": "Upon successful completion of KNES D91AX, students will assume the role of student manual therapist or APE student assistant under the supervision of an instructor or full-time staff member. Students will be provided the opportunity to refine their manual therapy skills by working with disabled students, implementing manual therapies on a mat or chair, and assisting them on exercise equipment in an adapted physical education setting.",
+    "prerequisites": "KNES 91AX and FHDA LiveScan approval"
+  },
+  {
+    "code": "KNES 91CX",
+    "title": "Manual Therapy\nInternship - Disabilities Level\n3",
+    "units": "1.0",
+    "description": "Upon successful completion of KNES 91BX students shall assume the role of \"student manual therapist or APE student assistant\" under the mentorship of an instructor or full-time staff member. Students will implement appropriate manual therapy techniques for a prescribed manual therapy and exercise session. Through hands-on practice, the student will be provided the opportunity to refine their manual therapy skills by working with disabled students in an adapted physical education setting.",
+    "prerequisites": "KNES 91BX and FHDA LiveScan approval"
   },
   {
     "code": "KNES 9A",
@@ -8449,9 +9303,23 @@
     "prerequisites": "None"
   },
   {
+    "code": "KNES 9AX",
+    "title": "Interactive\nCardiovascular Fitness and\nActivity Tracking 1",
+    "units": "1.0",
+    "description": "This course introduces the discipline of Kinesiology through an introduction to online cardiovascular fitness. Technology will be used to verify performance via self-reported cardiovascular exercise, assignments, testing, and discussion. Students will learn to improve their fitness levels using cardiovascular exercise. Basic exercise physiology, nutritional concepts, and various components of fitness will be discussed. Students are required to have an instructor-approved tracking application installed on a GPS-enabled device or a fitness tracking device.",
+    "prerequisites": "None"
+  },
+  {
     "code": "KNES 9B",
     "title": "Interactive\nCardiovascular Fitness and\nActivity Tracking 2",
     "units": "0.5",
+    "description": "This course is an introduction to the discipline of Kinesiology through online fitness. It is an intermediate-level online fitness course that will utilize technology to verify performance via self-reported cardiovascular exercise, assignments, testing, and discussion. Students will learn to improve their fitness through cardiovascular exercise. Basic exercise physiology, nutritional concepts, and various components of fitness will be discussed. Students are required to have an instructor-approved tracking application installed on a GPS-enabled device or a fitness tracking device.",
+    "prerequisites": "KNES 9A or KNES 9AX"
+  },
+  {
+    "code": "KNES 9BX",
+    "title": "Interactive\nCardiovascular Fitness and\nActivity Tracking 2",
+    "units": "1.0",
     "description": "This course is an introduction to the discipline of Kinesiology through online fitness. It is an intermediate-level online fitness course that will utilize technology to verify performance via self-reported cardiovascular exercise, assignments, testing, and discussion. Students will learn to improve their fitness through cardiovascular exercise. Basic exercise physiology, nutritional concepts, and various components of fitness will be discussed. Students are required to have an instructor-approved tracking application installed on a GPS-enabled device or a fitness tracking device.",
     "prerequisites": "KNES 9A or KNES 9AX"
   },
@@ -8764,10 +9632,24 @@
     "prerequisites": "MATH 32, MATH 32H, MATH 43 or MATH 43H (with a grade of C or better), or appropriate score on Calculus Placement Test within the past calendar year"
   },
   {
+    "code": "MATH 1AH",
+    "title": "Calculus I -\nHONORS",
+    "units": "5.0",
+    "description": "This course covers the fundamentals of differential calculus. Because it is an honors course, students will be expected to complete extra assignments to gain deeper insight into calculus.",
+    "prerequisites": "MATH 32, MATH 32H, MATH 43 or MATH 43H (with a grade of C or better), or appropriate score on Calculus Placement Test within the past calendar year"
+  },
+  {
     "code": "MATH 1B",
     "title": "Calculus II",
     "units": "5.0",
     "description": "This course examines the fundamentals of integral calculus.",
+    "prerequisites": "MATH 1A or MATH 1AH"
+  },
+  {
+    "code": "MATH 1BH",
+    "title": "Calculus II -\nHONORS",
+    "units": "5.0",
+    "description": "This course examines the fundamentals of integral calculus. Because it is an honors course students will be expected to complete extra assignments to gain deeper insight into calculus.",
     "prerequisites": "MATH 1A or MATH 1AH"
   },
   {
@@ -8778,10 +9660,24 @@
     "prerequisites": "MATH 1B or MATH 1BH (with a grade of C or better) or equivalent"
   },
   {
+    "code": "MATH 1CH",
+    "title": "Calculus III -\nHONORS",
+    "units": "5.0",
+    "description": "Students in this course will learn about infinite series, lines, and planes in three dimensions, vectors in two and three dimensions, parametric equations of curves, derivatives, and integrals of vector functions. Because it is an honors course the students will be expected to complete extra assignments to gain deeper insight into calculus.",
+    "prerequisites": "MATH 1B or MATH 1BH (with a grade of C or better) or equivalent"
+  },
+  {
     "code": "MATH 1D",
     "title": "Calculus IV",
     "units": "5.0",
     "description": "Topics in this course include partial derivatives, multiple integrals, vector calculus, and their applications.",
+    "prerequisites": "MATH 1C or MATH 1CH (with a grade of C or better) or equivalent"
+  },
+  {
+    "code": "MATH 1DH",
+    "title": "Calculus IV -\nHONORS",
+    "units": "5.0",
+    "description": "Topics in this course include partial derivatives, multiple integrals, and vector calculus. Because it is an honors course, students will be expected to complete extra assignments to gain deeper insight into calculus.",
     "prerequisites": "MATH 1C or MATH 1CH (with a grade of C or better) or equivalent"
   },
   {
@@ -8904,10 +9800,24 @@
     "prerequisites": "MATH 1D or MATH 1DH (with a grade of C or better)"
   },
   {
+    "code": "MATH 2AH",
+    "title": "Differential\nEquations - HONORS",
+    "units": "5.0",
+    "description": "Topics in the course include methods of solving ordinary differential equations and selected applications. In addition, the students will be expected to extend some topics, complete extra assignments, in order to gain deeper insight and understanding of course content.",
+    "prerequisites": "MATH 1D or MATH 1DH (with a grade of C or better)"
+  },
+  {
     "code": "MATH 2B",
     "title": "Linear Algebra",
     "units": "5.0",
     "description": "Linear algebra and selected topics of mathematical analysis.",
+    "prerequisites": "MATH 1D or MATH 1DH (with a grade of C or better)"
+  },
+  {
+    "code": "MATH 2BH",
+    "title": "Linear Algebra -\nHONORS",
+    "units": "5.0",
+    "description": "Linear algebra and selected topics of mathematical analysis. As an honors course the students will be expected to complete extra assignments to gain deeper insight into linear algebra.",
     "prerequisites": "MATH 1D or MATH 1DH (with a grade of C or better)"
   },
   {
@@ -9702,10 +10612,24 @@
     "prerequisites": "None"
   },
   {
+    "code": "NURS 91AL",
+    "title": "Health\nAssessment Lab",
+    "units": "2.5",
+    "description": "The focus of this course is the application of concepts learned in the theory class. Students will practice conducting health assessments, analyzing trends of data, and planning care based on common assessment findings. Therapeutic communication and interviewing skills will be developed thus increasing comfort in conversing with patients as well as improving the efficacy of data collection. Both NURS 91AL and NURS 91A must be taken and passed concurrently within the same quarter. Failure of either component requires both courses to be retaken.",
+    "prerequisites": "None"
+  },
+  {
     "code": "NURS 91B",
     "title": "Fundamentals of\nNursing/Sub-Acute",
     "units": "2.0",
     "description": "This course explores fundamental nursing concepts and common chronic health challenges affecting aging adults. Students will begin to integrate the findings of health assessment with their knowledge of pathophysiology, pharmacology, and fundamentals of nursing in order to develop knowledge and skills required for the management of nursing care of patients requiring rehabilitative and/or long-term nursing care. Both NURS 91B and NURS 91BL must be taken and passed concurrently within the same quarter. Failure of either component requires both courses to be retaken.",
+    "prerequisites": "NURS 91A and NURS 91AL"
+  },
+  {
+    "code": "NURS 91BL",
+    "title": "Fundamentals\nof Nursing/Sub-Acute\nClinical",
+    "units": "2.5",
+    "description": "The focus of this course is on the application of concepts learned in the theory class for the management of nursing care for clients requiring rehabilitative and/or long-term nursing care. Students will use the nursing process, research, problem-solving, and clinical judgment skills to facilitate culturally congruent care for patients in the sub-acute clinical setting. The learning experience will be enhanced with clinical simulation and observation activities. Both NURS 91BL and NURS 091B must be taken and passed concurrently within the same quarter. Failure of either component requires both courses to be retaken.",
     "prerequisites": "NURS 91A and NURS 91AL"
   },
   {
@@ -9751,11 +10675,25 @@
     "prerequisites": "NURS 92, NURS 92L and NURS 92P"
   },
   {
+    "code": "NURS 93AL",
+    "title": "Pediatric\nNursing Clinical",
+    "units": "2.0",
+    "description": "This course focuses on managing nursing care for children and their families. Students will use nursing processes, research, problem-solving, and critical thinking skills to facilitate culturally congruent care in acute care settings within the framework of safe, patient-centered/ family-centered, evidence- based care. Learning experiences will be enhanced with clinical simulation and observation activities.",
+    "prerequisites": "NURS 92, NURS 92L and NURS 92P"
+  },
+  {
     "code": "NURS 93L",
     "title": "Reproductive\nHealth Nursing Clinical",
     "units": "2.0",
     "description": "This course focuses on applying concepts learned in the theory class to the management of nursing care of clients seeking reproductive health services. Students will use nursing processes, research, problem-solving, and critical thinking skills to facilitate culturally congruent care in reproductive care settings within the framework of safe, patient-centered, evidence-based care. The learning experience will be enhanced with clinical simulations and observation activities.",
     "prerequisites": "NURS 92, NURS 92L and NURS 92P"
+  },
+  {
+    "code": "NURS 93PL",
+    "title": "Pharmacology\nIII Laboratory",
+    "units": "0.5",
+    "description": "This laboratory course focuses on the skill of mastering intravenous methodologies for medication administration. Advanced vascular access, blood administration, and parenteral administration will be examined in relation to legal, ethical, and safety issues in nursing practice. The nurses&#39; scope of practice, critical thinking, and problem-solving will also be examined.",
+    "prerequisites": "NURS 92P"
   },
   {
     "code": "NURS 94",
@@ -9769,6 +10707,13 @@
     "title": "Psychiatric/Mental Health\nNursing",
     "units": "2.0",
     "description": "This course builds on prior learning experiences to develop knowledge and skills used in the management of nursing care of patients experiencing psychiatric and mental health challenges. The course integrates the knowledge of pathophysiology, diagnostics, pharmacology, communication concepts, and therapeutic interventions in order to facilitate culturally congruent nursing care for patients with complex variations in psychiatric health patterns. Students will become increasingly competent in the application of nursing processes, research, problem-solving and the use of clinical judgment within the framework of safe, patient-centered, evidence- based care. Both NURS 94A and NURS 94AL must be taken and passed concurrently within the same quarter (failure of either component requires both courses to be retaken).",
+    "prerequisites": "NURS 93, NURS 93A, NURS 93AL, NURS 93L, and NURS 93PL"
+  },
+  {
+    "code": "NURS 94AL",
+    "title": "Psychiatric/Mental Health\nNursing Clinical",
+    "units": "2.0",
+    "description": "The focus of this course is on the application of concepts learned in the theory class to the management of nursing care of clients experiencing psychiatric and mental health challenges. Students will use nursing processes, research, problem-solving and critical thinking skills to facilitate culturally congruent care in acute care settings within the framework of safe patient- centered, evidence-based care. Learning experiences will be enhanced with observation activities. Both NURS 94AL and NURS 94A must be taken and passed concurrently within the same quarter (failure of either component requires both courses to be retaken).",
     "prerequisites": "NURS 93, NURS 93A, NURS 93AL, NURS 93L, and NURS 93PL"
   },
   {
@@ -10094,6 +11039,13 @@
     "prerequisites": "None"
   },
   {
+    "code": "PE 32BX",
+    "title": "Women's\nBadminton Techniques",
+    "units": "1.0",
+    "description": "This course is an introduction to the discipline of physical education through the sport of badminton. Emphasis is on developing the mental, physical, and tactical aspects of badminton play necessary to compete at the tournament and competitive level. It includes a global examination of the sport, rules, equipment, facilities, and etiquette. Basic physiology, nutrition, flexibility, strength and endurance techniques relative to badminton will be discussed.",
+    "prerequisites": "None"
+  },
+  {
     "code": "PE 32F",
     "title": "Defensive Baseball\nTechniques",
     "units": "2.0",
@@ -10115,6 +11067,13 @@
     "prerequisites": "None"
   },
   {
+    "code": "PE 32HX",
+    "title": "Offensive Football\nTechniques",
+    "units": "1.0",
+    "description": "This course is an introduction to the discipline of Kinesiology through offensive football techniques and includes a global and historical examination of the skills and techniques of advanced offensive football and the changes that have influenced the modern game. Through the study of film and the use of playbooks, the student will learn the various segments of offensive play. Exercise physiology, nutrition, flexibility, and strength concepts for conditioning will be covered.",
+    "prerequisites": "None"
+  },
+  {
     "code": "PE 32I",
     "title": "Defensive Football\nTechniques",
     "units": "2.0",
@@ -10122,9 +11081,23 @@
     "prerequisites": "None"
   },
   {
+    "code": "PE 32IX",
+    "title": "Defensive Football\nTechniques",
+    "units": "1.0",
+    "description": "This course is an introduction to the discipline of Kinesiology through defensive football techniques and includes a global and historical examination of the skills and techniques of advanced defensive football and the changes that have influenced the modern game. Through the study of film, use of playbooks, and teamwork the student will learn the various segments of defensive play. Exercise physiology, nutrition, flexibility, and strength concepts for conditioning will be covered.",
+    "prerequisites": "None"
+  },
+  {
     "code": "PE 32J",
     "title": "Water Polo\nTechniques",
     "units": "2.0",
+    "description": "This course introduces the discipline of Kinesiology through the sport of water polo and includes a global and historical examination of the sport, rules, equipment, facilities, and etiquette. Through the intercollegiate competitive experience, students will improve their individual water polo skills, increase their ability to employ advanced training, and increase their knowledge of exercise physiology, exercise nutrition, and kinesiological concepts. Competitive water polo experience is preferred at the high school, club, or collegiate levels.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "PE 32JX",
+    "title": "Water Polo\nTechniques",
+    "units": "1.0",
     "description": "This course introduces the discipline of Kinesiology through the sport of water polo and includes a global and historical examination of the sport, rules, equipment, facilities, and etiquette. Through the intercollegiate competitive experience, students will improve their individual water polo skills, increase their ability to employ advanced training, and increase their knowledge of exercise physiology, exercise nutrition, and kinesiological concepts. Competitive water polo experience is preferred at the high school, club, or collegiate levels.",
     "prerequisites": "None"
   },
@@ -10143,9 +11116,23 @@
     "prerequisites": "None"
   },
   {
+    "code": "PE 32LX",
+    "title": "Volleyball\nTechniques",
+    "units": "1.0",
+    "description": "This course is an introduction to the discipline of Kinesiology through the sport of volleyball and includes a global and historical examination of the sport at an advanced level, rules, equipment, facilities, etiquette, safety, and fundamentals of advanced volleyball. Students will apply basic exercise physiology, nutrition, flexibility, and strength concepts to improve their overall playing level. Students will learn the skills and techniques of advanced volleyball play along with an analysis of movement, team interaction, and volleyball theory.",
+    "prerequisites": "None"
+  },
+  {
     "code": "PE 32M",
     "title": "Soccer Techniques",
     "units": "2.0",
+    "description": "This course provides a further examination of the discipline of Kinesiology through the sport of soccer and includes rules, equipment, facilities, etiquette, and preparation for a competitive level of play. This course is designed to enhance the skills and strategies of intermediate or advanced soccer players. Strategies and tactics of the game will be discussed and performed while basic exercise physiology, nutrition, flexibility, muscular strength, and endurance techniques relative to soccer will be discussed.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "PE 32MX",
+    "title": "Soccer Techniques",
+    "units": "1.0",
     "description": "This course provides a further examination of the discipline of Kinesiology through the sport of soccer and includes rules, equipment, facilities, etiquette, and preparation for a competitive level of play. This course is designed to enhance the skills and strategies of intermediate or advanced soccer players. Strategies and tactics of the game will be discussed and performed while basic exercise physiology, nutrition, flexibility, muscular strength, and endurance techniques relative to soccer will be discussed.",
     "prerequisites": "None"
   },
@@ -10171,6 +11158,13 @@
     "prerequisites": "None"
   },
   {
+    "code": "PE 32SX",
+    "title": "Women's Soccer\nTechniques",
+    "units": "1.0",
+    "description": "This course provides a further examination of the discipline of Kinesiology through the sport of soccer. It is designed to enhance the skills and strategies of intermediate to advanced soccer players and includes rules, equipment, facilities, etiquette, and preparation for performance on a competitive level. Strategies and tactics of the game will be discussed and performed while basic exercise physiology, nutrition, flexibility, muscular strength, and endurance techniques relative to soccer will be discussed.",
+    "prerequisites": "None"
+  },
+  {
     "code": "PE 32T",
     "title": "Tennis Techniques",
     "units": "2.0",
@@ -10181,6 +11175,13 @@
     "code": "PE 32V",
     "title": "Beach Volleyball\nTechniques",
     "units": "2.0",
+    "description": "This course is an introduction to the discipline of Kinesiology through the sport of beach volleyball and includes a global and historical examination of the sport at an advanced level, rules, equipment, facilities, etiquette, safety, and fundamentals of advanced beach volleyball. Students will apply basic exercise physiology, nutrition, flexibility, and strength concepts to improve their overall playing level. Students will learn the skills and techniques of advanced beach volleyball play along with an analysis of movement, team interaction, and beach volleyball theory.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "PE 32VX",
+    "title": "Beach Volleyball\nTechniques",
+    "units": "1.0",
     "description": "This course is an introduction to the discipline of Kinesiology through the sport of beach volleyball and includes a global and historical examination of the sport at an advanced level, rules, equipment, facilities, etiquette, safety, and fundamentals of advanced beach volleyball. Students will apply basic exercise physiology, nutrition, flexibility, and strength concepts to improve their overall playing level. Students will learn the skills and techniques of advanced beach volleyball play along with an analysis of movement, team interaction, and beach volleyball theory.",
     "prerequisites": "None"
   },
@@ -10220,6 +11221,20 @@
     "prerequisites": "Competitive experience in badminton"
   },
   {
+    "code": "PE 38WX",
+    "title": "Intercollegiate\nWomen's Badminton",
+    "units": "1.5",
+    "description": "An introduction to the discipline of Physical Education through the sport of badminton. Includes a global examination of the sport, rules, equipment, facilities and etiquette. Emphasis placed on the four major pillars of the game: mental, physical, tactical and technical aspects necessary to successfully compete in matches. Discussion of the rules of the game, equipment technology and fair play will be incorporated into the course. Basic exercise physiology, nutrition, flexibility, muscular strength and endurance techniques relative to badminton will be discussed.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "PE 38WY",
+    "title": "Intercollegiate\nWomen's Badminton",
+    "units": "2.0",
+    "description": "This course is an introduction to the discipline of Physical Education through the sport of badminton. It includes a global examination of the sport, rules, equipment, facilities, and etiquette. Emphasis is placed on the four major pillars of the game: mental, physical, tactical, and technical aspects necessary to successfully compete in matches. The rules of the game, equipment technology, and fair play will be incorporated into the course. Basic exercise physiology, nutrition, flexibility, muscular strength, and endurance techniques relative to badminton will be discussed.",
+    "prerequisites": "Competitive experience in badminton"
+  },
+  {
     "code": "PE 39M",
     "title": "Intercollegiate\nMen's Soccer",
     "units": "3.0",
@@ -10227,9 +11242,37 @@
     "prerequisites": "None"
   },
   {
+    "code": "PE 39MX",
+    "title": "Intercollegiate\nMen's Soccer",
+    "units": "1.5",
+    "description": "This is an introduction to Physical Education through the sport of soccer, including a global and historical examination of the sport, rules, equipment, facilities, and etiquette. Emphasis will be placed upon the four major pillars of the game: mental, physical, tactical, and technical aspects necessary to successfully compete in match play. The course includes a discussion of strategic information from scouting reports with application to game preparation and management, as well as basic exercise physiology, nutrition, flexibility, muscular strength, and endurance techniques relative to soccer.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "PE 39MY",
+    "title": "Intercollegiate\nMen's Soccer",
+    "units": "2.0",
+    "description": "This is an introduction to Physical Education through the sport of soccer, including a global and historical examination of the sport, rules, equipment, facilities, and etiquette. Emphasis will be placed upon the four major pillars of the game: mental, physical, tactical, and technical aspects necessary to successfully compete in match play. The course includes a discussion of strategic information from scouting reports with application to game preparation and management, as well as basic exercise physiology, nutrition, flexibility, muscular strength, and endurance techniques relative to soccer.",
+    "prerequisites": "None"
+  },
+  {
     "code": "PE 39W",
     "title": "Intercollegiate\nWomen's Soccer",
     "units": "3.0",
+    "description": "This course introduces the discipline of Kinesiology through the sport of soccer and includes a global and historical examination of the sport, rules, equipment, facilities, and etiquette. Emphasis is placed on the four major pillars of the game: mental, physical, tactical, and technical aspects necessary to successfully compete in intercollegiate athletics. The laws of the game, the De Anza College Code of Ethics, and intercollegiate rules will be discussed along with exercise physiology, nutrition, flexibility, muscular strength, and endurance techniques relative to soccer at the collegiate level.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "PE 39WX",
+    "title": "Intercollegiate\nWomen's Soccer",
+    "units": "1.5",
+    "description": "This course introduces the discipline of Kinesiology through the sport of soccer and includes a global and historical examination of the sport, rules, equipment, facilities, and etiquette. Emphasis is placed on the four major pillars of the game: mental, physical, tactical, and technical aspects necessary to successfully compete in intercollegiate athletics. The laws of the game, the De Anza College Code of Ethics, and intercollegiate rules will be discussed along with exercise physiology, nutrition, flexibility, muscular strength, and endurance techniques relative to soccer at the collegiate level.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "PE 39WY",
+    "title": "Intercollegiate\nWomen's Soccer",
+    "units": "2.0",
     "description": "This course introduces the discipline of Kinesiology through the sport of soccer and includes a global and historical examination of the sport, rules, equipment, facilities, and etiquette. Emphasis is placed on the four major pillars of the game: mental, physical, tactical, and technical aspects necessary to successfully compete in intercollegiate athletics. The laws of the game, the De Anza College Code of Ethics, and intercollegiate rules will be discussed along with exercise physiology, nutrition, flexibility, muscular strength, and endurance techniques relative to soccer at the collegiate level.",
     "prerequisites": "None"
   },
@@ -10283,6 +11326,20 @@
     "prerequisites": "None"
   },
   {
+    "code": "PE 42WX",
+    "title": "Intercollegiate\nWomen's Volleyball",
+    "units": "1.5",
+    "description": "This is an introduction to the discipline of Physical Education through the sport of volleyball, including a global and historical examination of the sport, rules, equipment, facilities, etiquette, and safety. Emphasis is placed on the four major pillars of the game: mental, physical, tactical, and technical aspects necessary to successfully compete in games. The course will cover the rules of the game, equipment technology, and fair play. Basic exercise physiology, nutrition, flexibility, muscular strength, and endurance techniques relative to volleyball will be discussed.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "PE 42WY",
+    "title": "Intercollegiate\nWomen's Volleyball",
+    "units": "2.0",
+    "description": "This is an introduction to the discipline of Physical Education through the sport of volleyball, including a global and historical examination of the sport, rules, equipment, facilities, etiquette, and safety. Emphasis is placed on the four major pillars of the game: mental, physical, tactical, and technical aspects necessary to successfully compete in games. The course will cover the rules of the game, equipment technology, and fair play. Basic exercise physiology, nutrition, flexibility, muscular strength, and endurance techniques relative to volleyball will be discussed.",
+    "prerequisites": "None"
+  },
+  {
     "code": "PE 43",
     "title": "Intercollegiate Cross\nCountry (Men and Women)",
     "units": "3.0",
@@ -10311,9 +11368,37 @@
     "prerequisites": "None"
   },
   {
+    "code": "PE 44MX",
+    "title": "Intercollegiate\nMen's Basketball",
+    "units": "1.5",
+    "description": "This is an introduction to the discipline of Physical Education through the sport of basketball, including a global and historical examination of the sport, rules, equipment, facilities, and etiquette. Emphasis is placed on the four major pillars of the game: mental, physical, tactical, and technical aspects necessary to successfully compete in games. The course will cover the rules of the game, equipment technology, and fair play. Basic exercise physiology, nutrition, flexibility, muscular strength, and endurance techniques relative to basketball will be discussed.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "PE 44MY",
+    "title": "Intercollegiate\nMen's Basketball",
+    "units": "2.0",
+    "description": "This is an introduction to the discipline of Physical Education through the sport of basketball, including a global and historical examination of the sport, rules, equipment, facilities, and etiquette. Emphasis is placed on the four major pillars of the game: mental, physical, tactical, and technical aspects necessary to successfully compete in games. The course will cover the rules of the game, equipment technology, and fair play. Basic exercise physiology, nutrition, flexibility, muscular strength, and endurance techniques relative to basketball will be discussed.",
+    "prerequisites": "None"
+  },
+  {
     "code": "PE 44W",
     "title": "Intercollegiate\nWomen's Basketball",
     "units": "3.0",
+    "description": "Intercollegiate Women's Basketball is an introduction to the discipline of Physical Education through the sport of basketball. The course includes a global and historical examination of the sport, rules, equipment, facilities, and etiquette. This course will emphasize the four major pillars of the sport: mental, physical, tactical, and technical aspects, which are necessary to compete in games successfully. Discussion of the rules of the game, equipment, technology, and fair play will be incorporated into the course. Basic exercise physiology, nutrition, flexibility, muscular strength, and endurance techniques relative to basketball will be discussed.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "PE 44WX",
+    "title": "Intercollegiate\nWomen's Basketball",
+    "units": "1.5",
+    "description": "Intercollegiate Women's Basketball is an introduction to the discipline of Physical Education through the sport of basketball. The course includes a global and historical examination of the sport, rules, equipment, facilities, and etiquette. This course will emphasize the four major pillars of the sport: mental, physical, tactical, and technical aspects, which are necessary to compete in games successfully. Discussion of the rules of the game, equipment, technology, and fair play will be incorporated into the course. Basic exercise physiology, nutrition, flexibility, muscular strength, and endurance techniques relative to basketball will be discussed.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "PE 44WY",
+    "title": "Intercollegiate\nWomen's Basketball",
+    "units": "2.0",
     "description": "Intercollegiate Women's Basketball is an introduction to the discipline of Physical Education through the sport of basketball. The course includes a global and historical examination of the sport, rules, equipment, facilities, and etiquette. This course will emphasize the four major pillars of the sport: mental, physical, tactical, and technical aspects, which are necessary to compete in games successfully. Discussion of the rules of the game, equipment, technology, and fair play will be incorporated into the course. Basic exercise physiology, nutrition, flexibility, muscular strength, and endurance techniques relative to basketball will be discussed.",
     "prerequisites": "None"
   },
@@ -10367,9 +11452,37 @@
     "prerequisites": "None"
   },
   {
+    "code": "PE 47MX",
+    "title": "Intercollegiate\nBaseball",
+    "units": "1.5",
+    "description": "The course is an introduction to the discipline of Physical Education through intercollegiate baseball. It includes a global and historical examination of the skills of competitive baseball and the changes that have influenced the modern game, along with an an analysis of offensive and defensive play, team interaction, and baseball theory. Through the intercollegiate competitive experience, student-athletes will improve their skills, increase their ability to employ advanced strategies, and increase their knowledge of team play. Exercise physiology, nutrition, flexibility and strength concepts for conditioning will be covered.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "PE 47MY",
+    "title": "Intercollegiate\nBaseball",
+    "units": "2.0",
+    "description": "The course is an introduction to the discipline of Physical Education through intercollegiate baseball. It includes a global and historical examination of the skills of competitive baseball and the changes that have influenced the modern game, along with an an analysis of offensive and defensive play, team interaction, and baseball theory. Through the intercollegiate competitive experience, student-athletes will improve their skills, increase their ability to employ advanced strategies, and increase their knowledge of team play. Exercise physiology, nutrition, flexibility and strength concepts for conditioning will be covered.",
+    "prerequisites": "None"
+  },
+  {
     "code": "PE 47W",
     "title": "Intercollegiate\nSoftball",
     "units": "3.0",
+    "description": "This is an introduction to the discipline of Physical Education through intercollegiate softball, including a global and historical examination of the skills and techniques of advanced offensive softball and the changes that have influenced the modern game. Analysis of movement, team interaction, and softball theory will be discussed. Through game preparation and repetition throughout the season, the student will learn the various segments of intercollegiate play. Exercise physiology, nutrition, flexibility, and strength concepts for conditioning will be covered.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "PE 47WX",
+    "title": "Intercollegiate\nSoftball",
+    "units": "1.5",
+    "description": "This is an introduction to the discipline of Physical Education through intercollegiate softball, including a global and historical examination of the skills and techniques of advanced offensive softball and the changes that have influenced the modern game. Analysis of movement, team interaction, and softball theory will be discussed. Through game preparation and repetition throughout the season, the student will learn the various segments of intercollegiate play. Exercise physiology, nutrition, flexibility, and strength concepts for conditioning will be covered.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "PE 47WY",
+    "title": "Intercollegiate\nSoftball",
+    "units": "2.0",
     "description": "This is an introduction to the discipline of Physical Education through intercollegiate softball, including a global and historical examination of the skills and techniques of advanced offensive softball and the changes that have influenced the modern game. Analysis of movement, team interaction, and softball theory will be discussed. Through game preparation and repetition throughout the season, the student will learn the various segments of intercollegiate play. Exercise physiology, nutrition, flexibility, and strength concepts for conditioning will be covered.",
     "prerequisites": "None"
   },
@@ -10381,11 +11494,46 @@
     "prerequisites": "None"
   },
   {
+    "code": "PE 48MX",
+    "title": "Intercollegiate\nMen's Tennis",
+    "units": "1.5",
+    "description": "This is an introductory course to the discipline of Physical Education through tennis. It includes a global and historical examination of the sport, rules, equipment, facilities, and etiquette. The course emphasizes the four major pillars of the game: mental, physical, tactical, and technical aspects necessary to compete in matches successfully. Through the intercollegiate competitive experience, students will improve their tennis skills, increase their ability to employ advanced strategies, and increase their knowledge of exercise physiology, exercise nutrition, and kinesiology concepts underlying the development of force, power, and accuracy.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "PE 48MY",
+    "title": "Intercollegiate\nMen's Tennis",
+    "units": "2.0",
+    "description": "This is an introductory course to the discipline of Physical Education through tennis. It includes a global and historical examination of the sport, rules, equipment, facilities, and etiquette. The course emphasizes the four major pillars of the game: mental, physical, tactical, and technical aspects necessary to compete in matches successfully. Through the intercollegiate competitive experience, students will improve their tennis skills, increase their ability to employ advanced strategies, and increase their knowledge of exercise physiology, exercise nutrition, and kinesiology concepts underlying the development of force, power, and accuracy.",
+    "prerequisites": "None"
+  },
+  {
     "code": "PE 48W",
     "title": "Intercollegiate\nWomen's Tennis",
     "units": "3.0",
     "description": "This course is an introduction to the discipline of physical education through tennis and includes a global and historical examination of the sport, rules, equipment, facilities, and tennis etiquette. Emphasis will be placed on the four major pillars of the game: mental, physical, tactical, and technical aspects necessary to compete in games successfully. Through the intercollegiate competitive experience, students will improve their tennis skills, increase their ability to employ advanced strategies, and increase their knowledge of exercise physiology, exercise nutrition, and various concepts underlying the development of force, power, and accuracy.",
     "prerequisites": "None"
+  },
+  {
+    "code": "PE 48WX",
+    "title": "Intercollegiate\nWomen's Tennis",
+    "units": "1.5",
+    "description": "This course is an introduction to the discipline of physical education through tennis and includes a global and historical examination of the sport, rules, equipment, facilities, and tennis etiquette. Emphasis will be placed on the four major pillars of the game: mental, physical, tactical, and technical aspects necessary to compete in games successfully. Through the intercollegiate competitive experience, students will improve their tennis skills, increase their ability to employ advanced strategies, and increase their knowledge of exercise physiology, exercise nutrition, and various concepts underlying the development of force, power, and accuracy.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "PE 48WY",
+    "title": "Intercollegiate\nWomen's Tennis",
+    "units": "2.0",
+    "description": "This course is an introduction to the discipline of physical education through tennis and includes a global and historical examination of the sport, rules, equipment, facilities, and tennis etiquette. Emphasis will be placed on the four major pillars of the game: mental, physical, tactical, and technical aspects necessary to compete in games successfully. Through the intercollegiate competitive experience, students will improve their tennis skills, increase their ability to employ advanced strategies, and increase their knowledge of exercise physiology, exercise nutrition, and various concepts underlying the development of force, power, and accuracy.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "PE 4XX",
+    "title": "High-Intensity\nStrength Development for\nAthletes",
+    "units": "1.0",
+    "description": "Designed for intercollegiate athletic teams. Specificity of rigorous total body strength development is emphasized. A single set, high intensity, three days per week program is utilized. The course is based upon the principles of high- intensity lifting to gain maximum strength throughout the various muscle systems. Concentric and eccentric failure of the muscles is emphasized using free weights and Hammer Strength apparatus.",
+    "prerequisites": "Enrollment in intercollegiate athletics. Repeatability (Satisfies the requirement of an intercollegiate athletics course. May be taken up to six times for credit.)"
   },
   {
     "code": "PE 99",
