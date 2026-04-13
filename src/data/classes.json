@@ -266,6 +266,13 @@
     "prerequisites": "None"
   },
   {
+    "code": "ADMJ 73",
+    "title": "Crime and Criminology",
+    "units": "4.0",
+    "description": "This course introduces the major types of crime and criminal behavior, examining demographics and measurement of crime, theories of causation and victimization, crime prevention, and crime control.",
+    "prerequisites": "None"
+  },
+  {
     "code": "ADMJ 74A",
     "title": "Interviewing,\nInterrogation and Crisis\nIntervention",
     "units": "4.0",
@@ -305,6 +312,13 @@
     "title": "Legal Aspects of\nEvidence (CP 4)",
     "units": "4.0",
     "description": "The origin, development, and content of the rules of evidence; kinds of degrees of evidence and rules governing admissibility of evidence.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "ADMJ 95",
+    "title": "Overview of American Law",
+    "units": "4.0",
+    "description": "Overview of the major substantive areas of American law: contracts, constitutional law, corporations, criminal law, family law, property, torts, wills and estates.",
     "prerequisites": "None"
   },
   {
@@ -840,6 +854,13 @@
     "prerequisites": "None"
   },
   {
+    "code": "ARTS 20",
+    "title": "Ceramics Individual Laboratory",
+    "units": "2.0",
+    "description": "This is a supervised course in the use of ceramic studio equipment for independent skill development; hand building, wheel throwing, and kiln firing.",
+    "prerequisites": "ARTS 18D or ARTS 18E Repeatability (This course is included in the Ceramic Hand Building Family of activity courses. Please see the rules on \"Repeating Courses\" in the College Policies section of the catalog.)"
+  },
+  {
     "code": "ARTS 2A",
     "title": "History of Art:\nEurope from Prehistory\nthrough Early Christianity",
     "units": "4.0",
@@ -1029,6 +1050,27 @@
     "prerequisites": "ARTS 53 or ARTS 54"
   },
   {
+    "code": "ARTS 70",
+    "title": "Viewing Bay Area Art Museums\nand Galleries",
+    "units": "1.0",
+    "description": "Designed to develop skills in an art gallery/museum viewing and critical analysis of content of exhibits, collections and/or lectures.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "ARTS 71",
+    "title": "Gallery and Exhibition Design",
+    "units": "4.0",
+    "description": "The practical experience in all aspects of exhibition design and installation of art exhibits in galleries and museums. Emphasis on design theory and the evaluation and analysis of the communicative, cultural, aesthetic, technical factors involved in the production of exhibits.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "ARTS 72",
+    "title": "Internship in Art",
+    "units": "1.0",
+    "description": "Directed professional experience in art museums/galleries, art businesses, and art in schools programs in the Bay Area that emphasize the application of skills and knowledge obtained in Gallery and Exhibition Design (ARTS D071.), Beginning Drawing (ARTS D004A), Two-Dimensional Design (ARTS D008.), and Three-Dimensional Design (ARTS D010A).",
+    "prerequisites": "None"
+  },
+  {
     "code": "ARTS 8",
     "title": "Two-Dimensional\nDesign",
     "units": "4.0",
@@ -1134,6 +1176,20 @@
     "prerequisites": "None"
   },
   {
+    "code": "ASAM 42A",
+    "title": "History of Asian Civilization:\nChina and Japan (to the 19th Century)",
+    "units": "4.0",
+    "description": "This is an introductory history course exploring the development of Chinese and Japanese civilizations from their origins through the 18th century.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "ASAM 42B",
+    "title": "History of Asian Civilization:\nChina and Japan (19th - 21st Centuries)",
+    "units": "4.0",
+    "description": "This is an introductory history course exploring modern China and Japan from the 19th to the 21st centuries.",
+    "prerequisites": "None"
+  },
+  {
     "code": "ASTR 10",
     "title": "Stellar Astronomy",
     "units": "5.0",
@@ -1215,6 +1271,244 @@
     "title": "Automotive\nRegulations and Law",
     "units": "5.0",
     "description": "This course includes the study of the regulations and laws governing the automotive repair industry and an introduction to the American legal system relating to businesses.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "AUTO 350A",
+    "title": "Introduction to Automotive\nPrinciples",
+    "units": "0.0",
+    "description": "A selective study of the automobile's engine systems. Knowledge and skills that are necessary for basic repair, maintenance, and troubleshooting of today's engine systems. This course may be used to fulfill the prerequisite to the Automotive Technology Program.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "AUTO 350B",
+    "title": "Applied Automotive Principles",
+    "units": "0.0",
+    "description": "Basic experiences in automotive repair and maintenance as related to the engine and its supporting systems.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "AUTO 351A",
+    "title": "Introduction to Automotive\nPrinciples - Chassis Systems",
+    "units": "0.0",
+    "description": "A selective study of the automobile's chassis and drive line systems. Knowledge and skills necessary for basic repair, maintenance, and troubleshooting of today's chassis and drive line systems. Can be used to fulfill the prerequisite to the Automotive Technology Program.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "AUTO 351B",
+    "title": "Applications of Automotive\nPrinciples - Chassis Systems",
+    "units": "0.0",
+    "description": "Basic experiences in automotive repair and maintenance as related to suspension, steering, braking, and drive line components.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "AUTO 353A",
+    "title": "Automotive Mechanisms",
+    "units": "0.0",
+    "description": "This course covers the application of physical principles to the operation of mechanical and hydraulic systems, using an applied physics technique.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "AUTO 357A",
+    "title": "Career Research and\nEmployment in the Automotive Industry",
+    "units": "0.0",
+    "description": "This career research course covers automotive industry job search, applications, resumes, employer-employee relationships, and job interviews.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "AUTO 360",
+    "title": "Automotive Electrical Systems",
+    "units": "0.0",
+    "description": "Principles of electricity, electronics, cranking and charging systems. Testing, diagnosis and repair of these systems.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "AUTO 360A",
+    "title": "Electrical Schematic Diagnosis",
+    "units": "0.0",
+    "description": "Theory of operation for electrical, electronic, and electromechanical accessory systems. Understanding and using wiring diagrams, schematics, and other diagnostic information to troubleshoot electrical, electronic, and electromechanical systems. Preparation for Automotive Service Excellence (ASE) examination in Areas A6, A8, and L1.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "AUTO 360B",
+    "title": "Automotive Electronics",
+    "units": "0.0",
+    "description": "Application of computer control principles to automotive systems. Operation of automotive electronic control systems, including commonly used sensors, actuators, and displays. Introduction to diagnostic methods and test equipment for automotive electronic control systems. Preparation for Automotive Service Excellence (ASE) examination in Areas A6, A8, and L1.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "AUTO 360C",
+    "title": "Automotive Ignition, Fuel and\nEmission Systems",
+    "units": "0.0",
+    "description": "This course provides an introduction to components, subsystems and functions of ignition, fuel delivery, carburetor and fuel injection systems (engine management). It also includes an introduction to automotive emission controls, basic diagnosis, service, repair procedures and preparation for Automotive Service Excellence (ASE) examination in Areas A6, A8, and L1.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "AUTO 360D",
+    "title": "Ignition Analysis and\nOscilloscope Diagnosis",
+    "units": "0.0",
+    "description": "This course covers the ignition system principles of operation and diagnosis, the use of electronic test equipment in ignition system diagnosis, and preparation for Automotive Service Excellence (ASE) certification examinations in Areas A6, A8, and L1.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "AUTO 360E",
+    "title": "Automotive Fuel Injection",
+    "units": "0.0",
+    "description": "This course covers the theory of operation and service of electronic fuel injection systems, component parts and their functions and overall system theory, diagnostic and repair methods using standard test and repair equipment, and preparation for Automotive Service Excellence (ASE) examination in Areas A8 and L1.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "AUTO 360F",
+    "title": "No-Start Diagnosis",
+    "units": "0.0",
+    "description": "Principles of troubleshooting procedures and techniques to analyze and repair of \"no-start\" problems in the fuel, ignition, and electrical systems of an automobile. Preparation for Automotive Service Excellence (ASE) examination in Areas A6, A8, and L1.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "AUTO 360G",
+    "title": "Advanced Scan Tool\nDiagnosis",
+    "units": "0.0",
+    "description": "Advanced drivability diagnosis using a scan tool. Using the onboard diagnostic capabilities of vehicles built since 1980. Advanced scan data analysis. Using PC capabilities to store and analyze diagnostic information. Preparation for Automotive Service Excellence (ASE) examination in Areas A6, A8, and L1.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "AUTO 360H",
+    "title": "Advanced Drivability and\nOnboard Diagnostics",
+    "units": "0.0",
+    "description": "This course is a survey of onboard diagnostic systems from 1980 to the present, including advanced electronic diagnostic procedures using an automotive scan tool, and preparation for Automotive Service Excellence (ASE) examination in Areas A6, A8, and L1.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "AUTO 360J",
+    "title": "Advanced Lab Scope and\nWaveform Diagnosis",
+    "units": "0.0",
+    "description": "This course covers the diagnosis of automotive electronic systems using a laboratory oscilloscope and a power graphing meter; related use of other basic test equipment, including a digital multi-meter (DMM) and scan tool; advanced waveform analysis; and preparation for Automotive Service Excellence (ASE) examination in Areas A6, A8, and L1.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "AUTO 360K",
+    "title": "Automotive Body Electrical\nSystems",
+    "units": "0.0",
+    "description": "This course will focus on the theory of operation for body electrical, electronic, and electromechanical systems. Students will gain an understanding of the functions of automotive body electrical systems; utilization of special diagnostic equipment for body electrical systems and subsystems; appropriate repair protocol for applied body electrical systems; symptom to system diagnosis; and preparation for Automotive Service Excellence (ASE) examination in Area A6.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "AUTO 360N",
+    "title": "Hybrid Vehicle Safety and\nMaintenance",
+    "units": "0.0",
+    "description": "This course explores the use of hybrid electric power for vehicle transportation. Topics will include safety, maintenance of hybrid propulsion and internal combustion systems, drivability, and storage battery technology. Various designs of hybrid vehicles and their integrated systems from multiple manufacturers will be discussed. This course also fulfills the Toyota Technician Education Network training requirement for the T-256 course. This course is suitable for students interested in alternative fuels or power and energy technology.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "AUTO 361A",
+    "title": "Automotive Brake Systems",
+    "units": "0.0",
+    "description": "Operation of automotive brake systems. Repair, maintenance and troubleshooting.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "AUTO 361B",
+    "title": "Electronically Controlled\nBrake Systems",
+    "units": "0.0",
+    "description": "Computer controlled automotive brake systems, including service, maintenance, troubleshooting and repair procedures.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "AUTO 362A",
+    "title": "Automotive Suspension,\nSteering and Alignment",
+    "units": "0.0",
+    "description": "Operation of automotive suspension, steering and alignment systems. Overview of maintenance, repair and troubleshooting procedures.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "AUTO 362B",
+    "title": "Advanced Wheel Alignment",
+    "units": "0.0",
+    "description": "This course focuses on the advanced study of wheel alignment systems. Emphasis is placed on diagnostic inspection and repair procedures.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "AUTO 363",
+    "title": "Automatic Transmissions and\nTransaxles",
+    "units": "0.0",
+    "description": "This course covers the principles of operation, service and repair procedures for automatic transmissions and transaxles. Hydraulic and mechanical system operation; power flow and component repair techniques; and preparation for Automotive Service Excellence (ASE) certification examination in Area A2.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "AUTO 363A",
+    "title": "Advanced Manual Drive Train",
+    "units": "0.0",
+    "description": "This course covers the details of operation and repair of automotive manual drive train components; the design operation and repair of four-wheel and all-wheel-drive components; as well as the theory and practical application of the diagnosis of noise and vibrations in the drive train based on frequency calculation and measurement. Students will also learn service and repair procedures, product problem discussions and demonstrations, and preparation for Automotive Service Excellence (ASE) certification examination in Area A3.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "AUTO 363D",
+    "title": "Transmission Diagnostic and\nRepair Techniques",
+    "units": "0.0",
+    "description": "This course covers diagnostic and repair techniques for automatic transmissions and transaxles, with emphasis on the development of diagnostic procedures and repair techniques, and preparation for Automotive Service Excellence (ASE) certification examinations in Areas A2 and A3.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "AUTO 364",
+    "title": "Automotive Machining and\nEngine Repair",
+    "units": "0.0",
+    "description": "This course covers the repair and rebuilding of engine cylinder heads and block components, engine assembly, and testing. The course also includes theory, diagnosis, disassembly, cleaning, inspection and failure analysis, and preparation for Automotive Service Excellence (ASE) examinations for Areas A1 and M1, M2 and M3.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "AUTO 364H",
+    "title": "High Performance Engine\nPreparation",
+    "units": "0.0",
+    "description": "This course covers precision and performance engine preparation, including selection and matching of engine and valve train components for maximum efficiency and output.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "AUTO 365P",
+    "title": "Smog Inspector - Level 1\nTraining",
+    "units": "0.0",
+    "description": "Automotive technician training program for California's Smog inspection program. Course content is mandated by the Bureau of Automotive Repair (BAR).",
+    "prerequisites": "None"
+  },
+  {
+    "code": "AUTO 365W",
+    "title": "Smog Inspector - Level 2\nTraining",
+    "units": "0.0",
+    "description": "Automotive technician training program for California's Smog Inspection Program. Meets one of the Bureau of Automotive Repair (BAR) requirement for obtaining Smog Inspector License.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "AUTO 366",
+    "title": "Automotive Air Conditioning",
+    "units": "0.0",
+    "description": "This course covers the operation and service of automotive air conditioning refrigeration and electrical control systems. Includes retrofitting, with an emphasis on diagnosis and repair of systems, and preparation for Automotive Service Excellence (ASE) certification examination in Area A7.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "AUTO 367A",
+    "title": "Hybrid Electric Vehicles",
+    "units": "0.0",
+    "description": "This course covers the functions of automotive hybrid propulsion systems; operating characteristics of hybrid drive systems; integration of high voltage power supplies and energy storage systems; operating fundamentals of DC to DC converters; and the relationship of internal combustion engines and motor generators. It also includes the function and design of regenerative braking systems; operation of hybrid transmission systems and power splitting devices; application of the high expansion ratio cycle; safety aspects of service hybrid electric vehicles; utilization of special diagnostic equipment for hybrid electrical systems and related subsystems; appropriate repair protocol for hybrid electrical systems; and maintenance and servicing of hybrid vehicles.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "AUTO 367B",
+    "title": "Plug-In Electric Vehicle\nTechnology",
+    "units": "0.0",
+    "description": "This course covers the functions of plug-in electric vehicles and hybrid extended-range electric vehicles; operating characteristics of high voltage onboard charging systems; charging stations, photovoltaic systems, and electrical grid charging. The course also covers the operation of onboard smart charging systems; economics of electric transportation, utility company systems, and existing options such as off-peak charging. Students will gain an understanding of the use of electric power as applicable to extended-range electric vehicle transportation; utilization of applicable diagnostic and service equipment; the electric vehicle theory of operation; advantages of an electric drive train; electric vehicle history and current status of plug-in electric vehicle technologies; career possibilities in the electric transportation industry; and safety procedures and maintenance of plug-in electric vehicles.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "AUTO 367G",
+    "title": "Gaseous Fuels",
+    "units": "0.0",
+    "description": "This course covers how gaseous fuels include propane, compressed natural gas, liquefied natural gas and hydrogen, and how propane has been used as an engine fuel for over 80-years. Students will learn that after gasoline and diesel, propane is the third most popular fuel and is used to power over four million vehicles. The course will also cover how compressed natural gas and liquefied natural gas are being used in many fleet applications and have a large pipeline distribution system; how hydrogen is used in a fuel cell to create electricity and expels water; how two major automobile manufacturers have introduced hydrogen-powered cars; and how as a society, we are moving towards having humans have less of an impact on our environment and the gaseous fuel are a big part of the movement.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "AUTO 367J",
+    "title": "Introduction to Automotive and\nLight Truck Diesel Systems",
+    "units": "0.0",
+    "description": "As of January 2010, California state law required light- duty diesel-powered vehicles to be included in the smog check program. Diesel's higher efficiency is moving these vehicles' highway mileage to over 40 miles per gallon. Chevrolet and Jeep are all adding diesel-powered vehicles into their new car line-up. This course will consist of lectures and laboratory demonstrations, providing our students with the necessary skills to maintain and repair light-duty diesel vehicles. Diesel training will give students new abilities that are required to be successful in their careers in the automotive industry.",
     "prerequisites": "None"
   },
   {
@@ -1960,10 +2254,24 @@
     "prerequisites": "None"
   },
   {
+    "code": "BUS 91",
+    "title": "Introduction to Personal Finance",
+    "units": "4.0",
+    "description": "This course analyzes a variety of texts, models, and theories relating to core personal finance concepts including budgeting, saving, borrowing, investing and risk management. Students will practice applying quantitative reasoning tools to answer personal financial planning questions relating to money management, tax strategy, consumer credit, purchasing decisions, insurance, investing, retirement and estate planning.",
+    "prerequisites": "None"
+  },
+  {
     "code": "BUS 94",
     "title": "Social Media\nMarketing Strategies",
     "units": "5.0",
     "description": "This course will explore social media as an effective delivery platform in marketing, specifically in promotion programs and product/service delivery. It will also analyze the strengths and weaknesses of major platforms and analytical tools and evaluate the cost-effectiveness and impacts on the overall marketing objectives of a business. There will be an emphasis on customer relationship-building, public relations, event marketing, and sales promotions using social media tactics in developing effective, ethical social media marketing strategies.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "BUS 96",
+    "title": "Principles of Management",
+    "units": "5.0",
+    "description": "Roles, functions, and responsibilities of management; the external environments and their impact on management.",
     "prerequisites": "None"
   },
   {
@@ -2639,6 +2947,13 @@
     "prerequisites": "None"
   },
   {
+    "code": "CIS 308",
+    "title": "Personal Computer Security\nBasics",
+    "units": "0.0",
+    "description": "This is a beginner's computer security course for small office or home users. Students will learn to stop hackers, worms, viruses, spyware, web bugs, identity theft, and other cyber threats. Vulnerabilities found in web browsers, e-mail, and operating systems will also be learned, along with how to protect against online purchase dangers, install firewalls, manage cookies, restrict ports, evaluate wireless networks, and examine encryption. The course includes numerous hands-on exercises to demonstrate security concepts. This noncredit, tuition-free course will be completed in the same class as CIS D108. students covering the same course content.",
+    "prerequisites": "None"
+  },
+  {
     "code": "CIS 30A",
     "title": "Introduction to C#\nProgramming",
     "units": "4.5",
@@ -2660,6 +2975,27 @@
     "prerequisites": "None"
   },
   {
+    "code": "CIS 318A",
+    "title": "Introduction to Unix/Linux",
+    "units": "0.0",
+    "description": "This course is an introduction to the features of the Unix/Linux operating system including text editing, text file manipulation, electronic mail, Internet utilities, directory structures, input/output handling, and shell features.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "CIS 33A",
+    "title": "Programming in PERL",
+    "units": "4.5",
+    "description": "A complete coverage of the core Perl language. Topics covered will include: basic loops and control structures, the elemental data types and operators, subroutines and variable scooping, regular expressions and text parsing, manipulation of files, advanced list processing with grep and map, references, built-in functions and core modules, and advanced input/output including random- access files and formatting.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "CIS 340",
+    "title": "Introduction to Programming in\nPython",
+    "units": "0.0",
+    "description": "This course provides a hands-on introduction to computation through programming and problem-solving. Using the popular Python programming language, students will learn software engineering concepts and basic programming constructs while creating graphical applications.",
+    "prerequisites": "None"
+  },
+  {
     "code": "CIS 35A",
     "title": "Java Programming",
     "units": "4.5",
@@ -2671,6 +3007,41 @@
     "title": "Advanced Java\nProgramming",
     "units": "4.5",
     "description": "This course is an introduction to abstract classes, interfaces, generics using Object Oriented Design methodologies, design patterns, reflection, exception handling, multi-threading, Sockets, JDBC, and Web Programming. Students will design a project in a team-based environment working on creating multiple releases of the same project. Software engineering concepts and tools are also introduced.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "CIS 369A",
+    "title": "Technical Support Fundamentals",
+    "units": "0.0",
+    "description": "This course provides an introduction to Information Technology (IT). Students will learn important facets of Information Technology including computer hardware, the Internet, computer software, troubleshooting, and customer service. This course is specifically designed to provide an overview of what is to come in this certificate program. Repeatability (No limit on student re-enrollment for 0 unit courses.)",
+    "prerequisites": "None"
+  },
+  {
+    "code": "CIS 369B",
+    "title": "The Bits and Bytes of Computer\nNetworking",
+    "units": "0.0",
+    "description": "This course is designed to provide a full overview of computer networking. It starts with the fundamentals of modern networking technologies and protocols, and advances to an overview of the cloud option for practical applications, with an emphasis on network troubleshooting. Repeatability (No limit on student re-enrollment for 0 unit courses.)",
+    "prerequisites": "None"
+  },
+  {
+    "code": "CIS 369C",
+    "title": "Operating Systems and You:\nBecoming a Power User",
+    "units": "0.0",
+    "description": "In this course, through a combination of video lectures, demonstrations, and hands-on practice, learners will grasp the main components of an operating system and how to perform critical tasks like managing software, supporting users, and configuring hardware. Repeatability (No limit on student re-enrollment for 0 unit courses.)",
+    "prerequisites": "None"
+  },
+  {
+    "code": "CIS 369D",
+    "title": "System Administration and IT\nInfrastructure Services",
+    "units": "0.0",
+    "description": "This course will transition learners from working on a single computer to supporting an entire data center. Systems administration is the field of IT that's responsible for maintaining reliable computer systems in a multi-user environment. In this course, students will learn the infrastructure services that keep all organizations, big and small, up and running. The material focuses particularly on the cloud, covering everything from typical cloud infrastructure setups to how to manage cloud resources. Students will learn how to manage and configure servers and how to use industry tools to manage computers, user information, and user productivity, as well as learn how to recover an organization's IT infrastructure in the event of a disaster. Repeatability (No limit on student re-enrollment for 0 unit courses.)",
+    "prerequisites": "None"
+  },
+  {
+    "code": "CIS 369E",
+    "title": "IT Security: Defense Against the\nDigital Dark Arts",
+    "units": "0.0",
+    "description": "This course covers a wide variety of IT security concepts, tools, and best practices. It introduces threats and attacks and demonstrates the many ways they can reveal themselves. It further explores the functionality of encryption algorithms and how they're used to safeguard data, and it introduces the three As of information security: authentication, authorization, and accounting. The use of network security solutions, ranging from firewalls to Wi-Fi encryption options, are also covered. The course is rounded out by combining all these elements together into a multi-layered, in-depth security architecture, supplemented by practical recommendations on how to integrate a culture of security into an organization or team. Repeatability (No limit on student re-enrollment for 0 unit courses.)",
     "prerequisites": "None"
   },
   {
@@ -2699,6 +3070,20 @@
     "title": "iOS Development",
     "units": "4.5",
     "description": "This course is an introduction to mobile app design and development for devices running iOS using its native object-oriented programming language Swift and basic design patterns. Students will understand the core APIs to construct powerful applications.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "CIS 398",
+    "title": "Digital Image Editing Software\n(Photoshop)",
+    "units": "0.0",
+    "description": "The course covers digital imaging principles to produce graphics for websites. Students will gain hands-on experience with the elements and tools to set up files, manage documents, and perform image processing. This noncredit, tuition-free course will be completed in the same class with CIS D098. students covering the same course content.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "CIS 399",
+    "title": "Office Software Applications",
+    "units": "0.0",
+    "description": "This course introduces concepts and hands-on projects using four common office productivity software programs including word processing, spreadsheet, database, and presentation software. This noncredit, tuition-free course will be completed in the same class with CIS D099. students covering the same course content.",
     "prerequisites": "None"
   },
   {
@@ -2875,6 +3260,13 @@
     "units": "4.5",
     "description": "This course covers a wide variety of IT security concepts, tools, and best practices. It introduces threats and attacks and demonstrates the many ways they can reveal themselves. It further explores the functionality of encryption algorithms and how they're used to safeguard data, and it introduces the three As of information security: authentication, authorization, and accounting. The use of network security solutions, ranging from firewalls to Wi-Fi encryption options, is also covered. The course is rounded out by combining all these elements together into a multi-layered, in-depth security architecture, supplemented by practical recommendations on how to integrate a culture of security into an organization or team.",
     "prerequisites": "None"
+  },
+  {
+    "code": "CIS 73",
+    "title": "Unix/Linux Systems Programming",
+    "units": "4.5",
+    "description": "Coverage of systems programming in the Unix/Linux/Posix environments, with emphasis on low- level Unix/Linux/Posix system calls from C programs and Shell scripts. Discussion of differences in major Unix/Linux/Posix environments.",
+    "prerequisites": "CIS 18A and CIS 26B (or CIS 26BH)"
   },
   {
     "code": "CIS 74",
@@ -3094,6 +3486,13 @@
     "prerequisites": "None"
   },
   {
+    "code": "COMM 1",
+    "title": "Public Speaking",
+    "units": "5.0",
+    "description": "Theory and techniques of public speaking in a democratic society. An introduction to a variety of perspectives and approaches used to research, assess, organize, present, and evaluate public presentations. Students will develop and apply effective research strategies.",
+    "prerequisites": "None"
+  },
+  {
     "code": "COMM 10",
     "title": "Fundamentals of\nOral Communication",
     "units": "5.0",
@@ -3150,6 +3549,13 @@
     "prerequisites": "None"
   },
   {
+    "code": "COMM 1H",
+    "title": "Public Speaking - HONORS",
+    "units": "5.0",
+    "description": "Theory and techniques of public speaking in a democratic society. An introduction to a variety of perspectives and approaches used to research, organize, present, and evaluate public presentations. Students will develop and apply effective research strategies. As an honors course students will be expected to complete extra assignments to gain deeper insight in speech communication.",
+    "prerequisites": "None"
+  },
+  {
     "code": "COMM 20",
     "title": "Performance\nStudies",
     "units": "4.0",
@@ -3161,6 +3567,20 @@
     "title": "Intercultural\nCommunication",
     "units": "4.0",
     "description": "Intercultural Communication is an introduction to interaction across cultural divides in domestic and global contexts. This course examines how differing cultures, languages, and social patterns influence the way members of groups relate among themselves and with members of other ethnic and cultural groups. Intercultural Communication emphasizes the development of interpersonal skills for communicating effectively across cultures and encourages appreciation of diverse cultural voices.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "COMM 70",
+    "title": "Organizational Communication",
+    "units": "5.0",
+    "description": "The course examines the application of organizational communication theories, processes, and functions. It explores topics of ethics, diversity, leadership, teams, networks, and globalization and their role in creating collaborative, equitable, and inclusive work environments.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "COMM 70H",
+    "title": "Organizational Communication\n- HONORS",
+    "units": "5.0",
+    "description": "The course examines the application of organizational communication theories, processes, and functions. It explores topics of ethics, diversity, leadership, teams, networks, and globalization and their role in creating collaborative, equitable, and inclusive work environments. This course is also part of the Honors Program",
     "prerequisites": "None"
   },
   {
@@ -3906,6 +4326,41 @@
     "prerequisites": "DMT 65A, DMT 65B, DMT 65C, DMT 65D or DMT 65E"
   },
   {
+    "code": "DMT 70A",
+    "title": "Introduction to Computer Aided\nDesign Using AutoCAD",
+    "units": "4.0",
+    "description": "Introduction-level computer-aided design and drafting using AutoCAD software. Emphasis on 2D drawings and dimensioning.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "DMT 70B",
+    "title": "Introduction to Computer Aided\nDesign Using AutoCAD",
+    "units": "4.0",
+    "description": "Introduction-level computer-aided design and drafting using AutoCAD software. Emphasis on 2D drawings and dimensioning.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "DMT 70C",
+    "title": "Introduction to Computer Aided\nDesign Using AutoCAD",
+    "units": "4.0",
+    "description": "Introduction-level computer-aided design and drafting using AutoCAD software. Emphasis on 2D drawings and dimensioning.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "DMT 70D",
+    "title": "Introduction to Computer Aided\nDesign Using AutoCAD",
+    "units": "4.0",
+    "description": "Introduction-level computer-aided design and drafting using AutoCAD software. Emphasis on 2D drawings and dimensioning.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "DMT 70E",
+    "title": "Introduction to Computer Aided\nDesign Using AutoCAD",
+    "units": "4.0",
+    "description": "Introduction-level computer-aided design and drafting using AutoCAD software. Emphasis on 2D drawings and dimensioning.",
+    "prerequisites": "None"
+  },
+  {
     "code": "DMT 73A",
     "title": "Introduction to\nComputer Aided Design\nUsing Autodesk Inventor",
     "units": "4.0",
@@ -3938,6 +4393,13 @@
     "title": "Introduction to\nComputer Aided Design\nUsing Autodesk Inventor",
     "units": "4.0",
     "description": "AutoDesk Inventor is an introduction-level computer-aided design and drafting course. Application of AutoDesk Inventor software is applied to create manufacturing models, which consist of individual parts, assemblies, and drawings.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "DMT 75A",
+    "title": "Introduction to Computer Aided\nDesign Using Siemens NX",
+    "units": "4.0",
+    "description": "Introduction-level application of Siemens NX in manufacturing models. This course covers solid modeling, assemblies and drawings.",
     "prerequisites": "None"
   },
   {
@@ -4088,6 +4550,34 @@
     "prerequisites": "DMT 84A or equivalent work experience"
   },
   {
+    "code": "DMT 87A",
+    "title": "CAD/CAM Programming Using\nMastercam",
+    "units": "5.0",
+    "description": "Introduction to Mastercam three axis mill programming. Create part geometry, define tools and tool paths, using post-processors to produce word-address format programs.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "DMT 87B",
+    "title": "CAD/CAM Programming Using\nMastercam",
+    "units": "5.0",
+    "description": "Introduction to Mastercam three axis mill programming. Create part geometry, define tools and tool paths, using post-processors to produce word-address format programs.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "DMT 87C",
+    "title": "CAD/CAM Programming Using\nMastercam",
+    "units": "5.0",
+    "description": "Introduction to Mastercam three axis mill programming. Create part geometry, define tools and tool paths, using post-processors to produce word-address format programs.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "DMT 87D",
+    "title": "CAD/CAM Programming Using\nMastercam",
+    "units": "5.0",
+    "description": "Introduction to Mastercam three axis mill programming. Create part geometry, define tools and tool paths, using post-processors to produce word-address format programs.",
+    "prerequisites": "None"
+  },
+  {
     "code": "DMT 87E",
     "title": "CAD/CAM\nProgramming Using\nMastercam",
     "units": "5.0",
@@ -4095,11 +4585,60 @@
     "prerequisites": "None"
   },
   {
+    "code": "DMT 87F",
+    "title": "CAD/CAM Based CNC Surface\nContouring Programming Using Mastercam",
+    "units": "5.0",
+    "description": "CAD/CAM programming for continuous 3-axis contouring on machining centers using wireframe, splines, surface and solid modeling. Rough, finish and high speed machining. Editing, post-processing and verification of completed programs.",
+    "prerequisites": "DMT 87A, DMT 87B, DMT 87C, DMT 87D or DMT 87E"
+  },
+  {
+    "code": "DMT 87G",
+    "title": "CAD/CAM Based CNC Surface\nContouring Programming Using Mastercam",
+    "units": "5.0",
+    "description": "CAD/CAM programming for continuous 3-axis contouring on machining centers using wireframe, splines, surface and solid modeling. Rough, finish and high speed machining. Editing, post-processing and verification of completed programs.",
+    "prerequisites": "DMT 87A, DMT 87B, DMT 87C, DMT 87D or DMT 87E"
+  },
+  {
+    "code": "DMT 87H",
+    "title": "CAD/CAM Based CNC Surface\nContouring Programming Using Mastercam",
+    "units": "5.0",
+    "description": "CAD/CAM programming for continuous 3-axis contouring on machining centers using wireframe, splines, surface and solid modeling. Rough, finish and high speed machining. Editing, post-processing and verification of completed programs.",
+    "prerequisites": "DMT 87A, DMT 87B, DMT 87C, DMT 87D or DMT 87E"
+  },
+  {
+    "code": "DMT 87J",
+    "title": "CAD/CAM Based CNC Surface\nContouring Programming Using Mastercam",
+    "units": "5.0",
+    "description": "CAD/CAM programming for continuous 3-axis contouring on machining centers using wireframe, splines, surface and solid modeling. Rough, finish and high speed machining. Editing, post-processing and verification of completed programs.",
+    "prerequisites": "DMT 87A, DMT 87B, DMT 87C, DMT 87D or DMT 87E"
+  },
+  {
     "code": "DMT 87K",
     "title": "CAD/CAM Based\nCNC Surface Contouring\nProgramming Using\nMastercam",
     "units": "5.0",
     "description": "This Mastercam CAD/CAM course teaches programming for continuous 3- axis contouring on machining centers using wireframes, splines, surface, and solid modeling. Rough, finish, and high-speed machining paths, as well as, editing, post-processing, and verification of completed programs are also introduced in this advanced course.",
     "prerequisites": "DMT 87E"
+  },
+  {
+    "code": "DMT 87L",
+    "title": "CAD/CAM Based CNC 4 and 5\nAxis Mill/Lathe Programming Using\nMastercam",
+    "units": "5.0",
+    "description": "Advanced Mastercam multiaxis toolpaths for horizontal milling machines, vertical milling machines with rotary 4th axis, five axis indexing machining centers and CNC lathe with live tooling. Tooling, process, fixture design, work holding techniques and toolpath applications with rotary axis.",
+    "prerequisites": "DMT 87A, DMT 87B, DMT 87C, DMT 87D or DMT 87E"
+  },
+  {
+    "code": "DMT 87M",
+    "title": "CAD/CAM Based CNC 4 and 5\nAxis Mill/Lathe Programming Using\nMastercam",
+    "units": "5.0",
+    "description": "Advanced Mastercam multiaxis toolpaths for horizontal milling machines, vertical milling machines with rotary 4th axis, five axis indexing machining centers and CNC lathe with live tooling. Tooling, process, fixture design, work holding techniques and toolpath applications with rotary axis.",
+    "prerequisites": "DMT 87A, DMT 87B, DMT 87C, DMT 87D or DMT 87E 246"
+  },
+  {
+    "code": "DMT 87N",
+    "title": "CAD/CAM Based CNC 4 and 5\nAxis Mill/Lathe Programming Using\nMastercam",
+    "units": "5.0",
+    "description": "Advanced Mastercam multiaxis toolpaths for horizontal milling machines, vertical milling machines with rotary 4th axis, five axis indexing machining centers and CNC lathe with live tooling. Tooling, process, fixture design, work holding techniques and toolpath applications with rotary axis.",
+    "prerequisites": "DMT 87A, DMT 87B, DMT 87C, DMT 87D or DMT 87E"
   },
   {
     "code": "DMT 87P",
@@ -4711,6 +5250,41 @@
     "prerequisites": "EDAC 240 Repeatability (Repeatable as needed to meet the Student Educational Contract (Title 5, section 56029).) EDUC - Education Courses"
   },
   {
+    "code": "EDAC 300",
+    "title": "Workplace Communication\nSkills",
+    "units": "0.0",
+    "description": "This course focuses on the proper communication skills in written business formats, verbal presentations, and appropriate body language styles in order for students to be able to communicate effectively in competitive employment settings",
+    "prerequisites": "None"
+  },
+  {
+    "code": "EDAC 304",
+    "title": "Soft Skills",
+    "units": "0.0",
+    "description": "Effective soft skills, communication skills, and problem solving skills will be examined and identified. Students will practice such skills in collaborative projects, role- playing activities, and in real-life situations.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "EDAC 307",
+    "title": "Notetaking Technologies and\nStrategies",
+    "units": "0.0",
+    "description": "A review of digital notetaking technologies and related strategies that enhance learning and retention of information, and support students' specific learning styles.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "EDAC 312",
+    "title": "Basic English Skills for\nStudents with Disabilities",
+    "units": "0.0",
+    "description": "Basic reading and writing skills for students with disabilities. This course is to prepare students for college level reading and writing courses.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "EDAC 313",
+    "title": "Basic Math Skills for Students\nwith Disabilities",
+    "units": "0.0",
+    "description": "Basic math functions such as addition, subtraction, multiplication, and division. Students will also be introduced to decimals, fractions, and proportions.",
+    "prerequisites": "None"
+  },
+  {
     "code": "EDUC 1",
     "title": "Introduction to\nElementary Education in a\nDiverse Society",
     "units": "3.0",
@@ -5194,6 +5768,20 @@
     "prerequisites": "None"
   },
   {
+    "code": "ES 76",
+    "title": "Energy Star Products",
+    "units": "1.0",
+    "description": "This course provides an introduction to Energy Star products including high efficiency, high-performance commercial, industrial and residential equipment, and appliances that reduce energy consumption and save money.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "ES 76A",
+    "title": "Solar Thermal Systems",
+    "units": "1.0",
+    "description": "This course presents a general overview of Solar Thermal Systems with an emphasis on residential hot water applications. It introduces the physics of solar thermal energy, siting analysis, sizing design, and other relevant aspects of solar thermal systems.",
+    "prerequisites": "None"
+  },
+  {
     "code": "ES 77X",
     "title": "Special Projects in\nEnvironmental Studies",
     "units": "1.0",
@@ -5229,6 +5817,34 @@
     "prerequisites": "None"
   },
   {
+    "code": "ES 80",
+    "title": "California Field Studies",
+    "units": "1.0",
+    "description": "Field observation of California's native plants and animals in aquatic and terrestrial ecosystems, with an emphasis on endangered, rare, protected and reintroduced species. The underlying social, environmental protection, environmental justice, economic, and political issues associated with habitat and species loss will be discussed, as well as impacts on various cultural, ethnic and socio-economic groups. <br /> (Off-campus field trips may be required.)",
+    "prerequisites": "None"
+  },
+  {
+    "code": "ES 80X",
+    "title": "California Field Studies",
+    "units": "2.0",
+    "description": "Field observation of California's native plants and animals in aquatic and terrestrial ecosystems, with an emphasis on endangered, rare, protected and reintroduced species. The underlying social, environmental protection, environmental justice, economic, and political issues associated with habitat and species loss will be discussed, as well as impacts on various cultural, ethnic and socio-economic groups. <br /> (Off-campus field trips may be required.)",
+    "prerequisites": "None"
+  },
+  {
+    "code": "ES 80Y",
+    "title": "California Field Studies",
+    "units": "3.0",
+    "description": "Field observation of California's native plants and animals in aquatic and terrestrial ecosystems, with an emphasis on endangered, rare, protected and reintroduced species. The underlying social, environmental protection, environmental justice, economic, and political issues associated with habitat and species loss will be discussed, as well as impacts on various cultural, ethnic and socio-economic groups. <br /> (Off-campus field trips may be required.)",
+    "prerequisites": "None"
+  },
+  {
+    "code": "ES 80Z",
+    "title": "California Field Studies",
+    "units": "4.0",
+    "description": "Field observation of California's native plants and animals in aquatic and terrestrial ecosystems, with an emphasis on endangered, rare, protected and reintroduced species. The underlying social, environmental protection, environmental justice, economic, and political issues associated with habitat and species loss will be discussed, as well as impacts on various cultural, ethnic and socio-economic groups. <br /> (Off-campus field trips may be required.)",
+    "prerequisites": "None"
+  },
+  {
     "code": "ES 81",
     "title": "Sustainable Building\nAssessments and Codes",
     "units": "3.0",
@@ -5254,6 +5870,27 @@
     "title": "Energy Management\nReturn on Investment",
     "units": "2.0",
     "description": "This course introduces simple analytical methods to make good energy decisions. Specific topics include the fundamentals of life-cycle assessment, the terms used for energy analysis, the metrics defined for economic and financial cost-effectiveness, and the assessments made for any environmental impacts.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "ES 84",
+    "title": "Residential Solar Design and\nInstallation",
+    "units": "1.0",
+    "description": "Analysis of the key factors in designing and installing a residential solar system. Residential solar installation trends, emerging technologies and strategies, how to size the system, evaluation of modules and inverters, shading analysis, rebates and tax incentives, economic payback, buy vs. lease options, performance monitoring and how to install a complete residential solar systems will be covered. Students will spend three hours to become OSHA 10 solar safety certified to install residential solar energy systems.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "ES 85A",
+    "title": "California Native Plants and\nAnimals",
+    "units": "2.0",
+    "description": "Environmental education and interpretative methods focusing on the native plants and animals of California with an emphasis on local case studies and endangered species. Interpretive techniques utilized in environmental education will be reviewed. Prepares students to lead tours of the Cheeseman Environmental Study Area (ESA), outdoor lab. Teaching environmental education and interpretive techniques to various ethnic, cultural and socioeconomic groups will be explored.<br /> <br /> (Field project required.)",
+    "prerequisites": "None"
+  },
+  {
+    "code": "ES 85B",
+    "title": "Environmental Education\nInterpretive Training",
+    "units": "2.0",
+    "description": "Interpretative techniques of environmental education and environmental outreach utilizing the Cheeseman Environmental Study Area, the Kirsch Center, De Anza College campus and open space sites, parks and refuges in Santa Clara County. Students will refine the techniques required for leading tours and interpreting California native plant and animal communities in the Santa Clara County outdoor settings. Students will conduct 2-4 lead tours at the Cheeseman Environmental Studies Area or at local elementary schools. Strategies for teaching environmental education and nature-based learning with various cultural, ethnic and socio-economic groups will also be explored. <br /> <br /> (Off-campus field trips are required for this course.)",
     "prerequisites": "None"
   },
   {
@@ -5296,6 +5933,41 @@
     "title": "Introduction to\nConservation Biology",
     "units": "5.0",
     "description": "An introduction to biodiversity and conservation biology as a branch of the environmental sciences. This course will focus on species richness, genetic diversity and ecosystem diversity through the exploration of contemporary biodiversity and conservation issues. Adaptive, community-based conservation techniques applied to develop practical problem-solving approaches to the biodiversity crisis including habitat fragmentation and biological monitoring. In addition cultural, economic and philosophical aspects of biodiversity conservation will be explored.<br /> <br /> (Off- campus field trips will be required.)",
+    "prerequisites": "None"
+  },
+  {
+    "code": "ESCI 50",
+    "title": "Introduction to Urban Ecology",
+    "units": "4.0",
+    "description": "This course examines how nature and wildlife in urban spaces face different constraints than that of \"untouched\" wilderness and aims to introduce the intersection of nature and human-constructed civilizations. Students will learn about the methods of analysis in urban ecology and apply their knowledge to a case study.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "ESCI 54",
+    "title": "Environmental Analysis",
+    "units": "3.0",
+    "description": "This course explores the data analysis techniques, protocol, and equipment utilized in Environmental Science. Students will apply the data analysis techniques utilized in the preservation, protection, and restoration of environmental systems.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "ESCI 56",
+    "title": "Plant Survey Techniques",
+    "units": "3.0",
+    "description": "This course examines the plant survey techniques and plant community ecology principles utilized in wildlife science corridor and landscape design, preservation, or restoration. Students will apply these plant survey techniques to assist in the preservation, protection, and restoration of native species and ecosystems.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "ESCI 57",
+    "title": "Wildlife Monitoring",
+    "units": "2.0",
+    "description": "This is a wildlife monitoring field studies lab course exploring wildlife movement and wildlife corridors. Students apply the principles of Conservation Biology, Landscape Ecology, and Ecosystems Management to assist in the preservation, protection, and restoration of native species and ecosystems.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "ESCI 58",
+    "title": "Landscape Linkages for California",
+    "units": "2.0",
+    "description": "This is a landscape linkages field studies lab course exploring wildlife movement, habitat utilization, data collection, and analysis in California. Students apply wildlife tracking principles and techniques as well as relevant state and federal legislation and policy to an actual statewide corridor case study to assist in the preservation, protection, and restoration of native species, ecosystems, and landscape connectivity statewide.",
     "prerequisites": "None"
   },
   {
@@ -5353,6 +6025,13 @@
     "units": "2.0",
     "description": "This course covers English speaking and listening practice in a variety of contexts, with the development of vocabulary appropriate in both formal and informal situations.",
     "prerequisites": "ESL 244 or ESL 444 or a qualifying score on the English as a Second Language Placement Test Entrance Skills (Restricted to students whose native language is not English.)"
+  },
+  {
+    "code": "ESL 254",
+    "title": "American Language and Culture\nThrough Media as Related to Child\nDevelopment",
+    "units": "2.0",
+    "description": "This course allows students to develop an understanding of American culture, language, common idioms, and slang through viewing and discussing American films and television related to child development.",
+    "prerequisites": "None"
   },
   {
     "code": "ESL 255",
@@ -5418,6 +6097,90 @@
     "prerequisites": "None"
   },
   {
+    "code": "ESL 400",
+    "title": "High Beginning English as a\nSecond Language",
+    "units": "0.0",
+    "description": "This course focuses on the development of English listening, speaking, reading, and writing skills at the high- beginning level with an emphasis on explicit, direct grammar instruction. Students will practice listening to basic forms of conversational English and speaking with comprehensible pronunciation; develop basic reading comprehension and vocabulary; and practice writing simple and basic compound sentences, short narratives, explanations, and descriptions.",
+    "prerequisites": "Qualifying score on the English as a Second Language Placement Test. Repeatability (No limit on student re-enrollment for 0 unit courses.)"
+  },
+  {
+    "code": "ESL 434",
+    "title": "Low Intermediate English as a\nSecond Language",
+    "units": "0.0",
+    "description": "This course focuses on the development of English speaking, listening, reading, and writing skills at the low intermediate level. Emphasis will be placed on explicit grammar instruction, writing a group of topic-related sentences, vocabulary building, pronunciation, and discussion of multicultural topics.",
+    "prerequisites": "Qualifying score on the English as a Second Language Placement Test; or ESL 200 (or ESL 400) with a grade of C or better Entrance Skills (Restricted to students whose native language is not English.) Repeatability (No limit on student re-enrollment for 0 unit courses.)"
+  },
+  {
+    "code": "ESL 444",
+    "title": "Intermediate English as a Second\nLanguage",
+    "units": "0.0",
+    "description": "This course focuses on the development of English speaking, listening, reading, and writing skills with an emphasis on explicit, direct grammar instruction. Emphasis will be placed on vocabulary-building and writing. Pronunciation practice and discussion of cross- cultural topics are also included.",
+    "prerequisites": "Qualifying score on the English as a Second Language Placement Test; or ESL 234 (or ESL 434) with a grade of C or better Entrance Skills (Restricted to students whose native language is not English.) Repeatability (No limit on student re-enrollment for 0 unit courses.)"
+  },
+  {
+    "code": "ESL 451",
+    "title": "High Intermediate Listening and\nSpeaking",
+    "units": "0.0",
+    "description": "This course will explore English speaking and listening practice in a variety of contexts, along with the development of vocabulary appropriate in both formal and informal situations.",
+    "prerequisites": "ESL 244 or ESL 444 or a qualifying score on the English as a Second Language Placement Test Entrance Skills (Restricted to students whose native language is not English.) Repeatability (No limit on student re-enrollment for 0 unit courses.)"
+  },
+  {
+    "code": "ESL 455",
+    "title": "High Intermediate Grammar,\nWriting and Reading",
+    "units": "0.0",
+    "description": "This course focuses on the development of high- intermediate reading comprehension, vocabulary, and writing skills using high-intermediate grammar. Students will write well-organized and well-developed descriptive, narrative, and explanatory paragraphs.",
+    "prerequisites": "ESL 244 or ESL 444 or a qualifying score on the English as a Second Language Placement Test Repeatability (No limit on student re-enrollment for 0 unit courses.)"
+  },
+  {
+    "code": "ESL 460A",
+    "title": "American English Pronunciation\n1",
+    "units": "0.0",
+    "description": "This course focuses on understanding native speakers' speech and production of speech that is intelligible and accurate through the study and practice of the English language vowel sounds, syllables, and prosodic patterns and features.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "ESL 460B",
+    "title": "American English Pronunciation\n2",
+    "units": "0.0",
+    "description": "This course focuses on understanding native speakers' speech and production of speech that is intelligible and accurate through the study and practice of the English language consonant sounds, voicing, aspiration, grammatical endings, linking, and sound change.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "ESL 461",
+    "title": "Low Advanced Listening and\nSpeaking",
+    "units": "0.0",
+    "description": "This course emphasizes listening comprehension and proficiency in speaking in academic settings and the expression of students' ideas using a variety of speaking strategies. Students will develop vocabulary, pronunciation, and note-taking skills.",
+    "prerequisites": "ESL 251 or ESL 451 or a qualifying score on the English as a Second Language Placement Test Entrance Skills (Restricted to students whose native language is not English.) Repeatability (No limit on student re-enrollment for 0 unit courses.) 397"
+  },
+  {
+    "code": "ESL 465",
+    "title": "Low Advanced Grammar, Writing\nand Reading",
+    "units": "0.0",
+    "description": "This course focuses on the development of low- advanced skills for writing clear, organized, well- developed multi-paragraph compositions, grammar, sentence structure, and reading comprehension and vocabulary.",
+    "prerequisites": "ESL 255 or ESL 455 or a qualifying score on the English as a Second Language Placement Test Repeatability (No limit on student re-enrollment for 0 unit courses.)"
+  },
+  {
+    "code": "ESL 472",
+    "title": "Advanced Reading and\nVocabulary",
+    "units": "0.0",
+    "description": "This course focuses on the development of academic vocabulary, reading, and critical thinking skills through extensive readings of college-level material in English.",
+    "prerequisites": "ESL 261 and ESL 265 (or ESL 461 and ESL 465) with a grade of C or better; or a qualifying score on the English as a Second Language Placement Test Entrance Skills (Restricted to students whose native language is not English.) Repeatability (No limit on student re-enrollment for 0 unit courses.)"
+  },
+  {
+    "code": "ESL 473",
+    "title": "Introduction to the Essay",
+    "units": "0.0",
+    "description": "The course introduces the principles and techniques of academic essay writing based on critical reading and thinking.",
+    "prerequisites": "ESL 261 and ESL 265 (or ESL 461 and ESL 465) with a grade of C or better; or a qualifying score on the English as a Second Language Placement Test Entrance Skills (Restricted to students whose native language is not English.) Repeatability (No limit on student re-enrollment for 0 unit courses.)"
+  },
+  {
+    "code": "ESL 474",
+    "title": "Advanced Grammar and\nProofreading for Writers",
+    "units": "0.0",
+    "description": "This is an advanced grammar course. It focuses on helping students improve their grammar and editing skills to become successful academic writers. The course addresses the students' individual grammar needs and helps develop effective proofreading skills.",
+    "prerequisites": "ESL 265 or ESL 465"
+  },
+  {
     "code": "ESL 5",
     "title": "Advanced\nComposition and Reading",
     "units": "5.0",
@@ -5432,6 +6195,13 @@
     "prerequisites": "ENGL C1000 or ENGL C1000H or ESL 5 Entrance Skills (Restricted to students whose native language is not English.)"
   },
   {
+    "code": "EWRT 1A",
+    "title": "Composition and Reading",
+    "units": "5.0",
+    "description": "This course introduces students to university-level reading and writing, with an emphasis on analysis, and closely examines a variety of texts (personal, popular, literary, professional, academic) from culturally diverse traditions. Students will practice common rhetorical strategies used in academic writing and compose clear, well-organized, and well-developed essays, with varying purposes and differing audiences, from personal to academic.",
+    "prerequisites": "Eligibility for college-level composition (EWRT 1A or EWRT 1AH) as determined by college assessment or other appropriate methods. Entrance Skills (Eligibility for college-level composition as determined by college assessment or other appropriate methods.)"
+  },
+  {
     "code": "EWRT 1B",
     "title": "Reading, Writing\nand Research",
     "units": "5.0",
@@ -5444,6 +6214,20 @@
     "units": "5.0",
     "description": "This course applies the analytical, critical, and synthesis skills developed in EWRT D001A/D01AH and EWRT D001B/D01BH, and/or EWRT D002./D002H to the ways meaning can be made in diverse cultural, social, and historical contexts in prose, poetry, and drama by reading and analyzing texts and critical interpretations and by composing critical responses, analyses, and arguments.",
     "prerequisites": "ENGL C1001, ENGL C1001H, EWRT 1B or EWRT 1BH"
+  },
+  {
+    "code": "EWRT 2",
+    "title": "Critical Reading, Writing and\nThinking",
+    "units": "5.0",
+    "description": "This course allows students to develop critical thinking skills and the ability to apply these skills to reading and writing. Students will practice analytical and argumentative academic essays based on the reading of complex texts, and the use of outside research leading to analysis, comparison and synthesis, and a documented research paper.",
+    "prerequisites": "EWRT 1A or EWRT 1AH or ESL 5"
+  },
+  {
+    "code": "EWRT 2H",
+    "title": "Critical Reading, Writing and\nThinking - HONORS",
+    "units": "5.0",
+    "description": "This course allows students to develop critical thinking skills and the ability to apply these skills to reading and writing. Students will practice analytical and argumentative academic essays based on the reading of complex texts, and the use of outside research leading to analysis, comparison and synthesis, and a documented research paper. Because this is an honors program course, it includes more advanced assignments and assessments.",
+    "prerequisites": "EWRT 1A or EWRT 1AH or ESL 5"
   },
   {
     "code": "EWRT 30",
@@ -5639,6 +6423,13 @@
     "title": "History of\nCalifornia",
     "units": "4.0",
     "description": "This course covers California history from Native American cultures to the present. Emphasis is placed on introducing students to the discipline of history through cultural, social, economic, political, and environmental resource issues. The course includes practice in critical analysis of primary and secondary sources.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "HIST 107X",
+    "title": "Community History",
+    "units": "2.0",
+    "description": "An overview and appreciation of one or more California communities tracing evolution of land use and development and looking at the influence of Native Americans and various cultures to the present.",
     "prerequisites": "None"
   },
   {
@@ -6251,6 +7042,13 @@
     "prerequisites": "HTEC 93"
   },
   {
+    "code": "HTEC 95A",
+    "title": "Medical Assisting Externship",
+    "units": "3.0",
+    "description": "Clinical medical assisting practical experience in medical facilities.",
+    "prerequisites": "BIOL 54G, BIOL 54H, BIOL 54I, BIOL 54J; and HTEC 50, HTEC 60A, HTEC 60G, HTEC 60H, HTEC 61, HTEC 64A, HTEC 64B, HTEC 71, HTEC 72, HTEC 73, HTEC 74A, HTEC 75, HTEC 90G, HTEC 90H, HTEC 91, HTEC 93, HTEC 94, HTEC 101A, HTEC 101B, HTEC 101C, HTEC 101D, HTEC 101E, HTEC 101F, HTEC 101H and HTEC 110"
+  },
+  {
     "code": "HTEC 95B",
     "title": "Phlebotomy\nTechnician I Externship",
     "units": "3.0",
@@ -6461,6 +7259,20 @@
     "prerequisites": "None"
   },
   {
+    "code": "ICS 16A",
+    "title": "History of Africa to 1800",
+    "units": "4.0",
+    "description": "This course discusses the history of Africa from the Paleolithic period to 1800. The course is an interdisciplinary survey of the emergence and development of African civilizations focusing on geographical, environmental economic, social, cultural and political issues.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "ICS 16B",
+    "title": "History of Africa from 1800 to the\nPresent",
+    "units": "4.0",
+    "description": "This course studies African history in the 19th, 20th, and 21st centuries. The course focuses the implications of European expansion into Africa, the emergence of African nationalist movements, the establishment of independent African nations, and African nations post- colonization.",
+    "prerequisites": "None"
+  },
+  {
     "code": "ICS 17",
     "title": "Critical\nConsciousness and Social\nChange",
     "units": "4.0",
@@ -6524,6 +7336,13 @@
     "prerequisites": "ICS 2A"
   },
   {
+    "code": "ICS 35",
+    "title": "Chicano/a, Latino/a Literature",
+    "units": "4.0",
+    "description": "This course will survey Chicano/a, Latino/a literature in its various forms, with emphasis on contemporary authors, from the 1940s to the present.",
+    "prerequisites": "None"
+  },
+  {
     "code": "ICS 36",
     "title": "Grassroots\nDemocracy: Social\nMovements Since the 1960s",
     "units": "4.0",
@@ -6535,6 +7354,34 @@
     "title": "Ancient Peoples of\nMesoamerica",
     "units": "4.0",
     "description": "This is an introductory survey of the development of pre-contact Mesoamerican indigenous cultures, concluding with the Spanish invasion, conquest, and colonization of the Aztecs, Maya, and Zapotec peoples. The course commences with the earliest known evidence of human occupation in Mesoamerica, progressing through the development of agriculturally-based societies.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "ICS 38A",
+    "title": "Colonial Latin American History",
+    "units": "4.0",
+    "description": "This course examines Colonial Latin America and its role in the Atlantic world (to 1825) including the independence movements. Themes in the course cover social, intellectual, and cultural developments, the impact of poverty, race and gender relations, and popular culture.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "ICS 38B",
+    "title": "Modern Latin American History",
+    "units": "4.0",
+    "description": "This course examines Latin American history from post- colonialism to the present (1810 to the present) and focuses on understanding the region as a diverse geographic, political, and social reality. Special attention will be given to the contributions of various peoples and cultures, human communities in arts and literature.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "ICS 47",
+    "title": "Introduction to Disability Studies",
+    "units": "4.0",
+    "description": "Overview of all major categories and characteristics of disabilities. Physical, sensory, developmental and learning disabilities discussed. Interdisciplinary study of disability rights and justice movements and resulting policies and legislation that form framework of disability laws in the United States. Cultural/experiential aspects of disabilities from the perspectives of disabled individuals explored through readings and guest speakers. Contrasts disabled with non-disabled culture including cross-cultural perspectives of the disabled experience. Emphasis placed on recognition of strengths and abilities to provide strategies for instruction and accommodations.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "ICS 7",
+    "title": "Intercultural Communication",
+    "units": "4.0",
+    "description": "Study of intercultural communication in domestic and global contexts. Examines how differing cultures, languages, and social patterns influence the way members of groups relate among themselves and with members of other ethnic and cultural groups. Emphasizes development of interpersonal skills for communicating effectively across cultures and encourages appreciation of diverse cultural voices.",
     "prerequisites": "None"
   },
   {
@@ -6598,6 +7445,13 @@
     "title": "Special Group\nProjects in Intercultural\nStudies",
     "units": "4.0",
     "description": "Special group projects that incorporate the theory and practice of issues within the field of Intercultural Studies.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "ICS 7H",
+    "title": "Intercultural Communication -\nHONORS",
+    "units": "4.0",
+    "description": "Study of intercultural communication in domestic and global contexts. Examines how differing cultures, languages, and social patterns influence the way members of groups relate among themselves and with members of other ethnic and cultural groups. Emphasizes development of interpersonal skills for communicating effectively across cultures and encourages appreciation of diverse cultural voices. As an honors course students will be expected to complete additional assignments to gain deeper insight in Intercultural Studies with an emphasis on interdisciplinary connections with Communication Studies.",
     "prerequisites": "None"
   },
   {
@@ -6837,6 +7691,13 @@
     "units": "3.0",
     "description": "Fundamentals in feature writing for newspapers, magazines, and other media with instruction and practice in profile, human interest, enterprise news, and opinion features. Practical experience in interviewing, writing special story types and revising.",
     "prerequisites": "ENGL C1000 or ENGL C1000H or ESL 5"
+  },
+  {
+    "code": "JOUR 361A",
+    "title": "Student News Media\nProduction I",
+    "units": "0.0",
+    "description": "This course allows students to gain practical experience in creating basic news and feature content as members of the college newspaper, magazine or online media staff.",
+    "prerequisites": "None"
   },
   {
     "code": "JOUR 50",
@@ -7196,6 +8057,27 @@
     "prerequisites": "KNES 1C or KNES 1CX, or permission of instructor"
   },
   {
+    "code": "KNES 30A",
+    "title": "Beginning Golf",
+    "units": "0.5",
+    "description": "An introduction to the discipline of Kinesiology through the sport of golf. Includes a global and historical examination of the sport, rules, equipment, facilities, etiquette, safety, and basic fundamentals of beginning golf. Students will develop skills in putting, chipping, pitching, and full swing fundamentals utilizing basic theories of physics. The skills portion of the course will encourage an understanding of how to adapt to the game and conventional techniques to an individual's physical abilities. Students will apply basic exercise physiology, nutrition, flexibility and strength concepts to improve their overall playing level.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "KNES 30B",
+    "title": "Advanced Beginning Golf",
+    "units": "0.5",
+    "description": "An introduction to the discipline of Kinesiology through the sport of golf at the advanced beginning level. Includes a global and historical examination of the sport, rules, equipment, facilities, etiquette, and safety. The skills portion of the course will focus on mid irons (5, 6 and 7, 8, 9, and putter) and will include approach shots to the green including 3/4 swing, 1/2 swing, and various other chipping shots. The student will also be required to complete practice sessions at a local driving range.",
+    "prerequisites": "KNES 30A or permission of instructor"
+  },
+  {
+    "code": "KNES 30C",
+    "title": "Intermediate Golf",
+    "units": "0.5",
+    "description": "An introduction to the discipline of Kinesiology through the sport of golf. Includes an historical examination, styles of play and strategies of the sport of men's and women's golf. Students will strive to develop intermediate skills in putting, chipping, pitching, unusual lies and full swing fundamentals utilizing theories of physics. An understanding of mental strategies as they apply to playing a round game will be addressed. Variations in concepts due to age, gender, and physical conditions will be noted. Exercise physiology, nutrition, flexibility and strength concepts for conditioning will be covered.",
+    "prerequisites": "KNES 30B or KNES 30BX, or permission of instructor"
+  },
+  {
     "code": "KNES 31A",
     "title": "Beginning\nBadminton",
     "units": "0.5",
@@ -7378,6 +8260,13 @@
     "prerequisites": "KNES 39B or KNES 39BX, or permission of instructor"
   },
   {
+    "code": "KNES 40A",
+    "title": "Flag Football 1",
+    "units": "0.5",
+    "description": "An introduction to the discipline of kinesiology through the game of flag football. This is an introductory course designed to give students the opportunity to review and practice the basic fundamental skills relative to the game of flag football. Basic physiology, nutrition, strength, and flexibility concepts will be discussed.",
+    "prerequisites": "None"
+  },
+  {
     "code": "KNES 40B",
     "title": "Flag Football 2",
     "units": "0.5",
@@ -7392,6 +8281,13 @@
     "prerequisites": "KNES 40B or KNES 40BX"
   },
   {
+    "code": "KNES 41A",
+    "title": "Ultimate Frisbee 1",
+    "units": "0.5",
+    "description": "An introduction to the discipline of kinesiology through the sport of Ultimate Frisbee. Includes a global perspective and the contributions of both male and female Ultimate Frisbee experts and players. Emphasis will be placed in psychomotor, cognitive, and effective domains of the sport. There will be an introduction to the laws of the game, equipment, fair play, flexibility, nutrition, and the nuances of the game.",
+    "prerequisites": "None"
+  },
+  {
     "code": "KNES 41B",
     "title": "Ultimate Frisbee\n2",
     "units": "0.5",
@@ -7404,6 +8300,13 @@
     "units": "0.5",
     "description": "An advanced exploration into the discipline of Kinesiology through the sport of Ultimate Frisbee. Includes a global perspective and the contributions of both male and female Ultimate Frisbee experts and players. Emphasis will be placed in psychomotor, cognitive, and effective domains of the sport. There will be an introduction to the laws of the game, equipment, fair play, flexibility, nutrition, and the nuances of the game.",
     "prerequisites": "KNES 41B or KNES 41BX"
+  },
+  {
+    "code": "KNES 42C",
+    "title": "High Intensity Motor Training",
+    "units": "0.5",
+    "description": "An introduction to the discipline of Kinesiology through human motor development. Emphasis will be placed upon heart rate based Interval training. Peak and reserve rates will provide a backdrop for elevated motor training. Improved health and fitness will be the main focus for students whether novice or elite. Interaction will occur in a collaborative setting.",
+    "prerequisites": "None"
   },
   {
     "code": "KNES 45",
@@ -7518,6 +8421,13 @@
     "prerequisites": "None"
   },
   {
+    "code": "KNES 7A",
+    "title": "Step Aerobics",
+    "units": "0.5",
+    "description": "An introduction to the discipline of Physical Education through cardiovascular/aerobic exercise utilizing a step system to promote cardiorespiratory endurance through a variety of movements. Students will learn fundamental patterns and routines with popular music accompaniment. Global and historical review of the evolution of aerobic exercise, exercise trends for men, women and athletes will be discussed. Students will review and apply basic exercise physiology, nutrition and wellness concepts related to cardiovascular exercise, strength development and flexibility relative to age, gender, or physical limitations.",
+    "prerequisites": "None"
+  },
+  {
     "code": "KNES 90",
     "title": "Introduction to\nManual Therapy - Sports\nMedicine",
     "units": "5.0",
@@ -7560,11 +8470,25 @@
     "prerequisites": "KORE 1 (equivalent to one year of high school Korean) or equivalent"
   },
   {
+    "code": "KORE 2H",
+    "title": "Elementary Korean (Second\nQuarter) - HONORS",
+    "units": "5.0",
+    "description": "Further development of materials presented in KORE 1. Intensive oral practice broadening the language functions covered in KORE 1 and adding new ones. Greater emphasis on student generated discussion. More emphasis on cultural and historical background in the use of language. Written practice to further understanding of the underlying grammatical and syntactical structures for an extended range of basic/simple information relating to high-frequency situations. As an honors course the students will be expected to complete extra assignments to gain deeper insight in the Korean language and culture.",
+    "prerequisites": "KORE 1 (equivalent to one year of high school Korean) or equivalent"
+  },
+  {
     "code": "KORE 3",
     "title": "Elementary Korean\n(Third Quarter)",
     "units": "5.0",
     "description": "This course provides further development of materials presented in Elementary Korean (Second Quarter). The course focuses on greater structural accuracy and communicative competence for a more complex/abstract range of information relating to high-frequency situations. More opportunities will be provided to practice oral skill and written skills broadening the language functions covered in the second quarter course within the framework of language as a fundamental aspect of culture. Aspects of Korean culture and history are covered as well to better understanding through text and out-of-text authentic materials.",
     "prerequisites": "KORE 2 (equivalent to two years of high school Korean) or equivalent"
+  },
+  {
+    "code": "KORE 3H",
+    "title": "Elementary Korean (Third\nQuarter) - HONORS",
+    "units": "5.0",
+    "description": "Further development of materials presented in KORE 1 and KORE 2 (or KORE 2H). High beginning level language skills for oral and written communication in targeted language functions, with focus on greater structural accuracy and communicative competence for a more complex/abstract range of information relating to high frequency situations. Better understanding of the Korean culture through text and out-of-text authentic materials. As an honors course, the students will be expected to complete extra assignments to gain deeper insight in the Korean language and culture.",
+    "prerequisites": "KORE 2 or KORE 2H (equivalent to two years of high school Korean) or equivalent"
   },
   {
     "code": "KORE 4",
@@ -7592,6 +8516,13 @@
     "title": "Library Research Skills",
     "units": "1.0",
     "description": "The course introduces skills needed to locate, evaluate, and cite information. The course focuses on the resources of academic libraries including online catalogs, periodical indexes, and instructional websites. This course will prepare students to do the basic research necessary to effectively complete written and oral assignments.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "LIB 51",
+    "title": "Business Resources on the Internet",
+    "units": "1.0",
+    "description": "Locate, examine and evaluate business-related information available on the Internet.",
     "prerequisites": "None"
   },
   {
@@ -7763,6 +8694,27 @@
     "prerequisites": "MAND 5 or equivalent"
   },
   {
+    "code": "MATH 10",
+    "title": "Introductory Statistics",
+    "units": "5.0",
+    "description": "This course is an introduction to data analysis making use of graphical and numerical techniques to study patterns and departures from patterns. The student studies randomness with an emphasis on understanding variation, collects information in the face of uncertainty, checks distributional assumptions, tests hypotheses, uses probability as a tool for anticipating what the distribution of data may look like under a set of assumptions, and uses appropriate statistical models to draw conclusions from data. The course introduces the student to applications in engineering, business, economics, medicine, education, social sciences, psychology, the sciences, and those pertaining to issues of contemporary interest. The use of technology (computers or graphing calculators) will be required in certain applications. Where appropriate, the contributions to the development of statistics by men and women from diverse cultures will be introduced. This Statistics course is a required lower-division course for students majoring or minoring in many disciplines such as data science, nursing, business, and others.",
+    "prerequisites": "Intermediate algebra or equivalent (or higher), or appropriate placement beyond intermediate algebra"
+  },
+  {
+    "code": "MATH 109",
+    "title": "Intermediate Algebra for\nStatistics",
+    "units": "5.0",
+    "description": "Applications of linear and exponential functions. Emphasis on the development of models of real-world applications and interpretation of their characteristics. Introduction to discrete probability, and data analysis, making use of graphical and numerical techniques.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "MATH 10H",
+    "title": "Introductory Statistics -\nHONORS",
+    "units": "5.0",
+    "description": "This course is an introduction to data analysis making use of graphical and numerical techniques to study patterns and departures from patterns. The student studies randomness with an emphasis on understanding variation, collects information in the face of uncertainty, checks distributional assumptions, tests hypotheses, uses probability as a tool for anticipating what the distribution of data may look like under a set of assumptions, and uses appropriate statistical models to draw conclusions from data. The course introduces the student to applications in engineering, business, economics, medicine, education, social sciences, psychology, the sciences, and those pertaining to issues of contemporary interest. The use of technology (computers or graphing calculators) will be required in certain applications. Where appropriate, the contributions to the development of statistics by men and women from diverse cultures will be introduced. MATH 10 and therefore Math 10H is a required lower-division course for students majoring or minoring in many disciplines such as data science, nursing, business, and others. Because this is an honors course, the students will be expected to complete extra assignments to gain deeper insight into probability and statistics.",
+    "prerequisites": "Intermediate algebra or equivalent (or higher), or appropriate placement beyond intermediate algebra"
+  },
+  {
     "code": "MATH 11",
     "title": "Finite\nMathematics",
     "units": "5.0",
@@ -7789,6 +8741,13 @@
     "units": "5.0",
     "description": "This is an introduction to limits, differentiation, and integration of single and multivariate functions with applications in business, economics, and social sciences.",
     "prerequisites": "Intermediate algebra or equivalent (or higher), or appropriate placement beyond intermediate algebra"
+  },
+  {
+    "code": "MATH 130",
+    "title": "Intermediate Algebra for\nPrecalculus",
+    "units": "5.0",
+    "description": "Application of linear functions, quadratic functions, exponential functions, logarithmic functions and linear systems. Emphasis on the development of models of real-world applications and interpretation of their characteristics.",
+    "prerequisites": "None"
   },
   {
     "code": "MATH 17",
@@ -7896,6 +8855,20 @@
     "prerequisites": "None"
   },
   {
+    "code": "MATH 231A",
+    "title": "Algebra Support for\nPrecalculus I (Part 1)",
+    "units": "2.5",
+    "description": "A review of the core prerequisite skills, competencies, and concepts needed when studying polynomial and rational functions. Intended for majors in business, science, technology, engineering, and mathematics who are concurrently enrolled in Precalculus I.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "MATH 231B",
+    "title": "Algebra Support for\nPrecalculus I (Part 2)",
+    "units": "2.5",
+    "description": "A review of the core prerequisite skills, competencies, and concepts needed when studying exponential and logarithmic functions. Intended for majors in business, science, technology, engineering, and mathematics who are concurrently enrolled in Precalculus I.",
+    "prerequisites": "None"
+  },
+  {
     "code": "MATH 232",
     "title": "Algebra Support\nfor Precalculus II",
     "units": "2.5",
@@ -7938,11 +8911,39 @@
     "prerequisites": "MATH 1D or MATH 1DH (with a grade of C or better)"
   },
   {
+    "code": "MATH 309",
+    "title": "Intermediate Algebra for\nStatistics",
+    "units": "0.0",
+    "description": "This course covers applications of linear and exponential functions, with emphasis on developing models of real- world applications and interpretation of their characteristics, and an introduction to discrete probability and data analysis, using graphical and numerical techniques.",
+    "prerequisites": "None"
+  },
+  {
     "code": "MATH 31",
     "title": "Precalculus I",
     "units": "5.0",
     "description": "This course covers polynomial, rational, exponential, and logarithmic functions, graphs, solving equations, conic sections, systems of equations and inequalities.",
     "prerequisites": "Intermediate algebra or equivalent (or higher), or appropriate placement beyond intermediate algebra"
+  },
+  {
+    "code": "MATH 314",
+    "title": "College Math Preparation Level\n3: Intermediate Algebra",
+    "units": "0.0",
+    "description": "This course covers the application of exponential, logarithmic and rational functions, with emphasis on the development of models of real-world applications and interpretation of their characteristics.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "MATH 31A",
+    "title": "Precalculus I (Part 1)",
+    "units": "2.5",
+    "description": "This course covers linear, quadratic, power, absolute value, piecewise functions, graphs, solving equations and inequalities, solving systems of equations and inequalities.",
+    "prerequisites": "Intermediate algebra or equivalent (or higher), or appropriate placement beyond intermediate algebra"
+  },
+  {
+    "code": "MATH 31B",
+    "title": "Precalculus I (Part 2)",
+    "units": "2.5",
+    "description": "Polynomial, rational, exponential, and logarithmic functions, graphs, solving equations, conic sections.",
+    "prerequisites": "MATH 31A (with a grade of C or better)"
   },
   {
     "code": "MATH 31H",
@@ -7964,6 +8965,62 @@
     "units": "5.0",
     "description": "This course prepares students for calculus. Topics include extending the elementary functions of first-quarter precalculus to include the theory of periodic functions; composition of trigonometric functions with other elementary functions; polar co-ordinates; further exploration of the complex plane; introduction to the algebra of vectors. Because this is an honors course, students will be expected to complete extra assignments to gain deeper insight into precalculus.",
     "prerequisites": "MATH 31 or MATH 31H (with a grade of C or better); or a satisfactory score on college placement"
+  },
+  {
+    "code": "MATH 330",
+    "title": "Intermediate Algebra for\nPrecalculus",
+    "units": "0.0",
+    "description": "This course covers the application of linear functions, quadratic functions, exponential functions, logarithmic functions and linear systems, with an emphasis on the development of models of real-world applications and interpretation of their characteristics.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "MATH 410",
+    "title": "College Math Preparation Level\n1: Pre-Algebra",
+    "units": "0.0",
+    "description": "Topics include the use of basic arithmetic in application problems, estimation, the real number system, variables and linear equations, graphs of linear equations and the Cartesian coordinate system, and the concept of function.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "MATH 410X",
+    "title": "Support for Statistics",
+    "units": "0.0",
+    "description": "This is a review of core prerequisite skills, competencies, and concepts needed when studying probability and statistics, intended for students who are concurrently enrolled in Statistics.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "MATH 412",
+    "title": "College Math Preparation Level\n2: Beginning Algebra",
+    "units": "0.0",
+    "description": "Topics include the application of linear functions, quadratic functions, and linear systems to problems, with emphasis on the development of models of real-world applications and interpretation of their characteristics.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "MATH 431",
+    "title": "Algebra Support for Precalculus\nI",
+    "units": "0.0",
+    "description": "This course is a review of the core prerequisite skills, competencies, and concepts needed when studying polynomial and rational functions, intended for majors in business, science, technology, engineering, and mathematics who are concurrently enrolled in Precalculus I.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "MATH 431A",
+    "title": "Algebra Support for\nPrecalculus I (Part 1)",
+    "units": "0.0",
+    "description": "This course is a review of core prerequisite skills, competencies, and concepts needed when studying polynomial and rational functions, intended for majors in business, science, technology, engineering, and mathematics who are concurrently enrolled in Precalculus I.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "MATH 431B",
+    "title": "Algebra Support for\nPrecalculus I (Part 2)",
+    "units": "0.0",
+    "description": "This is a review of core prerequisite skills, competencies, and concepts needed when studying exponential and logarithmic functions, intended for majors in business, science, technology, engineering, and mathematics who are concurrently enrolled in Precalculus I.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "MATH 432",
+    "title": "Algebra Support for Precalculus\nII",
+    "units": "0.0",
+    "description": "This course is a review of core prerequisite skills, competencies, and concepts needed in studying the theory of trigonometric functions and their applications, intended for majors in business, science, technology, engineering, and mathematics who are concurrently enrolled in Precalculus II.",
+    "prerequisites": "None"
   },
   {
     "code": "MATH 44",
@@ -8358,6 +9415,27 @@
     "prerequisites": "Placement by audition based on the ability to play an instrument and read music. Entrance Skills (Student must audition or meet course prerequisite(s).) Repeatability (Satisfies the requirement of an associate degree music course. May be taken up to six times for credit.)"
   },
   {
+    "code": "MUSI 48A",
+    "title": "Jazz Improvisation I",
+    "units": "1.5",
+    "description": "Development of improvisational skill in the jazz idiom. Analysis of scales, chords, and forms as applicable to improvisational performance of basic standard jazz songs. Ear training and transcribing solos is included. Participation in final recital is required.",
+    "prerequisites": "Ability to play an instrument and read music."
+  },
+  {
+    "code": "MUSI 48B",
+    "title": "Jazz Improvisation II",
+    "units": "1.5",
+    "description": "Further development of improvisational skill in the jazz idiom. Higher level of difficulty in analysis of scales, chords, and forms applicable to improvisational performance of intermediate level jazz songs. Ear training and transcribing solos included. Participation in a final recital is required.",
+    "prerequisites": "MUSI 48A or by instructor consent"
+  },
+  {
+    "code": "MUSI 48C",
+    "title": "Jazz Improvisation III",
+    "units": "1.5",
+    "description": "Development of improvisational skill in the jazz idiom. More advanced analysis of scales, chords, and forms applicable to improvisational performance of advanced jazz songs. Ear training and transcribing solos is included. Participation in final recital is required.",
+    "prerequisites": "MUSI 48B or by instructor consent"
+  },
+  {
     "code": "MUSI 4A",
     "title": "Comprehensive\nMusicianship II (First\nQuarter)",
     "units": "4.0",
@@ -8412,6 +9490,20 @@
     "units": "3.0",
     "description": "This course serves as an Introduction to the business aspects of music. It examines the areas of copyright laws, publishing, concert promotion, club and record contracts, agents, managers, unions, and the various careers to be found in music. The course emphasis is on the commercial music field including music for film, television, sound recording, the record industry, and Internet applications.",
     "prerequisites": "None"
+  },
+  {
+    "code": "MUSI 58A",
+    "title": "Beginning African and African-\nInfluenced Percussion and Rhythms",
+    "units": "1.5",
+    "description": "An introduction to selected African, Afro-Caribbean and Latin American rhythms applied to hand drums, stick drums and percussion instruments. Each quarter focuses on one particular culture area and its traditional and popular music styles. No musical experience required. Instruments for in-class use provided.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "MUSI 58B",
+    "title": "Intermediate African and\nAfrican-Influenced Percussion and Rhythms",
+    "units": "1.5",
+    "description": "Intermediate-level skill development of selected African, Afro-Caribbean and Latin American rhythms applied to hand drums, stick drums and other percussion instruments. Each quarter focuses on one particular culture area and its traditional and popular music styles. Instruments for in-class use provided.",
+    "prerequisites": "MUSI 58A or equivalent level"
   },
   {
     "code": "MUSI 6A",
@@ -8946,6 +10038,13 @@
     "prerequisites": "None"
   },
   {
+    "code": "PARA 95",
+    "title": "Overview of American Law",
+    "units": "4.0",
+    "description": "Overview of the major substantive areas of American law: contracts, constitutional law, corporations, criminal law, family law, property, torts, wills and estates.",
+    "prerequisites": "None"
+  },
+  {
     "code": "PARA 96A",
     "title": "Introduction to\nLegal Research and Writing",
     "units": "4.0",
@@ -9436,6 +10535,13 @@
     "prerequisites": "None"
   },
   {
+    "code": "PEA 6Y",
+    "title": "Adapted Outdoor Education",
+    "units": "1.5",
+    "description": "A multifaceted course for students with disabilities seeking outdoor experiential education. Includes diverse experiences involving accessible activities including hiking, kayaking, white water rafting, camping, sailing, etc. Using adapted methodologies and wilderness safety, disabled students will experience survival techniques and investigate flora and fauna. Students with disabilities will experience personal fulfillment from being in an outdoor environment. Mental and physical strength will be tested. Adapted skills will be utilized.",
+    "prerequisites": "None"
+  },
+  {
     "code": "PERS 1",
     "title": "Elementary Persian\n(First Quarter)",
     "units": "5.0",
@@ -9611,6 +10717,62 @@
     "prerequisites": "PHTG 2 or PHTG 5 Repeatability (This course is included in the Photography - Professional Practices Family of activity courses. Please see the rules on \"Repeating Courses\" in the College Policies section of the catalog.)"
   },
   {
+    "code": "PHTG 301",
+    "title": "Basic Photography",
+    "units": "0.0",
+    "description": "This is an introduction to black and white photography, providing an overview of the 35mm single-lens reflex camera operating system. Students will gain a basic understanding of film processing, printing, and finishing while developing critical thinking skills to analyze historical, cultural, conceptual, and practical aspects of a medium used worldwide. The course is preparation for further work in photography including digital imaging.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "PHTG 303",
+    "title": "Advanced Photography",
+    "units": "0.0",
+    "description": "This course covers advanced photography in film or digital formats. Students will learn to capture, process and print technically and well-conceived images, and to organize and assemble a strong group of images that are conceptually strong and exhibit a distinct personal vision. Students will further refine their critical thinking skills to analyze historical, cultural, conceptual, and practical aspects of the photographic medium.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "PHTG 304",
+    "title": "Introduction to Digital\nPhotography",
+    "units": "0.0",
+    "description": "This is an introduction to digital photography and digital imaging processes. Students will gain proficiency in the use of a digital camera and explore the digital darkroom using Adobe Lightroom. They will build skills in digital print output for both fine art and commercial applications, while gaining knowledge of issues in contemporary photography and learning to analyze and discuss photographic imagery. Experience in basic beginning photography and wet darkroom practices is recommended.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "PHTG 305",
+    "title": "Intermediate Digital\nPhotography",
+    "units": "0.0",
+    "description": "This course provides further study of digital photography and digital imaging processes. Students will learn to gain greater control over the quality of digital images through shooting RAW, organization and development through Lightroom, and image editing with Photoshop. They will learn to create a workflow for producing high-quality prints while discussing and analyzing current trends in photography.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "PHTG 357A",
+    "title": "Commercial Lighting I",
+    "units": "0.0",
+    "description": "This course teaches students basic lighting skills while building an understanding of the use of artificial light sources and associated equipment in a studio environment. It also covers control of lighting ratios, contrast, texture and form, reflection, and exposure. Students will produce photographic images relevant to the techniques and production methods covered.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "PHTG 357B",
+    "title": "Commercial Lighting II",
+    "units": "0.0",
+    "description": "This course covers intermediate to advanced lighting skills. Students will learn complex lighting for reflective surfaces, commercial portraits, and exterior and interior architectural shooting. They will produce photographic images relevant to the techniques and production methods covered while gaining an understanding of commercial studio organization and operation.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "PHTG 358A",
+    "title": "Photographic Photoshop I",
+    "units": "0.0",
+    "description": "This is an introduction to digital imaging using Photoshop, including an overview of the Macintosh operating system and a basic understanding of image capture, input, storage, and output. Students will learn specific photographic methods and controls to create and manage imagery in an all-digital environment. The course also covers the development of critical thinking skills to analyze diverse cultural, intellectual, philosophical, ethical, and aesthetic concerns of the photographic medium as a part of new technologies.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "PHTG 358B",
+    "title": "Photographic Photoshop II",
+    "units": "0.0",
+    "description": "This course teaches students to refine their digital imaging skills using Photoshop while learning channel mixing, advanced layering, and masking techniques. Topics include color management, optimization of the toolbox, an introduction to large format printing, and the use of specific photographic methods and controls to create and manage imagery in an all-digital environment. Students will develop critical thinking skills to analyze diverse cultural, intellectual, philosophical, ethical, and aesthetic concerns of the digital photograph.",
+    "prerequisites": "None"
+  },
+  {
     "code": "PHTG 4",
     "title": "Introduction to\nDigital Photography",
     "units": "3.0",
@@ -9665,6 +10827,13 @@
     "units": "2.0",
     "description": "This is a supervised course in the use of a photographic studio, darkrooms, and/or photographic computer lab space.",
     "prerequisites": "PHTG 1 or PHTG 4 (may be taken concurrently)"
+  },
+  {
+    "code": "PHTG 60",
+    "title": "Using a Digital Camera",
+    "units": "2.0",
+    "description": "An online introduction to the fundamentals of digital photography; basic camera types, controls, image formats, storage, and creative controls will be covered. Technical and compositional exercises will provide a solid understanding of the photographic medium. PHYS - Physics Courses",
+    "prerequisites": "None"
   },
   {
     "code": "PHTG 7",
@@ -9758,6 +10927,13 @@
     "prerequisites": "None"
   },
   {
+    "code": "POLI 1",
+    "title": "American Government and Politics",
+    "units": "5.0",
+    "description": "Critical examination of the contemporary and historical struggle for the development of democratic political institutions in the United States at the state, local, and national levels. Particular emphasis given to the conflict between disparate socioeconomic groups in the conduct of U.S. political life (e.g. traditional elites versus the historically (and currently) disenfranchised-- women, people of color, workers, immigrants, etc.) and the interrelationship among social equity, democracy and sustainable environmental conditions.",
+    "prerequisites": "None"
+  },
+  {
     "code": "POLI 10",
     "title": "Introduction to\nAdministration of Justice",
     "units": "4.0",
@@ -9804,6 +10980,13 @@
     "title": "Grassroots\nDemocracy: Leadership and\nPower - HONORS",
     "units": "4.0",
     "description": "This course provides both applied and theoretical training for students of social justice. It serves as a multidisciplinary exploration of social change and popular democratic action, with a specific focus on understanding the meaning and development of political power in modern democracies. This course will explore gender and race-sensitive approaches to leadership style, the utilization of institutional and mass forums for civic engagement, strategies for mass recruitment and mobilization, consciousness development, democratic ethics, and strategic and tactical action.&nbsp;Furthermore, as an honors course, students are expected to complete additional assignments aimed at gaining deeper insight into the issues that are raised.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "POLI 1H",
+    "title": "American Government and\nPolitics - HONORS",
+    "units": "5.0",
+    "description": "Critical examination of the contemporary and historical struggle for the development of democratic political institutions in the United States at the state, local, and national levels. Particular emphasis given to the conflict between disparate socioeconomic groups in the conduct of U.S. political life (e.g. traditional elites versus the historically (and currently) disenfranchised-- women, people of color, workers, immigrants, etc.) and the interrelationship among social equity, democracy and sustainable environmental conditions. As an honors course, the students will be expected to complete extra assignments to gain a deeper insight in American Government and Politics.",
     "prerequisites": "None"
   },
   {
@@ -9898,6 +11081,20 @@
     "prerequisites": "None"
   },
   {
+    "code": "POLI 95",
+    "title": "Overview of American Law",
+    "units": "4.0",
+    "description": "Overview of the major substantive areas of American law: contracts, constitutional law, corporations, criminal law, family law, property, torts, wills and estates.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "PSYC 1",
+    "title": "General Psychology",
+    "units": "4.0",
+    "description": "This course examines the factors influencing human behavior including biological and neurological basis of behavior, gender, life span development, cognition and consciousness, attention, sensation, perception, learning, memory, intelligence, motivation, emotion, stress, personality, psychological disorders and psychotherapy, social psychology, and applied psychology.",
+    "prerequisites": "None"
+  },
+  {
     "code": "PSYC 10G",
     "title": "Child\nDevelopment (The Early\nYears)",
     "units": "4.0",
@@ -9972,6 +11169,20 @@
     "title": "Introduction to\nTheories of Personality",
     "units": "4.0",
     "description": "This course is a survey of major theories and concepts of personality. Topics include Freudian, neo-Freudian, interpersonal, dispositional, behavioral, and phenomenological theories.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "PSYC 51",
+    "title": "Psychology of Wellness",
+    "units": "4.0",
+    "description": "An exploration in the research,related concepts,factors and practices that contribute to overall health and wellness. It emphasizes holism: the physical, intellectual, emotional, social and spiritual components of wellness. It is interdisciplinary in nature drawing on source materials from positive, cross-cultural, clinical and health psychology, holistic health and neuroscience. The course will entail academic, experiential and interactive learning and requires students to actively engage in course material through reading, writing, participating in class and home practices and applying methods for improving well-being into their daily lives.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "PSYC 6",
+    "title": "Introduction to Humanistic\nPsychology",
+    "units": "4.0",
+    "description": "This is a survey of humanistic, existential- phenomenological psychology and Eastern thought. The course is a cross-cultural survey of humanistic personality principles including Western European existential-phenomenological psychology and the current and historical impact of Eastern thought.",
     "prerequisites": "None"
   },
   {
@@ -10059,6 +11270,48 @@
     "prerequisites": "None"
   },
   {
+    "code": "REST 350",
+    "title": "Real Estate Principles",
+    "units": "0.0",
+    "description": "This course teaches the fundamental principles of real estate, including economics, law, working concepts, forms, and terminology. It is a noncredit, tuition-free course that will be completed in the same class with REST D050. students covering the same course content. REST D350. is not CSU transferable and does not provide credit toward a degree. This course can be applied toward the educational requirements of the California Real Estate Salesperson and Broker license examinations.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "REST 351",
+    "title": "Real Estate Practices",
+    "units": "0.0",
+    "description": "This course focuses on real estate business practices including procedures, forms, and contracts. This noncredit, tuition-free course will cover the same course content as the credit version of this course. This course can be applied toward the educational requirements of the California Real Estate Salesperson and Broker license examinations. This course is not CSU transferable and does not provide credit toward a degree.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "REST 352A",
+    "title": "Legal Aspects of Real Estate",
+    "units": "0.0",
+    "description": "This course covers California real property laws with an emphasis on their practical application. Topics include sources of real estate law, classes of property, fixtures, easements, estates or interest in real property, contracts of sale, covenants, conditions, and restrictions. This noncredit, tuition-free course will cover the same course content as the credit version of this course. This course can be applied toward the educational requirements of the California Real Estate Salesperson and Broker license examinations. This course is not CSU transferable and does not provide credit toward a degree.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "REST 353",
+    "title": "Real Estate Finance",
+    "units": "0.0",
+    "description": "This course covers regulations and procedures for financing real estate. Topics include types of lenders, primary and secondary investors, and methods and guidelines for qualifying for real property loans. It is a noncredit, tuition-free course that will be completed in the same class as REST D053. students covering the same course content. REST D353. is not CSU transferable and does not provide credit toward a degree. This course can be applied toward the educational requirements of the California Real Estate Salesperson and Broker license examinations. See dre.ca.gov for current license requirements.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "REST 355",
+    "title": "Real Estate Property\nManagement",
+    "units": "0.0",
+    "description": "This course provides a practical approach for handling problems encountered by owners and managers of residential and income properties. Topics include client relationships, property inspection, scheduling maintenance, screening tenants, legal considerations, risk management, handling, and negotiating leases, staffing, marketing techniques, working relationships, financial reporting, record maintenance, and insurance. It is a noncredit, tuition-free course that will be completed in the same class as REST D055. students covering the same course content. REST D355. is not CSU transferable and does not provide credit toward a degree. This course can be applied toward the educational requirements of the California Real Estate Salesperson and Broker license examinations. See dre.ca.gov for current license requirements.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "REST 361",
+    "title": "Real Estate Investments",
+    "units": "0.0",
+    "description": "This real estate investments course explores investments in apartments, commercial and industrial buildings. Topics include capital gains calculations, tax implications, installment sale methods, tax-deferred exchange, appraisal methods, financing, leases, and land development and syndication. It is a noncredit, tuition-free course that will be completed in the same class as REST D061. students covering the same course content. REST D361. is not CSU transferable and does not provide credit toward a degree. This course may not apply to the DRE Salesperson license.",
+    "prerequisites": "None"
+  },
+  {
     "code": "REST 50",
     "title": "Real Estate\nPrinciples",
     "units": "4.0",
@@ -10143,6 +11396,20 @@
     "prerequisites": "SIGN 2 or equivalent SKIL - Skills Courses"
   },
   {
+    "code": "SKIL 232",
+    "title": "Adjunct Study Skills",
+    "units": "0.5",
+    "description": "Introductory small group collaborative instruction linked to specific content courses and individualized study skills lab modules. Student must be concurrently enrolled in an approved content course. Students learn, practice, and apply to targeted courses skills such as time management, textbook reading, note taking, and test taking.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "SKIL 233",
+    "title": "Adjunct Study Skills Practice",
+    "units": "0.5",
+    "description": "Additional practice in small group collaborative instruction linked to specific content courses and individualized study skills lab modules. Student must be enrolled in an approved content course. Students advance, practice, and apply to targeted courses skills such as time management, textbook reading, note taking, and test taking. SOC - Sociology Courses",
+    "prerequisites": "None"
+  },
+  {
     "code": "SKIL 50",
     "title": "How to Succeed in\nan Online Class",
     "units": "1.0",
@@ -10224,6 +11491,13 @@
     "title": "Youth and the Law",
     "units": "4.0",
     "description": "A legal and sociological approach to understanding the causes of juvenile delinquency; an examination of race, culture, and gender in juvenile delinquency; community responses to delinquency; organization, functions, and jurisdiction of both social and legal agencies; processing and detention; case disposition; statutes and court procedures.",
+    "prerequisites": "None"
+  },
+  {
+    "code": "SOC 73",
+    "title": "Crime and Criminology",
+    "units": "4.0",
+    "description": "This course introduces the major types of crime and criminal behavior, examining demographics and measurement of crime, theories of causation and victimization, crime prevention, and crime control.",
     "prerequisites": "None"
   },
   {
