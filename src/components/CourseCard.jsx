@@ -1,6 +1,7 @@
 import PrereqDecoder from './PrereqDecoder';
+import PrereqForDecoder from './PrereqForDecoder';
 
-export default function CourseCard({ course }) {
+export default function CourseCard({ course, prereqFor }) {
   return (
     <div className="w-full bg-white border border-gray-300 mb-4 rounded-md overflow-hidden shadow-sm hover:shadow-md transition-shadow">
       {/* Header aligned with Mission College's style */}
@@ -14,12 +15,15 @@ export default function CourseCard({ course }) {
       </div>
       
       {/* Body */}
-      <div className="p-5">
-        <p className="text-gray-700 text-sm leading-relaxed max-w-4xl">
+      <div className="p-5 flex flex-col h-full">
+        <p className="text-gray-700 text-sm leading-relaxed max-w-4xl flex-grow">
           {course.description}
         </p>
         
-        <PrereqDecoder prereqString={course.prerequisites} />
+        <div className="flex flex-col sm:flex-row sm:gap-6 mt-auto">
+          <PrereqDecoder prereqString={course.prerequisites} />
+          <PrereqForDecoder prereqForList={prereqFor} />
+        </div>
       </div>
     </div>
   );

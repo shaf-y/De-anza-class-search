@@ -9,9 +9,10 @@ export default function PrereqDecoder({ prereqString }) {
     return null;
   }
 
-  // Basic parser to split conditions by "or", "and", ","
+  // Basic parser to split conditions by ";" or "." 
+  // We no longer split on "or" and "and" because it breaks natural language logic groupings.
   const conditions = prereqString
-    .split(/\b(?:or|and)\b|;|,/)
+    .split(/;|\.\s+(?=[A-Z])/)
     .map((c) => c.trim())
     .filter((c) => c.length > 0);
 

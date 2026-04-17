@@ -22,6 +22,22 @@ function App() {
     });
   }, []);
 
+  const prereqForMap = useMemo(() => {
+    const mapping = {};
+    classesData.forEach(c => mapping[c.code] = []);
+    
+    classesData.forEach(c => {
+      if (c.prerequisites && c.prerequisites !== 'None') {
+        classesData.forEach(potential => {
+          if (c.prerequisites.includes(potential.code)) {
+            mapping[potential.code].push(c.code);
+          }
+        });
+      }
+    });
+    return mapping;
+  }, []);
+
   useEffect(() => {
     if (query.trim().length === 0) {
       setResults(classesData.slice(0, 50)); // default show 50
@@ -80,7 +96,7 @@ function App() {
         
         {/* Results List */}
         <div className="bg-gray-100 p-2 md:p-4 rounded-lg border border-gray-200">
-          <CourseList courses={results} />
+          <CourseList courses={results} prereqForMap={prereqForMap} />
         </div>
         
       </main>

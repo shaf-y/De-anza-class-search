@@ -1,6 +1,6 @@
 import CourseCard from './CourseCard';
 
-export default function CourseList({ courses }) {
+export default function CourseList({ courses, prereqForMap }) {
   if (!courses || courses.length === 0) {
     return (
       <div className="text-center py-12 bg-white rounded-md border border-gray-200">
@@ -13,7 +13,7 @@ export default function CourseList({ courses }) {
   return (
     <div className="flex flex-col space-y-0">
       {courses.map((course, idx) => (
-        <CourseCard key={course.code + idx} course={course} />
+        <CourseCard key={course.code + idx} course={course} prereqFor={prereqForMap?.[course.code] || []} />
       ))}
     </div>
   );
