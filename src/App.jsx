@@ -1,5 +1,6 @@
 import { useState, useMemo, useEffect } from 'react';
 import Fuse from 'fuse.js';
+import { Analytics } from '@vercel/analytics/react';
 import SearchBar from './components/SearchBar';
 import CourseList from './components/CourseList';
 import classesData from './data/classes.json';
@@ -55,6 +56,7 @@ function App() {
 
   return (
     <div className="min-h-screen flex flex-col bg-gray-50">
+      <Analytics />
       {/* Top Banner (Header) */}
       <header className="bg-da-burgundy text-white w-full border-b-[6px] border-da-gold shadow-md">
         <div className="max-w-6xl mx-auto px-4 py-6 md:py-8 lg:px-8">
