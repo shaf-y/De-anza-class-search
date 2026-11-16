@@ -1,5 +1,6 @@
 import { useState, useMemo, useEffect } from 'react';
 import Fuse from 'fuse.js';
+import { Analytics } from '@vercel/analytics/react';
 import SearchBar from './components/SearchBar';
 import CourseList from './components/CourseList';
 import classesData from './data/classes.json';
@@ -106,6 +107,7 @@ function App() {
         <p>© {new Date().getFullYear()} De Anza College</p>
         <p className="mt-1">Class Search UI designed for Institutional Clarity</p>
       </footer>
+      <Analytics />
     </div>
   );
 }
